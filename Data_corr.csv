@@ -1,0 +1,167 @@
+﻿Sample Number,Dhaka_Cox,Division,Ph,Temperature,Characteristics,Characteristics,Latitute_Longitude,District,Source,Cy5(1),FAM(1),Rox(1),District,Source,Cy5(2),FAM(2),Rox(2)
+Sample-1,,Mymensing,6.9,,,,,Mymensing,Isolation Center Drain Effluent,,,34.35,Mymensing,Isolation Center Drain Effluent,,33.65,32.13
+Sample-2,,Mymensing,6.8,30.1,,,,Mymensing,Sadar Hospital Drain Effluent,,37.12,35.47,Mymensing,Sadar Hospital Drain Effluent,35.44,34.32,33.67
+Sample-3,,Mymensing,6.9,28.5,,,,Mymensing,Medical College Drain Wastage,,,34.1,Mymensing,Medical College Drain Wastage,,36.35,33.68
+Sample-4,,Mymensing,7.8,29.5,,,,Mymensing,Community Drain Effluent,36.79,,,Mymensing,Community Drain Effluent,,,37.44
+Sample-5,,Mymensing,6.8,32.6,,,,Mymensing,City Drain Effluent,,,,Mymensing,City Drain Effluent,,35.7,37.33
+Sample-6,,Mymensing,7.5,30.1,,,,Mymensing,Bus Stand Drain Effluent,35.58,36.41,37.92,Mymensing,Bus Stand Drain Effluent,36.52,35.44,36.22
+Sample-8,,Mymensing,7.2,29.9,,,,Mymensing,Pond/River,,36.12,,Mymensing,Pond/River,,37.46,35.45
+Sample-10,,Sylhet,6.7,30.2,,,,Sylhet,Isolation Center Drain Effluent,37.09,37.21,,Sylhet,Isolation Center Drain Effluent,36.42,35.53,35.64
+Sample-11,,Sylhet,6.8,29.8,,,,Sylhet,Sadar Hospital Drain Effluent,,36.12,37.36,Sylhet,Sadar Hospital Drain Effluent,,37.37,36.34
+Sample-12,,Sylhet,6.9,27.9,,,,Sylhet,Medical College Drain Wastage,,34.13,36.54,Sylhet,Medical College Drain Wastage,37.32,35.34,37.32
+Sample-13,,Sylhet,8.2,28.4,,,,Sylhet,Community Drain Effluent,,,34.72,Sylhet,Community Drain Effluent,,37.23,36.34
+Sample-14,,Sylhet,6.5,23.01,,,,Sylhet,City Drain Effluent,37.62,29.56,33.22,Sylhet,City Drain Effluent,38.43,37.22,38.42
+Sample-15,,Sylhet,,,,,,Sylhet,Bus Stand Drain Effluent,,,,Sylhet,Bus Stand Drain Effluent,,,
+Sample-16,,Sylhet,,,,,,Sylhet,Rail Station Drain Effluent,,,,Sylhet,Rail Station Drain Effluent,,,
+Sample-17,,Sylhet,6.7,29.8,,,,Sylhet,Pond/River,36.29,38.81,36.7,Sylhet,Pond/River,38.4,36.53,
+Sample-18,,Sylhet,,,,,,Sylhet,Prison Drain Effluent,,,,Sylhet,Prison Drain Effluent,,,
+Sample-19,,Rajshahi,6.8,29.8,,,,Rajshahi,Isolation Center Drain Effluent,,36.49,34.13,Rajshahi,Isolation Center Drain Effluent,37.12,35.44,37.84
+Sample-20,,Rajshahi,6.7,31.4,,,,Rajshahi,Sadar Hospital Drain Effluent,,38.2,36.4,Rajshahi,Sadar Hospital Drain Effluent,,36.42,39.23
+Sample-21,,Rajshahi,6.6,31.4,,,,Rajshahi,Medical College Drain Wastage,35.57,37.03,,Rajshahi,Medical College Drain Wastage,38.87,37.76,36.32
+Sample-22,,Rajshahi,7.5,31.6,,,,Rajshahi,Community Drain Effluent,,38.95,34.43,Rajshahi,Community Drain Effluent,,,38.64
+Sample-23,,Rajshahi,7.6,29.5,,,,Rajshahi,City Drain Effluent,35.57,,,Rajshahi,City Drain Effluent,,38.39,
+Sample-24,,Rajshahi,,,,,,Rajshahi,Bus Stand Drain Effluent,,,,Rajshahi,Bus Stand Drain Effluent,,,
+Sample-25,,Rajshahi,,,,,,Rajshahi,Rail Station Drain Effluent,,,,Rajshahi,Rail Station Drain Effluent,,,
+Sample-26,,Rajshahi,,,,,,Rajshahi,Pond/River,,,,Rajshahi,Pond/River,,,
+Sample-27,,Rajshahi,7.3,29.6,,,,Rajshahi,Prison Drain Effluent,,35.5,33.17,Rajshahi,Prison Drain Effluent,37.61,36.42,
+Sample-28,,Rangpur,7.1,29.5,,,,Rangpur,Isolation Center Drain Effluent,,36.05,29.5,Rangpur,Isolation Center Drain Effluent,,39.33,37.82
+Sample-29,,Rangpur,6.8,30.8,,,,Rangpur,Sadar Hospital Drain Effluent,,37.65,,Rangpur,Sadar Hospital Drain Effluent,,39.73,
+Sample-30,,Rangpur,6.4,25.6,,,,Rangpur,Medical College Drain Wastage,,32.91,37.6,Rangpur,Medical College Drain Wastage,38.28,,36.38
+Sample-31,,Rangpur,7.1,28.9,,,,Rangpur,Community Drain Effluent,35.69,34.75,34.41,Rangpur,Community Drain Effluent,38.63,,37.19
+Sample-32,,Rangpur,7.2,22.9,,,,Rangpur,City Drain Effluent,,27.15,,Rangpur,City Drain Effluent,,38.73,39.33
+Sample-33,,Rangpur,,,,,,Rangpur,Bus Stand Drain Effluent,,,,Rangpur,Bus Stand Drain Effluent,,,
+Sample-34,,Rangpur,,,,,,Rangpur,Rail Station Drain Effluent,,,,Rangpur,Rail Station Drain Effluent,,,
+Sample-35,,Rangpur,,,,,,Rangpur,Pond/River,,,,Rangpur,Pond/River,,,
+Sample-36,,Rangpur,7.4,31.2,,,,Rangpur,Prison Drain Effluent,,39.04,,Rangpur,Prison Drain Effluent,,,
+Sample-37,,Rangpur,7.2,22.1,,,,Gaibandha,Isolation Center Drain Effluent,25.45,,34.48,Gaibandha,Isolation Center Drain Effluent,,36.83,37.36
+Sample-38,,Rangpur,6.8,24.8,,,,Gaibandha,Sadar Hospital Drain Effluent,38.96,32.08,36.8,Gaibandha,Sadar Hospital Drain Effluent,,36.81,37.36
+Sample-39,,Rangpur,6.3,23.6,,,,Gaibandha,SKS Hospital,35.48,30.69,30.72,Gaibandha,SKS Hospital,38.65,,36.38
+Sample-40,,Rangpur,6.5,28.7,,,,Gaibandha,Community Drain Effluent,38.73,34.48,,Gaibandha,Community Drain Effluent,,38,37.35
+Sample-41,,Rangpur,7.8,28.8,,,,Gaibandha,City Drain Effluent,38.37,34.48,37.4,Gaibandha,City Drain Effluent,,38.32,
+Sample-42,,Rangpur,6.4,,,,,Gaibandha,Bus Stand Drain Effluent,34.48,,37.23,Gaibandha,Bus Stand Drain Effluent,,,
+Sample-43,,Rangpur,,,,,,Gaibandha,Rail Station Drain Effluent,,,,Gaibandha,Rail Station Drain Effluent,,,
+Sample-44,,Rangpur,,,,,,Gaibandha,Pond/River,,,,Gaibandha,Pond/River,,,
+Sample-45,,Rangpur,,,,,,Gaibandha,Prison Drain Effluent,,,,Gaibandha,Prison Drain Effluent,,,
+,Dhaka,Dhaka,7.5,29.6,,,,Dhaka,Mohammadpur 1,38.44,36.08,34.12,Dhaka,Mohammadpur 1,37.42,35.32,
+,Dhaka,Dhaka,7.4,30.4,,,,Dhaka,Mohammadpur 2,37.24,,37.42,Dhaka,Mohammadpur 2,,36.6,37.72
+,Dhaka,Dhaka,7.3,29.4,,,,Dhaka,Mohammadpur 3,36.21,34.43,37.41,Dhaka,Mohammadpur 3,,36.54,33.78
+,Dhaka,Dhaka,8.7,30.4,,,,Dhaka,Mirpur Slum 1,,,37.48,Dhaka,Mirpur Slum 1,37.6,,37.54
+,Dhaka,Dhaka,8.5,30.4,,,,Dhaka,Mirpur Slum 2,34.74,36.66,35.44,Dhaka,Mirpur Slum 2,38.51,35.22,
+,Dhaka,Dhaka,8.3,28.3,,,,Dhaka,Mirpur Slum 3,35.81,,,Dhaka,Mirpur Slum 3,35,38.75,39.32
+,Dhaka,Dhaka,8.2,30.6,,,,Dhaka,korail slum 1,,37.58,37.42,Dhaka,korail slum 1,35.65,,36.74
+,Dhaka,Dhaka,8.5,30.6,,,,Dhaka,korail slum 2,32.31,,37.42,Dhaka,korail slum 2,,38.2,36.43
+,Dhaka,Dhaka,8.1,30.7,,,,Dhaka,korail slum 3,,37.41,34.42,Dhaka,korail slum 3,39.7,33.76,
+,Dhaka,Dhaka,7.7,29.5,,,,Dhaka,Kurmitola General Hospital,32.57,,35.42,Dhaka,Kurmitola General Hospital,,37.42,
+,Dhaka,Dhaka,7.5,26.6,,,,Dhaka,Kurmitola General Hospital,31.17,33.34,36.37,Dhaka,Kurmitola General Hospital,34,,33.64
+,Dhaka,Dhaka,6.9,28.4,,,,Dhaka,Kurmitola General Hospital,30.72,34.37,,Dhaka,Kurmitola General Hospital,36.73,,
+,Dhaka,Dhaka,6.6,24.9,,,,Dhaka,Mugdha Medical College and Hospital,,32.12,37.24,Dhaka,Mugdha Medical College and Hospital,,34.32,31.31
+,Dhaka,Dhaka,7.2,29.3,,,,Dhaka,Mugdha Medical College and Hospital,38.04,,33.11,Dhaka,Mugdha Medical College and Hospital,31.87,,33.75
+,Dhaka,Dhaka,6.9,29.1,,,,Dhaka,Mugdha Medical College and Hospital,,37.41,36.44,Dhaka,Mugdha Medical College and Hospital,38.51,,
+,Dhaka,Dhaka,6.9,30.5,,,,Dhaka,Kuwait Moitri Hospital,,37.61,36.45,Dhaka,Kuwait Moitri Hospital,,,36.31
+,Dhaka,Dhaka,6.8,24.9,,,,Dhaka,kuwait Moitri Hospital,31.31,,33.37,Dhaka,kuwait Moitri Hospital,,33.33,31
+,Dhaka,Dhaka,6.9,31.8,,,,Dhaka,kuwait Moitri Hospital,,37.56,36.2,Dhaka,kuwait Moitri Hospital,,,33.51
+,,Barisal,7.3,26.7,,,,Barisal,Isolation Center Drain Effluent,35.4,33.2,32.6,Barisal,Isolation Center Drain Effluent,36.24,37.23,
+,,Barisal,6.9,31.1,,,,Barisal,Sadar Hospital Drain Effluent,39.48,37.4,35.21,Barisal,Sadar Hospital Drain Effluent,,37.32,35.56
+,,Barisal,6.4,27.5,,,,Barisal,Medical College Drain Wastage,36,,32.45,Barisal,Medical College Drain Wastage,37,,36.7
+,,Barisal,6.6,28.5,,,,Barisal,Community Drain Effluent,37.56,,36.34,Barisal,Community Drain Effluent,36.3,35.7,
+,,Barisal,6.8,28.4,,,,Barisal,City Drain Effluent,37.5,35.4,32.14,Barisal,City Drain Effluent,39.4,38.4,
+,,Barisal,6.7,29.7,,,,Barisal,Bus Stand Drain Effluent,38.56,,,Barisal,Bus Stand Drain Effluent,,34.5,
+,,Barisal,,,,,,Barisal,Rail Station Drain Effluent,,,,Barisal,Rail Station Drain Effluent,,,
+,,Barisal,,,,,,Barisal,Pond/River,,,,Barisal,Pond/River,,,
+,,Barisal,,,,,,Barisal,Prison Drain Effluent,,,,Barisal,Prison Drain Effluent,,,
+,,Chittagong,6.8,22.9,,,,Chittagong,Isolation Center Drain Effluent,32.28,26.14,26.28,Chittagong,Isolation Center Drain Effluent,38.2,35.4,37
+,,Chittagong,6.3,22.9,,,,Chittagong,Sadar Hospital Drain Effluent,28.18,34.83,33.37,Chittagong,Sadar Hospital Drain Effluent,,32.75,38.4
+,,Chittagong,6.4,25.1,,,,Chittagong,Medical College Drain Wastage,,32.72,35.71,Chittagong,Medical College Drain Wastage,36.32,,35
+,,Chittagong,6.7,27.5,,,,Chittagong,Community Drain Effluent,,,34.62,Chittagong,Community Drain Effluent,,37.5,
+,,Chittagong,6.9,28.5,,,,Chittagong,City Drain Effluent,37.21,34.43,37.11,Chittagong,City Drain Effluent,,,33.21
+,,Chittagong,,,,,,Chittagong,Bus Stand Drain Effluent,,,,Chittagong,Bus Stand Drain Effluent,,,
+,,Chittagong,,,,,,Chittagong,Rail Station Drain Effluent,,,,Chittagong,Rail Station Drain Effluent,,,
+,,Chittagong,,,,,,Chittagong,Pond/River,,,,Chittagong,Pond/River,,,
+,,Chittagong,,,,,,Chittagong,Prison Drain Effluent,,,,Chittagong,Prison Drain Effluent,,,
+,,Khulna,7.2,28.2,,,,Khulna,Isolation Center Drain Effluent,36.13,34.35,35.17,Khulna,Isolation Center Drain Effluent,37.56,35.55,
+,,Khulna,7.1,29.5,,,,Khulna,Sadar Hospital Drain Effluent,,37.33,38.75,Khulna,Sadar Hospital Drain Effluent,,,34.76
+,,Khulna,7.5,27.9,,,,Khulna,Medical College Drain Wastage,37.94,34.32,,Khulna,Medical College Drain Wastage,,35.42,36.5
+,,Khulna,6.8,30.2,,,,Khulna,Community Drain Effluent,38.6,37.68,,Khulna,Community Drain Effluent,34.5,36.73,
+,,Khulna,6.9,30.5,,,,Khulna,City Drain Effluent,32.6,,36.2,Khulna,City Drain Effluent,38.76,39.6,
+,,Khulna,,,,,,Khulna,Bus Stand Drain Effluent,,,,Khulna,Bus Stand Drain Effluent,,,
+,,Khulna,,,,,,Khulna,Rail Station Drain Effluent,,,,Khulna,Rail Station Drain Effluent,,,
+,,Khulna,,,,,,Khulna,Pond/River,,,,Khulna,Pond/River,,,
+,,Khulna,,,,,,Khulna,Prison Drain Effluent,,,,Khulna,Prison Drain Effluent,,,
+,Cox's Bazar ,Chittagong,6.8,26.9,,,,Cox's Bazar ,Isolation Center Drain Effluent,34.72,33.36,37.4,Cox's Bazar ,Isolation Center Drain Effluent,33.14,32.12,35.27
+,Cox's Bazar ,Chittagong,6.7,30.4,,,,Cox's Bazar ,Sadar Hospital Drain Effluent,38.4,,37.48,Cox's Bazar ,Sadar Hospital Drain Effluent,36.31,,35.21
+,Cox's Bazar ,Chittagong,7.1,29.9,,,,Cox's Bazar ,Medical College Drain Wastage,,,,Cox's Bazar ,Medical College Drain Wastage,,35.65,
+,Cox's Bazar ,Chittagong,6.9,32.1,,,,Cox's Bazar ,Community Drain Effluent,36.7,,37.8,Cox's Bazar ,Community Drain Effluent,35.21,,35.31
+,Cox's Bazar ,Chittagong,7,29.5,,,,Cox's Bazar ,City Drain Effluent,,34.32,33.44,Cox's Bazar ,City Drain Effluent,,32.21,
+,Cox's Bazar ,Chittagong,,,,,,Cox's Bazar ,Bus Stand Drain Effluent,,,,Cox's Bazar ,Bus Stand Drain Effluent,,,
+,Cox's Bazar ,Chittagong,,,,,,Cox's Bazar ,Rail Station Drain Effluent,,,,Cox's Bazar ,Rail Station Drain Effluent,,,
+,Cox's Bazar ,Chittagong,,,,,,Cox's Bazar ,Pond/River,,,,Cox's Bazar ,Pond/River,,,
+,Cox's Bazar ,Chittagong,,,,,,Cox's Bazar ,Prison Drain Effluent,,,,Cox's Bazar ,Prison Drain Effluent,,,
+,,Chittagong,6.8,29.9,,,,comilla,Isolation Center Drain Effluent,34.13,36.8,38.12,comilla,Isolation Center Drain Effluent,37.46,36.23,
+,,Chittagong,6.7,30.3,,,,comilla,Sadar Hospital Drain Effluent,32.52,37.48,35.56,comilla,Sadar Hospital Drain Effluent,37,,37.4
+,,Chittagong,7.3,29.4,,,,comilla,Medical College Drain Wastage,32.49,,37.48,comilla,Medical College Drain Wastage,37.83,38.74,
+,,Chittagong,6.5,28.5,,,,comilla,Community Drain Effluent,38.47,36.62,,comilla,Community Drain Effluent,37.54,39.45,
+,,Chittagong,7.3,30.4,,,,comilla,City Drain Effluent,,37.4,39.48,comilla,City Drain Effluent,,,34.4
+,,Chittagong,,,,,,comilla,Bus Stand Drain Effluent,,,,comilla,Bus Stand Drain Effluent,,,
+,,Chittagong,,,,,,comilla,Rail Station Drain Effluent,,,,comilla,Rail Station Drain Effluent,,,
+,,Chittagong,,,,,,comilla,Pond/River,,,,comilla,Pond/River,,,
+,,Chittagong,,,,,,comilla,Prison Drain Effluent,,,,comilla,Prison Drain Effluent,,,
+,,Dhaka,7.3,29.4,,,,Kishorgonj,Isolation Center Drain Effluent,37.28,,36.48,Kishorgonj,Isolation Center Drain Effluent,36.7,39.65,32.32
+,,Dhaka,7.2,29.6,,,,Kishorgonj,Sadar Hospital Drain Effluent,37.58,38.4,,Kishorgonj,Sadar Hospital Drain Effluent,,,37.21
+,,Dhaka,7.5,27.4,,,,Kishorgonj,Medical College Drain Wastage,36.49,34.4,,Kishorgonj,Medical College Drain Wastage,,38.65,36.38
+,,Dhaka,6.9,29.1,,,,Kishorgonj,Community Drain Effluent,39.28,38.27,,Kishorgonj,Community Drain Effluent,33.45,36.85,
+,,Dhaka,6.6,29.5,,,,Kishorgonj,City Drain Effluent,36.01,39.28,40,Kishorgonj,City Drain Effluent,35.76,,36.74
+,,Dhaka,,,,,,Kishorgonj,Bus Stand Drain Effluent,,,,Kishorgonj,Bus Stand Drain Effluent,,,
+,,Dhaka,,,,,,Kishorgonj,Rail Station Drain Effluent,,,,Kishorgonj,Rail Station Drain Effluent,,,
+,,Dhaka,,,,,,Kishorgonj,Pond/River,,,,Kishorgonj,Pond/River,,,
+,,Dhaka,,,,,,Kishorgonj,Prison Drain Effluent,,,,Kishorgonj,Prison Drain Effluent,,,
+Sample-2,Cox's Bazar ,Chittagong,7.9,29,Raw sample,Raw sample,,Rohinga Camp,Pipenetwork,38.1,38.11,38.53,Rohinga Camp,Pipenetwork,35.21,36.42,37.81
+Sample-3,Cox's Bazar ,Chittagong,7.8,32,Raw sludge,Raw sludge,,Rohinga Camp,Pipenetwork,,,,Rohinga Camp,Pipenetwork,,38.81,39.65
+Sample-4,Cox's Bazar ,Chittagong,7.5,26, Sludge Outlet(After Anaerobic Digetion), Sludge Outlet(After Anaerobic Digetion),,Rohinga Camp,Sludge Outlet,38.43,39.37,,Rohinga Camp,Sludge Outlet,38.54,,37.61
+Sample-5,Cox's Bazar ,Chittagong,7.8,26.4,Liquid Outlet(After Anaerobic Digetion),Liquid Outlet(After Anaerobic Digetion),,Rohinga Camp,Lagoon-2,38.3,37.89,,Rohinga Camp,Lagoon-2,37.12,36.5,
+Sample-6,Cox's Bazar ,Chittagong,7.7,28.6,Raw Solid,Raw Solid,,Rohinga Camp,Lagoon-1,37.67,38.15,,Rohinga Camp,Lagoon-1,38.31,36.11,36.23
+Sample-7,Cox's Bazar ,Chittagong,7.8,29.9,Liquid Outlet,Liquid Outlet,,Rohinga Camp,Lagoon-1,36.74,37.29,,Rohinga Camp,Lagoon-1,38.32,,
+Sample-8,Cox's Bazar ,Chittagong,7.2,30.9,,,,Rohinga Camp,Digest Bed-1,37.74,37.81,40.85,Rohinga Camp,Digest Bed-1,36.51,37.15,
+Sample-9,Cox's Bazar ,Chittagong,8,27.3,,,,Rohinga Camp,Upflow filter,37.54,38.34,,Rohinga Camp,Upflow filter,38.23,39.12,
+Sample-10,Cox's Bazar ,Chittagong,8.3,30.2,Dark ASH,Dark ASH,,Rohinga Camp,Outlet trickling filter,36.31,38.12,,Rohinga Camp,Outlet trickling filter,36.11,,37.21
+Sample-11,Cox's Bazar ,Chittagong,8.4,28,,,,Rohinga Camp,Maturation Pond,38.61,,,Rohinga Camp,Maturation Pond,36.42,37.41,
+Sample-12,Cox's Bazar ,Chittagong,7.5,26.5,,,,Rohinga Camp,Inlet,,,,Rohinga Camp,Inlet,38.41,,38.21
+Sample-13,Cox's Bazar ,Chittagong,12.5,30.5,,,,Rohinga Camp,Lime treated discharge,39.31,,,Rohinga Camp,Lime treated discharge,,37.12,
+Sample-14,Cox's Bazar ,Chittagong,,,,,,Rohinga Camp,Drain effluent,,,,Rohinga Camp,Drain effluent,,,
+Sample-15,Cox's Bazar ,Chittagong,6.6,27.5,,,,Rohinga Camp,Drinking Water tubewell fresh water,36.97,33.41,29.61,Rohinga Camp,Drinking Water tubewell fresh water,36.43,32.11,31.12
+Sample-16,Cox's Bazar ,Chittagong,6.8,29.9,,,,Rohinga Camp,Bathing outlet,36.37,35.69,32.69,Rohinga Camp,Bathing outlet,,,
+Sample-17,Cox's Bazar ,Chittagong,6.9,,,,,Rohinga Camp,"Primary outlet,household waste",,,,Rohinga Camp,"Primary outlet,household waste",,,
+Sample-18,Cox's Bazar ,Chittagong,6.4,,,,,Rohinga Camp,Household waste,,,,Rohinga Camp,Household waste,,34.31,
+Sample-19,Cox's Bazar ,Chittagong,6.8,30.5,,,,Rohinga Camp,Patient sample,36.29,36.09,36.79,Rohinga Camp,Patient sample,,,
+Sample-20,Cox's Bazar ,Chittagong,6.6,,,,,Rohinga Camp,Primary Health outlet,,,36,Rohinga Camp,Primary Health outlet,34.7,,
+Sample-21,Cox's Bazar ,Chittagong,6.8,,,,,Rohinga Camp,Drinking water primary Health Care,,,,Rohinga Camp,Drinking water primary Health Care,31.53,,
+Sample-22,Cox's Bazar ,Chittagong,6.9,26.41,,,,Rohinga Camp,Community used wastewater common sewer,32.27,36.43,37.96,Rohinga Camp,Community used wastewater common sewer,,36.31,
+Sample-23,Cox's Bazar ,Chittagong,6.5,28.1,,,,Rohinga Camp,Outlet from all community use,,36,,Rohinga Camp,Outlet from all community use,,33.21,31.41
+Sample-24,Cox's Bazar ,Chittagong,6.4,,,,,Rohinga Camp,Community Tubewell discharge,,,,Rohinga Camp,Community Tubewell discharge,36.8,,
+Sample-25,Cox's Bazar ,Chittagong,6.9,,,,,Rohinga Camp,Community Drinking water ,34.58,38.96,35.57,Rohinga Camp,Community Drinking water ,36.8,37.5,
+Sample-31,Cox's Bazar ,Chittagong,6.8,29.5,,,,Rohinga Camp,Hospital (PHD)Outlet,37.38,36.12,39.08,Rohinga Camp,Hospital (PHD)Outlet,,,32.52
+Sample-32,Cox's Bazar ,Chittagong,6.7,,,,,Rohinga Camp,Camp 4 outlet,35.15,,37.65,Rohinga Camp,Camp 4 outlet,,37.82,
+Sample-33,Cox's Bazar ,Chittagong,6.6,25.9,,,,Rohinga Camp,Camp 8 outlet,37.52,33.14,,Rohinga Camp,Camp 8 outlet,36.41,35.31,34.61
+Sample-34,Cox's Bazar ,Chittagong,6.8,,,,,Rohinga Camp,8 East Camp Community Drain Discharge,39.12,,36.49,Rohinga Camp,8 East Camp Community Drain Discharge,36.31,34.62,
+Sample-35,Cox's Bazar ,Chittagong,6.7,,,,,Rohinga Camp,Waste from a local shop,,,38.73,Rohinga Camp,Waste from a local shop,35.71,,35.21
+Sample-36,Cox's Bazar ,Chittagong,6.6,27.9,,,,Rohinga Camp,Drain outlet,27.88,34.32,,Rohinga Camp,Drain outlet,,35.54,
+Sample-37,Cox's Bazar ,Chittagong,6.8,27.9,,,,Rohinga Camp,Local Shop,38.49,34.27,,Rohinga Camp,Local Shop,36.12,,37.7
+Sample-38,Cox's Bazar ,Chittagong,6.9,29.4,,,,Rohinga Camp,Local Shop,37.8,36.32,39.23,Rohinga Camp,Local Shop,36.7,34.22,
+Sample-39,Cox's Bazar ,Chittagong,6.7,,,,,Rohinga Camp,Local Shop,,,,Rohinga Camp,Local Shop,,,
+,Cox's Bazar ,Chittagong,7.1,27.9,,,,Brahmonbaria,Isolation Center Drain Effluent,34.32,37.38,,Brahmonbaria,Isolation Center Drain Effluent,38.51,33.64,36.4
+,Cox's Bazar ,Chittagong,6.9,29.3,,,,Brahmonbaria,Sadar Hospital Drain Effluent,,37.4,32.34,Brahmonbaria,Sadar Hospital Drain Effluent,37.5,38.5,
+,Cox's Bazar ,Chittagong,6.8,29.8,,,,Brahmonbaria,Medical College Drain Wastage,,37.7,,Brahmonbaria,Medical College Drain Wastage,,35.87,
+,Cox's Bazar ,Chittagong,6.6,29.9,,,,Brahmonbaria,Community Drain Effluent,35.58,37.96,,Brahmonbaria,Community Drain Effluent,37.8,,37.87
+,Cox's Bazar ,Chittagong,7.3,28.3,,,,Brahmonbaria,City Drain Effluent,37.39,37.79,36.69,Brahmonbaria,City Drain Effluent,,37.79,
+,Cox's Bazar ,Chittagong,,,,,,Brahmonbaria,Bus Stand Drain Effluent,,,,Brahmonbaria,Bus Stand Drain Effluent,,,
+,Cox's Bazar ,Chittagong,,,,,,Brahmonbaria,Rail Station Drain Effluent,,,,Brahmonbaria,Rail Station Drain Effluent,,,
+,Cox's Bazar ,Chittagong,,,,,,Brahmonbaria,Pond/River,,,,Brahmonbaria,Pond/River,,,
+,Cox's Bazar ,Chittagong,,,,,,Brahmonbaria,Prison Drain Effluent,,,,Brahmonbaria,Prison Drain Effluent,,,
+,,Sylhet,6.6,28.2,,,,Habigonj,Isolation Center Drain Effluent,36.29,,,Habigonj,Isolation Center Drain Effluent,37.53,33.53,
+,,Sylhet,6.4,27.4,,,,Habigonj,Sadar Hospital Drain Effluent,,36.49,34.12,Habigonj,Sadar Hospital Drain Effluent,,33.32,
+,,Sylhet,6.9,,,,,Habigonj,Medical College Drain Wastage,,,,Habigonj,Medical College Drain Wastage,,,
+,,Sylhet,6.8,27.6,,,,Habigonj,Community Drain Effluent,,38.95,,Habigonj,Community Drain Effluent,37.65,,37.63
+,,Sylhet,7.4,26.5,,,,Habigonj,City Drain Effluent,35.57,,38.4,Habigonj,City Drain Effluent,,33.9,
+,,Sylhet,,,,,,Habigonj,Bus Stand Drain Effluent,,,,Habigonj,Bus Stand Drain Effluent,,,
+,,Sylhet,,,,,,Habigonj,Rail Station Drain Effluent,,,,Habigonj,Rail Station Drain Effluent,,,
+,,Sylhet,,,,,,Habigonj,Pond/River,,,,Habigonj,Pond/River,,,
+,,Sylhet,,,,,,Habigonj,Prison Drain Effluent,,,,Habigonj,Prison Drain Effluent,,,

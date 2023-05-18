@@ -1,0 +1,361 @@
+ID,Sample,District,Division,Site,Station,Day,Month,Gene,Ct Value,Copy Number,Viral Load ,Region
+71,Sample-71,Comilla,Chittagong,Drainage,Isolation Center Drain Effluent,12/11/2020,Jamuna,ORF1ab,36.8,1.17E+03,7.00E+05,Jamuna
+72,Sample-72,Comilla,Chittagong,Drainage,Sadar Hospital Drain Effluent,12/11/2020,Jamuna,ORF1ab,37.48,9.45E+02,5.67E+05,Jamuna
+75,Sample-75,Comilla,Chittagong,Drainage,City Drain Effluent,12/11/2020,Jamuna,ORF1ab,37.4,9.71E+02,5.83E+05,Jamuna
+251,Sample-71,Comilla,Chittagong,Drainage,Isolation Center Drain Effluent,12/11/2020,Jamuna,N,41.85,1.93E+02,1.12E+05,Jamuna
+252,Sample-72,Comilla,Chittagong,Drainage,Sadar Hospital Drain Effluent,12/11/2020,Jamuna,N,35.56,2.88E+03,1.73E+06,Jamuna
+255,Sample-75,Comilla,Chittagong,Drainage,City Drain Effluent,12/11/2020,Jamuna,N,39.48,2.90E+02,1.74E+05,Jamuna
+26,Sample-26,Gaibandha,Rangpur,Drainage,Isolation Center Drain Effluent,12/5/2020,Jamuna,ORF1ab,41.9,1.11E+02,1.44E+05,Jamuna
+27,Sample-27,Gaibandha,Rangpur,Drainage,Sadar Hospital Drain Effluent,12/5/2020,Jamuna,ORF1ab,32.08,2.53E+04,1.52E+07,Jamuna
+30,Sample-30,Gaibandha,Rangpur,Drainage,City Drain Effluent,12/5/2020,Jamuna,ORF1ab,34.48,4.94E+03,2.96E+06,Jamuna
+206,Sample-26,Gaibandha,Rangpur,Drainage,Isolation Center Drain Effluent,12/5/2020,Jamuna,N,34.48,4.94E+03,2.96E+06,Jamuna
+207,Sample-27,Gaibandha,Rangpur,Drainage,Sadar Hospital Drain Effluent,12/5/2020,Jamuna,N,36.8,1.17E+03,7.00E+05,Jamuna
+210,Sample-30,Gaibandha,Rangpur,Drainage,City Drain Effluent,12/5/2020,Jamuna,N,37.4,9.71E+02,5.83E+05,Jamuna
+14,Sample-14,Rajshahi,Rajshahi,Drainage,Isolation Center Drain Effluent,12/3/2020,Jamuna,ORF1ab,36.49,1.10E+03,6.61E+05,Jamuna
+15,Sample-15,Rajshahi,Rajshahi,Drainage,Sadar Hospital Drain Effluent,12/3/2020,Jamuna,ORF1ab,38.2,7.09E+02,4.26E+05,Jamuna
+18,Sample-18,Rajshahi,Rajshahi,Drainage,City Drain Effluent,12/3/2020,Jamuna,ORF1ab,41.76,1.22E+02,1.06E+05,Jamuna
+194,Sample-14,Rajshahi,Rajshahi,Drainage,Isolation Center Drain Effluent,12/3/2020,Jamuna,N,41.85,1.93E+02,1.19E+05,Jamuna
+195,Sample-15,Rajshahi,Rajshahi,Drainage,Sadar Hospital Drain Effluent,12/3/2020,Jamuna,N,36.4,1.27E+03,7.64E+05,Jamuna
+198,Sample-18,Rajshahi,Rajshahi,Drainage,City Drain Effluent,12/3/2020,Jamuna,N,41.76,1.40E+02,1.44E+05,Jamuna
+20,Sample-20,Rangpur,Rangpur,Drainage,Isolation Center Drain Effluent,12/4/2020,Jamuna,ORF1ab,36.05,1.94E+03,1.16E+06,Jamuna
+21,Sample-21,Rangpur,Rangpur,Drainage,Sadar Hospital Drain Effluent,12/4/2020,Jamuna,ORF1ab,37.65,8.89E+02,5.34E+05,Jamuna
+24,Sample-24,Rangpur,Rangpur,Drainage,City Drain Effluent,12/4/2020,Jamuna,ORF1ab,27.15,9.93E+04,5.96E+07,Jamuna
+200,Sample-20,Rangpur,Rangpur,Drainage,Isolation Center Drain Effluent,12/4/2020,Jamuna,N,29.5,6.40E+04,3.84E+07,Jamuna
+201,Sample-21,Rangpur,Rangpur,Drainage,Sadar Hospital Drain Effluent,12/4/2020,Jamuna,N,40.95,1.84E+02,1.20E+05,Jamuna
+204,Sample-24,Rangpur,Rangpur,Drainage,City Drain Effluent,12/4/2020,Jamuna,N,41.51,1.11E+02,1.26E+05,Jamuna
+28,Sample-28,Gaibandha,Rangpur,NDrainage,Market Place,12/5/2020,Jamuna,ORF1ab,30.69,4.62E+04,2.77E+07,Jamuna
+29,Sample-29,Gaibandha,Rangpur,NDrainage,Communal Pond/River,12/5/2020,Jamuna,ORF1ab,34.48,4.94E+03,2.96E+06,Jamuna
+31,Sample-31,Gaibandha,Rangpur,NDrainage,Bus Stand/ Rail station ,12/5/2020,Jamuna,ORF1ab,41.85,1.52E+02,1.11E+05,Jamuna
+208,Sample-28,Gaibandha,Rangpur,NDrainage,Market Place,12/5/2020,Jamuna,N,30.72,4.57E+04,2.74E+07,Jamuna
+209,Sample-29,Gaibandha,Rangpur,NDrainage,Communal Pond/River,12/5/2020,Jamuna,N,41.77,1.52E+02,1.22E+05,Jamuna
+211,Sample-31,Gaibandha,Rangpur,NDrainage,Bus Stand/ Rail station ,12/5/2020,Jamuna,N,37.23,1.03E+03,6.16E+05,Jamuna
+16,Sample-16,Rajshahi,Rajshahi,NDrainage,Market Place,12/3/2020,Jamuna,ORF1ab,37.03,1.09E+03,6.55E+05,Jamuna
+17,Sample-17,Rajshahi,Rajshahi,NDrainage,Bus Stand/ Rail station ,12/3/2020,Jamuna,ORF1ab,38.95,4.64E+02,2.78E+05,Jamuna
+19,Sample-19,Rajshahi,Rajshahi,NDrainage,Communal Pond/River,12/3/2020,Jamuna,ORF1ab,35.5,2.99E+03,1.79E+06,Jamuna
+196,Sample-16,Rajshahi,Rajshahi,NDrainage,Market Place,12/3/2020,Jamuna,N,41.9,1.07E+02,1.06E+05,Jamuna
+197,Sample-17,Rajshahi,Rajshahi,NDrainage,Bus Stand/ Rail station ,12/3/2020,Jamuna,N,34.43,5.03E+03,3.02E+06,Jamuna
+199,Sample-19,Rajshahi,Rajshahi,NDrainage,Communal Pond/River,12/3/2020,Jamuna,N,33.17,8.95E+03,5.37E+06,Jamuna
+22,Sample-22,Rangpur,Rangpur,NDrainage,Market Place,12/4/2020,Jamuna,ORF1ab,32.91,1.29E+04,7.71E+06,Jamuna
+23,Sample-23,Rangpur,Rangpur,NDrainage,Bus Stand/ Rail station ,12/4/2020,Jamuna,ORF1ab,34.75,4.42E+03,2.65E+06,Jamuna
+25,Sample-25,Rangpur,Rangpur,NDrainage,Communal Pond/River,12/4/2020,Jamuna,ORF1ab,39.04,4.34E+02,2.61E+05,Jamuna
+202,Sample-22,Rangpur,Rangpur,NDrainage,Market Place,12/4/2020,Jamuna,N,37.6,9.06E+02,5.43E+05,Jamuna
+203,Sample-23,Rangpur,Rangpur,NDrainage,Bus Stand/ Rail station ,12/4/2020,Jamuna,N,34.41,5.07E+03,3.04E+06,Jamuna
+205,Sample-25,Rangpur,Rangpur,NDrainage,Communal Pond/River,12/4/2020,Jamuna,N,41.71,1.95E+02,1.11E+05,Jamuna
+50,Sample-50,Barisal,Barisal,Drainage,Isolation Center Drain Effluent,12/7/2020,Jamuna,ORF1ab,33.2,8.50E+03,5.10E+06,Jamuna
+51,Sample-51,Barisal,Barisal,Drainage,Sadar Hospital Drain Effluent,12/7/2020,Jamuna,ORF1ab,37.4,9.71E+02,5.83E+05,Jamuna
+54,Sample-54,Barisal,Barisal,Drainage,City Drain Effluent,12/7/2020,Jamuna,ORF1ab,35.4,3.18E+03,1.91E+06,Meghna
+230,Sample-50,Barisal,Barisal,Drainage,Isolation Center Drain Effluent,12/7/2020,Jamuna,N,32.6,1.63E+02,1.26E+05,Meghna
+231,Sample-51,Barisal,Barisal,Drainage,Sadar Hospital Drain Effluent,12/7/2020,Jamuna,N,35.21,3.54E+03,2.13E+06,Meghna
+234,Sample-54,Barisal,Barisal,Drainage,City Drain Effluent,12/7/2020,Jamuna,N,32.14,2.44E+04,1.46E+07,Meghna
+56,Sample-56,Chittagong,Chittagong,Drainage,Isolation Center Drain Effluent,12/8/2020,Jamuna,ORF1ab,26.14,1.14E+05,6.86E+07,Meghna
+57,Sample-57,Chittagong,Chittagong,Drainage,Sadar Hospital Drain Effluent,12/8/2020,Jamuna,ORF1ab,34.83,4.27E+03,2.56E+06,Meghna
+60,Sample-60,Chittagong,Chittagong,Drainage,City Drain Effluent,12/8/2020,Jamuna,ORF1ab,34.43,5.03E+03,3.02E+06,Meghna
+236,Sample-56,Chittagong,Chittagong,Drainage,Isolation Center Drain Effluent,12/8/2020,Jamuna,N,26.28,1.12E+05,6.74E+07,Meghna
+237,Sample-57,Chittagong,Chittagong,Drainage,Sadar Hospital Drain Effluent,12/8/2020,Jamuna,N,41.85,1.95E+02,1.11E+05,Meghna
+240,Sample-60,Chittagong,Chittagong,Drainage,City Drain Effluent,12/8/2020,Jamuna,N,37.11,1.07E+03,6.40E+05,Meghna
+66,Sample-66,Cox's Bazar ,Chittagong,Drainage,Isolation Center Drain Effluent,12/10/2020,Jamuna,ORF1ab,33.36,6.10E+03,3.66E+06,Meghna
+67,Sample-67,Cox's Bazar ,Chittagong,Drainage,Sadar Hospital Drain Effluent,12/10/2020,Jamuna,ORF1ab,41.71,1.11E+02,1.11E+05,Meghna
+70,Sample-70,Cox's Bazar ,Chittagong,Drainage,City Drain Effluent,12/10/2020,Jamuna,ORF1ab,34.32,5.24E+03,3.15E+06,Meghna
+246,Sample-66,Cox's Bazar ,Chittagong,Drainage,Isolation Center Drain Effluent,12/10/2020,Jamuna,N,37.4,9.71E+02,5.83E+05,Meghna
+247,Sample-67,Cox's Bazar ,Chittagong,Drainage,Sadar Hospital Drain Effluent,12/10/2020,Jamuna,N,37.48,9.45E+02,5.67E+05,Meghna
+250,Sample-70,Cox's Bazar ,Chittagong,Drainage,City Drain Effluent,12/10/2020,Jamuna,N,41.71,1.40E+02,1.22E+05,Meghna
+61,Sample-61,Khulna,Khulna,Drainage,Isolation Center Drain Effluent,12/9/2020,Jamuna,ORF1ab,34.35,5.19E+03,3.11E+06,Meghna
+62,Sample-62,Khulna,Khulna,Drainage,Sadar Hospital Drain Effluent,12/9/2020,Jamuna,ORF1ab,37.33,9.94E+02,5.96E+05,Meghna
+65,Sample-65,Khulna,Khulna,Drainage,City Drain Effluent,12/9/2020,Jamuna,ORF1ab,41.62,1.63E+02,1.35E+05,Meghna
+241,Sample-61,Khulna,Khulna,Drainage,Isolation Center Drain Effluent,12/9/2020,Jamuna,N,35.17,3.62E+03,2.17E+06,Meghna
+242,Sample-62,Khulna,Khulna,Drainage,Sadar Hospital Drain Effluent,12/9/2020,Jamuna,N,38.75,5.29E+02,3.18E+05,Meghna
+245,Sample-65,Khulna,Khulna,Drainage,City Drain Effluent,12/9/2020,Jamuna,N,36.2,1.65E+03,9.93E+05,Meghna
+52,Sample-52,Barisal,Barisal,NDrainage,Market Place,12/7/2020,Jamuna,ORF1ab,41.76,1.84E+02,1.44E+05,Meghna
+53,Sample-53,Barisal,Barisal,NDrainage,Communal Pond/River,12/7/2020,Jamuna,ORF1ab,41.77,1.52E+02,1.15E+05,Meghna
+55,Sample-55,Barisal,Barisal,NDrainage,Bus Stand/ Rail station ,12/7/2020,Jamuna,ORF1ab,41.85,1.31E+02,1.22E+05,Meghna
+232,Sample-52,Barisal,Barisal,NDrainage,Market Place,12/7/2020,Jamuna,N,32.45,1.98E+04,1.19E+07,Meghna
+233,Sample-53,Barisal,Barisal,NDrainage,Communal Pond/River,12/7/2020,Jamuna,N,36.34,1.39E+03,8.32E+05,Meghna
+235,Sample-55,Barisal,Barisal,NDrainage,Bus Stand/ Rail station ,12/7/2020,Jamuna,N,41.77,1.22E+02,1.20E+05,Meghna
+58,Sample-58,Chittagong,Chittagong,NDrainage,Market Place,12/8/2020,Jamuna,ORF1ab,32.72,1.57E+04,9.42E+06,Meghna
+59,Sample-59,Chittagong,Chittagong,NDrainage,Communal Pond/River,12/8/2020,Jamuna,ORF1ab,41.62,1.22E+02,1.06E+05,Meghna
+238,Sample-58,Chittagong,Chittagong,NDrainage,Market Place,12/8/2020,Jamuna,N,41.9,1.84E+02,1.06E+05,Meghna
+239,Sample-59,Chittagong,Chittagong,NDrainage,Communal Pond/River,12/8/2020,Jamuna,N,34.62,4.67E+03,2.80E+06,Meghna
+68,Sample-68,Cox's Bazar ,Chittagong,NDrainage,Market Place,12/10/2020,Jamuna,ORF1ab,41.76,1.52E+02,1.26E+05,Meghna
+69,Sample-69,Cox's Bazar ,Chittagong,NDrainage,Communal Pond/River,12/10/2020,Jamuna,ORF1ab,41.9,1.04E+02,1.20E+05,Meghna
+248,Sample-68,Cox's Bazar ,Chittagong,NDrainage,Market Place,12/10/2020,Jamuna,N,41.14,1.04E+02,1.26E+05,Meghna
+249,Sample-69,Cox's Bazar ,Chittagong,NDrainage,Communal Pond/River,12/10/2020,Jamuna,N,37.8,8.40E+02,5.04E+05,Meghna
+63,Sample-63,Khulna,Khulna,NDrainage,Market Place,12/9/2020,Jamuna,ORF1ab,34.32,5.24E+03,3.15E+06,Meghna
+64,Sample-64,Khulna,Khulna,NDrainage,Communal Pond/River,12/9/2020,Jamuna,ORF1ab,37.68,8.79E+02,5.28E+05,Meghna
+243,Sample-63,Khulna,Khulna,NDrainage,Market Place,12/9/2020,Jamuna,N,40.95,1.52E+02,1.35E+05,Meghna
+244,Sample-64,Khulna,Khulna,NDrainage,Communal Pond/River,12/9/2020,Jamuna,N,41.76,1.52E+02,1.44E+05,Meghna
+81,Sample-111,Brahmobaria,Chittagong,Drainage,Isolation Center Drain Effluent,12/14/2020,Jamuna,ORF1ab,37.38,9.78E+02,5.87E+05,Meghna
+82,Sample-112,Brahmobaria,Chittagong,Drainage,Sadar Hospital Drain Effluent,12/14/2020,Jamuna,ORF1ab,37.4,9.71E+02,5.83E+05,Meghna
+85,Sample-115,Brahmobaria,Chittagong,Drainage,City Drain Effluent,12/14/2020,Jamuna,ORF1ab,37.79,8.43E+02,5.06E+05,Meghna
+261,Sample-111,Brahmobaria,Chittagong,Drainage,Isolation Center Drain Effluent,12/14/2020,Jamuna,N,41.11,1.40E+02,1.06E+05,Meghna
+262,Sample-112,Brahmobaria,Chittagong,Drainage,Sadar Hospital Drain Effluent,12/14/2020,Jamuna,N,32.34,2.63E+03,1.58E+06,Meghna
+265,Sample-115,Brahmobaria,Chittagong,Drainage,City Drain Effluent,12/14/2020,Jamuna,N,36.69,1.20E+03,7.22E+05,Jamuna
+32,Sample-32,Dhaka,Dhaka,Drainage,Mohammadpur 1,12/6/2020,Jamuna,ORF1ab,36.08,1.88E+03,1.13E+06,Padma
+33,Sample-33,Dhaka,Dhaka,Drainage,Mohammadpur 2,12/6/2020,Jamuna,ORF1ab,41.77,1.11E+02,1.06E+05,Padma
+34,Sample-34,Dhaka,Dhaka,Drainage,Mohammadpur 3,12/6/2020,Jamuna,ORF1ab,34.43,5.03E+03,3.02E+06,Padma
+35,Sample-35,Dhaka,Dhaka,Drainage,City Drain Effluent,12/6/2020,Jamuna,ORF1ab,41.67,1.04E+02,1.22E+05,Padma
+36,Sample-36,Dhaka,Dhaka,Drainage,Mirpur Slum 2,12/6/2020,Jamuna,ORF1ab,36.66,1.21E+03,7.28E+05,Padma
+37,Sample-37,Dhaka,Dhaka,Drainage,Mirpur Slum 3,12/6/2020,Jamuna,ORF1ab,41.63,1.93E+02,1.20E+05,Padma
+38,Sample-38,Dhaka,Dhaka,Drainage,korail slum 1,12/6/2020,Jamuna,ORF1ab,37.58,9.12E+02,5.47E+05,Padma
+39,Sample-39,Dhaka,Dhaka,Drainage,korail slum 2,12/6/2020,Jamuna,ORF1ab,41.62,1.52E+02,1.11E+05,Padma
+40,Sample-40,Dhaka,Dhaka,Drainage,korail slum 3,12/6/2020,Jamuna,ORF1ab,37.41,9.68E+02,5.81E+05,Padma
+42,Sample-42,Dhaka,Dhaka,Drainage,Isolation Center Drain Effluent,12/6/2020,Jamuna,ORF1ab,33.34,6.40E+03,3.84E+06,Padma
+43,Sample-43,Dhaka,Dhaka,Drainage,Isolation Center Drain Effluent,12/6/2020,Jamuna,ORF1ab,34.37,5.15E+03,3.09E+06,Padma
+45,Sample-45,Dhaka,Dhaka,Drainage,Sadar Hospital Drain Effluent,12/6/2020,Jamuna,ORF1ab,40.95,1.95E+02,1.26E+05,Padma
+46,Sample-46,Dhaka,Dhaka,Drainage,Sadar Hospital Drain Effluent,12/6/2020,Jamuna,ORF1ab,37.41,9.68E+02,5.81E+05,Padma
+48,Sample-48,Dhaka,Dhaka,Drainage,kuwait Moitri Hospital,12/6/2020,Jamuna,ORF1ab,41.9,1.22E+02,1.12E+05,Padma
+49,Sample-49,Dhaka,Dhaka,Drainage,kuwait Moitri Hospital,12/6/2020,Jamuna,ORF1ab,37.56,9.19E+02,5.51E+05,Padma
+212,Sample-32,Dhaka,Dhaka,Drainage,Mohammadpur 1,12/6/2020,Jamuna,N,34.12,5.63E+03,3.38E+06,Padma
+213,Sample-33,Dhaka,Dhaka,Drainage,Mohammadpur 2,12/6/2020,Jamuna,N,37.42,9.65E+02,5.79E+05,Padma
+214,Sample-34,Dhaka,Dhaka,Drainage,Mohammadpur 3,12/6/2020,Jamuna,N,37.41,9.68E+02,5.81E+05,Padma
+215,Sample-35,Dhaka,Dhaka,Drainage,City Drain Effluent,12/6/2020,Jamuna,N,37.48,9.45E+02,5.67E+05,Padma
+216,Sample-36,Dhaka,Dhaka,Drainage,Mirpur Slum 2,12/6/2020,Jamuna,N,35.44,3.11E+03,1.86E+06,Padma
+217,Sample-37,Dhaka,Dhaka,Drainage,Mirpur Slum 3,12/6/2020,Jamuna,N,41.9,1.93E+02,1.06E+05,Padma
+218,Sample-38,Dhaka,Dhaka,Drainage,korail slum 1,12/6/2020,Jamuna,N,37.42,9.65E+02,5.79E+05,Padma
+219,Sample-39,Dhaka,Dhaka,Drainage,korail slum 2,12/6/2020,Jamuna,N,37.42,9.65E+02,5.79E+05,Padma
+220,Sample-40,Dhaka,Dhaka,Drainage,korail slum 3,12/6/2020,Jamuna,N,34.42,5.05E+03,3.03E+06,Padma
+222,Sample-42,Dhaka,Dhaka,Drainage,Isolation Center Drain Effluent,12/6/2020,Jamuna,N,36.37,1.33E+03,7.98E+05,Padma
+223,Sample-43,Dhaka,Dhaka,Drainage,Isolation Center Drain Effluent,12/6/2020,Jamuna,N,41.85,1.04E+02,1.44E+05,Padma
+225,Sample-45,Dhaka,Dhaka,Drainage,Sadar Hospital Drain Effluent,12/6/2020,Jamuna,N,33.11,7.55E+03,4.53E+06,Padma
+226,Sample-46,Dhaka,Dhaka,Drainage,Sadar Hospital Drain Effluent,12/6/2020,Jamuna,N,36.44,1.20E+03,7.18E+05,Padma
+228,Sample-48,Dhaka,Dhaka,Drainage,kuwait Moitri Hospital,12/6/2020,Jamuna,N,33.37,7.06E+03,4.23E+06,Padma
+229,Sample-49,Dhaka,Dhaka,Drainage,kuwait Moitri Hospital,12/6/2020,Jamuna,N,36.2,1.65E+03,9.93E+05,Padma
+83,Sample-113,Brahmobaria,Chittagong,NDrainage,Market Place,12/14/2020,Jamuna,ORF1ab,37.7,8.73E+02,5.24E+05,Padma
+84,Sample-114,Brahmobaria,Chittagong,NDrainage,Communal Pond/River,12/14/2020,Jamuna,ORF1ab,37.96,7.88E+02,4.73E+05,Padma
+263,Sample-113,Brahmobaria,Chittagong,NDrainage,Market Place,12/14/2020,Jamuna,N,41.76,1.95E+02,1.22E+05,Padma
+264,Sample-114,Brahmobaria,Chittagong,NDrainage,Communal Pond/River,12/14/2020,Jamuna,N,41.71,1.84E+02,1.35E+05,Padma
+73,Sample-73,Comilla,Chittagong,NDrainage,Market Place,12/11/2020,Jamuna,ORF1ab,41.85,1.93E+02,1.44E+05,Padma
+74,Sample-74,Comilla,Chittagong,NDrainage,Communal Pond/River,12/11/2020,Jamuna,ORF1ab,36.62,1.23E+03,7.36E+05,Padma
+253,Sample-73,Comilla,Chittagong,NDrainage,Market Place,12/11/2020,Jamuna,N,37.48,9.45E+02,5.67E+05,Padma
+254,Sample-74,Comilla,Chittagong,NDrainage,Communal Pond/River,12/11/2020,Jamuna,N,41.77,1.63E+02,1.15E+05,Padma
+41,Sample-41,Dhaka,Dhaka,NDrainage,Market Place,12/6/2020,Jamuna,ORF1ab,41.71,1.63E+02,1.35E+05,Padma
+44,Sample-44,Dhaka,Dhaka,NDrainage,Communal Pond/River,12/6/2020,Jamuna,ORF1ab,32.12,2.47E+04,1.48E+07,Padma
+47,Sample-47,Dhaka,Dhaka,NDrainage,Bus Stand/ Rail station ,12/6/2020,Jamuna,ORF1ab,37.61,9.02E+02,5.41E+05,Padma
+221,Sample-41,Dhaka,Dhaka,NDrainage,Market Place,12/6/2020,Jamuna,N,35.42,3.14E+03,1.89E+06,Padma
+224,Sample-44,Dhaka,Dhaka,NDrainage,Communal Pond/River,12/6/2020,Jamuna,N,37.24,1.02E+03,6.14E+05,Padma
+227,Sample-47,Dhaka,Dhaka,NDrainage,Bus Stand/ Rail station ,12/6/2020,Jamuna,N,36.45,1.18E+03,7.06E+05,Padma
+78,Sample-78,Kishorgonj,Dhaka,NDrainage,Market Place,12/12/2020,Jamuna,ORF1ab,34.4,5.09E+03,3.05E+06,Surma
+79,Sample-79,Kishorgonj,Dhaka,NDrainage,Communal Pond/River,12/12/2020,Jamuna,ORF1ab,38.27,6.86E+02,4.12E+05,Surma
+258,Sample-78,Kishorgonj,Dhaka,NDrainage,Market Place,12/12/2020,Jamuna,N,41.13,1.31E+02,1.20E+05,Padma
+259,Sample-79,Kishorgonj,Dhaka,NDrainage,Communal Pond/River,12/12/2020,Jamuna,N,41.9,1.07E+02,1.11E+05,Padma
+86,Sample-116,Habigonj,Sylhet,Drainage,Isolation Center Drain Effluent,12/15/2020,Jamuna,ORF1ab,41.9,1.22E+02,1.06E+05,Surma
+87,Sample-117,Habigonj,Sylhet,Drainage,Sadar Hospital Drain Effluent,12/15/2020,Jamuna,ORF1ab,36.49,1.10E+03,6.61E+05,Surma
+89,Sample-119,Habigonj,Sylhet,Drainage,City Drain Effluent,12/15/2020,Jamuna,ORF1ab,41.76,1.04E+02,1.11E+05,Surma
+266,Sample-116,Habigonj,Sylhet,Drainage,Isolation Center Drain Effluent,12/15/2020,Jamuna,N,41.77,1.52E+02,1.26E+05,Surma
+267,Sample-117,Habigonj,Sylhet,Drainage,Sadar Hospital Drain Effluent,12/15/2020,Jamuna,N,34.12,5.63E+03,3.38E+06,Surma
+269,Sample-119,Habigonj,Sylhet,Drainage,City Drain Effluent,12/15/2020,Jamuna,N,38.4,6.44E+02,3.86E+05,Surma
+76,Sample-76,Kishorgonj,Dhaka,Drainage,Isolation Center Drain Effluent,12/12/2020,Jamuna,ORF1ab,41.77,1.95E+02,1.22E+05,Surma
+77,Sample-77,Kishorgonj,Dhaka,Drainage,Sadar Hospital Drain Effluent,12/12/2020,Jamuna,ORF1ab,38.4,6.44E+02,3.86E+05,Surma
+80,Sample-80,Kishorgonj,Dhaka,Drainage,City Drain Effluent,12/12/2020,Jamuna,ORF1ab,39.28,3.56E+02,2.14E+05,Surma
+256,Sample-76,Kishorgonj,Dhaka,Drainage,Isolation Center Drain Effluent,12/12/2020,Jamuna,N,36.48,1.12E+03,6.72E+05,Surma
+257,Sample-77,Kishorgonj,Dhaka,Drainage,Sadar Hospital Drain Effluent,12/12/2020,Jamuna,N,41.14,1.22E+02,1.19E+05,Surma
+260,Sample-80,Kishorgonj,Dhaka,Drainage,City Drain Effluent,12/12/2020,Jamuna,N,41.13,2.00E+02,1.20E+05,Surma
+1,Sample-1,Mymensingh,Mymensing,Drainage,Isolation Center Drain Effluent,12/1/2020,Jamuna,ORF1ab,41.9,1.11E+02,1.44E+05,Surma
+2,Sample-2,Mymensingh,Mymensing,Drainage,Sadar Hospital Drain Effluent,12/1/2020,Jamuna,ORF1ab,37.12,1.06E+03,1.11E+05,Surma
+3,Sample-3,Mymensingh,Mymensing,Drainage,Medical College Drain Wastage,12/1/2020,Jamuna,ORF1ab,41.85,1.52E+02,1.22E+05,Surma
+5,Sample-5,Mymensingh,Mymensing,Drainage,City Drain Effluent,12/1/2020,Jamuna,ORF1ab,41.76,1.63E+02,1.20E+05,Surma
+181,Sample-1,Mymensingh,Mymensing,Drainage,Isolation Center Drain Effluent,12/1/2020,Jamuna,N,34.35,5.19E+03,3.11E+06,Surma
+182,Sample-2,Mymensingh,Mymensing,Drainage,Sadar Hospital Drain Effluent,12/1/2020,Jamuna,N,35.47,3.05E+03,1.83E+06,Surma
+183,Sample-3,Mymensingh,Mymensing,Drainage,Medical College Drain Wastage,12/1/2020,Jamuna,N,34.1,5.66E+03,3.40E+06,Padma
+185,Sample-5,Mymensingh,Mymensing,Drainage,City Drain Effluent,12/1/2020,Jamuna,N,41.51,1.52E+02,1.11E+05,Surma
+8,Sample-8,Sylhet,Sylhet,Drainage,Isolation Center Drain Effluent,12/2/2020,Jamuna,ORF1ab,37.21,1.03E+03,6.20E+05,Surma
+9,Sample-9,Sylhet,Sylhet,Drainage,Sadar Hospital Drain Effluent,12/2/2020,Jamuna,ORF1ab,41.67,1.93E+02,1.26E+05,Surma
+12,Sample-12,Sylhet,Sylhet,Drainage,City Drain Effluent,12/2/2020,Jamuna,ORF1ab,29.56,6.31E+04,3.79E+07,Surma
+188,Sample-8,Sylhet,Sylhet,Drainage,Isolation Center Drain Effluent,12/2/2020,Jamuna,N,41.77,1.40E+02,1.26E+05,Surma
+189,Sample-9,Sylhet,Sylhet,Drainage,Sadar Hospital Drain Effluent,12/2/2020,Jamuna,N,37.36,9.84E+02,5.91E+05,Surma
+192,Sample-12,Sylhet,Sylhet,Drainage,City Drain Effluent,12/2/2020,Jamuna,N,41.51,1.04E+02,1.12E+05,Surma
+88,Sample-118,Habigonj,Sylhet,NDrainage,Communal Pond/River,12/15/2020,Jamuna,ORF1ab,38.95,4.64E+02,2.78E+05,Surma
+90,Sample-122,Habigonj,Sylhet,NDrainage,Market Place,12/15/2020,Jamuna,ORF1ab,37.19,8.40E+02,5.81E+05,Surma
+268,Sample-118,Habigonj,Sylhet,NDrainage,Communal Pond/River,12/15/2020,Jamuna,N,41.85,1.11E+02,1.44E+05,Surma
+270,Sample-121,Habigonj,Sylhet,NDrainage,Market Place,12/15/2020,Jamuna,N,38.4,6.44E+02,3.86E+05,Surma
+4,Sample-4,Mymensingh,Mymensing,NDrainage,Market Place,12/1/2020,Jamuna,ORF1ab,41.77,1.04E+02,1.06E+05,Surma
+6,Sample-6,Mymensingh,Mymensing,NDrainage,Bus Stand/ Rail station ,12/1/2020,Jamuna,ORF1ab,36.41,1.25E+03,7.52E+05,Surma
+7,Sample-7,Mymensingh,Mymensing,NDrainage,Communal Pond/River,12/1/2020,Jamuna,ORF1ab,36.12,1.81E+03,1.08E+06,Surma
+184,Sample-4,Mymensingh,Mymensing,NDrainage,Market Place,12/1/2020,Jamuna,N,41.57,1.52E+02,1.22E+05,Surma
+186,Sample-6,Mymensingh,Mymensing,NDrainage,Bus Stand/ Rail station ,12/1/2020,Jamuna,N,37.92,8.01E+02,4.81E+05,Surma
+187,Sample-7,Mymensingh,Mymensing,NDrainage,Communal Pond/River,12/1/2020,Jamuna,N,41.71,1.22E+02,1.15E+05,Surma
+10,Sample-10,Sylhet,Sylhet,NDrainage,Market Place,12/2/2020,Jamuna,ORF1ab,34.13,5.61E+03,3.36E+06,Surma
+11,Sample-11,Sylhet,Sylhet,NDrainage,Bus Stand/ Rail station ,12/2/2020,Jamuna,ORF1ab,41.77,1.95E+02,1.35E+05,Surma
+13,Sample-13,Sylhet,Sylhet,NDrainage,Communal Pond/River,12/2/2020,Jamuna,ORF1ab,38.81,5.10E+02,3.06E+05,Surma
+190,Sample-10,Sylhet,Sylhet,NDrainage,Market Place,12/2/2020,Jamuna,N,36.54,1.25E+03,7.52E+05,Surma
+191,Sample-11,Sylhet,Sylhet,NDrainage,Bus Stand/ Rail station ,12/2/2020,Jamuna,N,34.72,4.48E+03,2.69E+06,Surma
+193,Sample-13,Sylhet,Sylhet,NDrainage,Communal Pond/River,12/2/2020,Jamuna,N,41,1.63E+02,1.35E+05,Surma
+161,Sample-71,Comilla,Chittagong,Drainage,Isolation Center Drain Effluent,1/11/2021,Meghna,ORF1ab,36.23,1.60E+03,9.58E+05,Jamuna
+162,Sample-72,Comilla,Chittagong,Drainage,Sadar Hospital Drain Effluent,1/11/2021,Meghna,ORF1ab,41.57,1.04E+02,1.22E+05,Jamuna
+165,Sample-75,Comilla,Chittagong,Drainage,City Drain Effluent,1/11/2021,Meghna,ORF1ab,41.76,1.63E+02,1.11E+05,Jamuna
+341,Sample-71,Comilla,Chittagong,Drainage,Isolation Center Drain Effluent,1/11/2021,Meghna,N,41.76,1.31E+02,1.12E+05,Jamuna
+342,Sample-72,Comilla,Chittagong,Drainage,Sadar Hospital Drain Effluent,1/11/2021,Meghna,N,37.4,1.07E+02,1.11E+05,Jamuna
+345,Sample-75,Comilla,Chittagong,Drainage,City Drain Effluent,1/11/2021,Meghna,N,34.4,5.09E+03,3.05E+06,Jamuna
+116,Sample-26,Gaibandha,Rangpur,Drainage,Isolation Center Drain Effluent,1/5/2021,Meghna,ORF1ab,36.83,1.16E+03,6.95E+05,Jamuna
+117,Sample-27,Gaibandha,Rangpur,Drainage,Sadar Hospital Drain Effluent,1/5/2021,Meghna,ORF1ab,36.81,1.16E+03,6.99E+05,Jamuna
+120,Sample-30,Gaibandha,Rangpur,Drainage,City Drain Effluent,1/5/2021,Meghna,ORF1ab,38.32,6.70E+02,4.02E+05,Jamuna
+296,Sample-26,Gaibandha,Rangpur,Drainage,Isolation Center Drain Effluent,1/5/2021,Meghna,N,37.36,9.84E+02,5.91E+05,Jamuna
+297,Sample-27,Gaibandha,Rangpur,Drainage,Sadar Hospital Drain Effluent,1/5/2021,Meghna,N,37.36,9.84E+02,5.91E+05,Jamuna
+300,Sample-30,Gaibandha,Rangpur,Drainage,City Drain Effluent,1/5/2021,Meghna,N,41.85,1.52E+02,1.20E+05,Jamuna
+104,Sample-14,Rajshahi,Rajshahi,Drainage,Isolation Center Drain Effluent,1/3/2021,Meghna,ORF1ab,35.44,3.11E+03,1.86E+06,Jamuna
+105,Sample-15,Rajshahi,Rajshahi,Drainage,Sadar Hospital Drain Effluent,1/3/2021,Meghna,ORF1ab,36.42,1.23E+03,7.41E+05,Jamuna
+108,Sample-18,Rajshahi,Rajshahi,Drainage,City Drain Effluent,1/3/2021,Meghna,ORF1ab,38.39,6.47E+02,3.88E+05,Jamuna
+284,Sample-14,Rajshahi,Rajshahi,Drainage,Isolation Center Drain Effluent,1/3/2021,Meghna,N,37.84,8.27E+02,4.96E+05,Jamuna
+285,Sample-15,Rajshahi,Rajshahi,Drainage,Sadar Hospital Drain Effluent,1/3/2021,Meghna,N,39.23,3.72E+02,2.23E+05,Jamuna
+288,Sample-18,Rajshahi,Rajshahi,Drainage,City Drain Effluent,1/3/2021,Meghna,N,41.85,1.63E+02,1.11E+05,Jamuna
+110,Sample-20,Rangpur,Rangpur,Drainage,Isolation Center Drain Effluent,1/4/2021,Meghna,ORF1ab,39.33,3.39E+02,2.04E+05,Jamuna
+111,Sample-21,Rangpur,Rangpur,Drainage,Sadar Hospital Drain Effluent,1/4/2021,Meghna,ORF1ab,39.73,2.09E+02,1.25E+05,Jamuna
+114,Sample-24,Rangpur,Rangpur,Drainage,City Drain Effluent,1/4/2021,Meghna,ORF1ab,38.73,5.36E+02,3.21E+05,Jamuna
+290,Sample-20,Rangpur,Rangpur,Drainage,Isolation Center Drain Effluent,1/4/2021,Meghna,N,37.82,8.34E+02,5.00E+05,Jamuna
+291,Sample-21,Rangpur,Rangpur,Drainage,Sadar Hospital Drain Effluent,1/4/2021,Meghna,N,41.71,1.95E+02,1.22E+05,Jamuna
+294,Sample-24,Rangpur,Rangpur,Drainage,City Drain Effluent,1/4/2021,Meghna,N,39.33,3.39E+02,2.04E+05,Jamuna
+118,Sample-28,Gaibandha,Rangpur,NDrainage,Market Place,1/5/2021,Meghna,ORF1ab,41.71,1.95E+02,1.20E+05,Jamuna
+119,Sample-29,Gaibandha,Rangpur,NDrainage,Communal Pond/River,1/5/2021,Meghna,ORF1ab,38,7.75E+02,4.65E+05,Jamuna
+121,Sample-31,Gaibandha,Rangpur,NDrainage,Bus Stand/ Rail station ,1/5/2021,Meghna,ORF1ab,41.85,1.52E+02,1.35E+05,Jamuna
+298,Sample-28,Gaibandha,Rangpur,NDrainage,Market Place,1/5/2021,Meghna,N,36.38,1.30E+03,7.83E+05,Jamuna
+299,Sample-29,Gaibandha,Rangpur,NDrainage,Communal Pond/River,1/5/2021,Meghna,N,37.35,9.87E+02,5.92E+05,Jamuna
+301,Sample-31,Gaibandha,Rangpur,NDrainage,Bus Stand/ Rail station ,1/5/2021,Meghna,N,41.77,1.84E+02,1.35E+05,Jamuna
+106,Sample-16,Rajshahi,Rajshahi,NDrainage,Market Place,1/3/2021,Meghna,ORF1ab,37.76,8.53E+02,5.12E+05,Jamuna
+107,Sample-17,Rajshahi,Rajshahi,NDrainage,Bus Stand/ Rail station ,1/3/2021,Meghna,ORF1ab,41.77,1.93E+02,1.06E+05,Jamuna
+109,Sample-19,Rajshahi,Rajshahi,NDrainage,Communal Pond/River,1/3/2021,Meghna,ORF1ab,36.42,1.23E+03,7.41E+05,Jamuna
+286,Sample-16,Rajshahi,Rajshahi,NDrainage,Market Place,1/3/2021,Meghna,N,36.32,1.32E+03,7.95E+05,Jamuna
+287,Sample-17,Rajshahi,Rajshahi,NDrainage,Bus Stand/ Rail station ,1/3/2021,Meghna,N,38.64,5.65E+02,3.39E+05,Jamuna
+289,Sample-19,Rajshahi,Rajshahi,NDrainage,Communal Pond/River,1/3/2021,Meghna,N,41.11,1.93E+02,1.06E+05,Jamuna
+112,Sample-22,Rangpur,Rangpur,NDrainage,Market Place,1/4/2021,Meghna,ORF1ab,36.12,1.81E+03,1.08E+06,Jamuna
+113,Sample-23,Rangpur,Rangpur,NDrainage,Bus Stand/ Rail station ,1/4/2021,Meghna,ORF1ab,41.9,1.11E+02,1.11E+05,Jamuna
+115,Sample-25,Rangpur,Rangpur,NDrainage,Communal Pond/River,1/4/2021,Meghna,ORF1ab,41.76,1.84E+02,1.22E+05,Jamuna
+292,Sample-22,Rangpur,Rangpur,NDrainage,Market Place,1/4/2021,Meghna,N,36.38,1.30E+03,7.83E+05,Jamuna
+293,Sample-23,Rangpur,Rangpur,NDrainage,Bus Stand/ Rail station ,1/4/2021,Meghna,N,37.19,1.04E+03,6.24E+05,Jamuna
+295,Sample-25,Rangpur,Rangpur,NDrainage,Communal Pond/River,1/4/2021,Meghna,N,41.76,1.22E+02,1.26E+05,Jamuna
+140,Sample-50,Barisal,Barisal,Drainage,Isolation Center Drain Effluent,1/7/2021,Meghna,ORF1ab,37.23,1.03E+03,6.16E+05,Meghna
+141,Sample-51,Barisal,Barisal,Drainage,Sadar Hospital Drain Effluent,1/7/2021,Meghna,ORF1ab,37.32,9.97E+02,5.98E+05,Meghna
+144,Sample-54,Barisal,Barisal,Drainage,City Drain Effluent,1/7/2021,Meghna,ORF1ab,38.4,6.44E+02,3.86E+05,Meghna
+320,Sample-50,Barisal,Barisal,Drainage,Isolation Center Drain Effluent,1/7/2021,Meghna,N,41.77,1.95E+02,1.26E+05,Meghna
+321,Sample-51,Barisal,Barisal,Drainage,Sadar Hospital Drain Effluent,1/7/2021,Meghna,N,35.56,2.88E+03,1.73E+06,Meghna
+324,Sample-54,Barisal,Barisal,Drainage,City Drain Effluent,1/7/2021,Meghna,N,36.7,1.20E+03,7.20E+05,Meghna
+146,Sample-56,Chittagong,Chittagong,Drainage,Isolation Center Drain Effluent,1/8/2021,Meghna,ORF1ab,35.4,3.18E+03,1.91E+06,Meghna
+147,Sample-57,Chittagong,Chittagong,Drainage,Sadar Hospital Drain Effluent,1/8/2021,Meghna,ORF1ab,32.75,1.95E+02,1.20E+05,Meghna
+150,Sample-60,Chittagong,Chittagong,Drainage,City Drain Effluent,1/8/2021,Meghna,ORF1ab,41.77,1.31E+02,1.26E+05,Meghna
+326,Sample-56,Chittagong,Chittagong,Drainage,Isolation Center Drain Effluent,1/8/2021,Meghna,N,37,1.22E+02,1.11E+05,Meghna
+327,Sample-57,Chittagong,Chittagong,Drainage,Sadar Hospital Drain Effluent,1/8/2021,Meghna,N,38.4,1.63E+02,1.06E+05,Meghna
+330,Sample-60,Chittagong,Chittagong,Drainage,City Drain Effluent,1/8/2021,Meghna,N,33.21,8.35E+03,5.01E+06,Meghna
+156,Sample-66,Cox's Bazar ,Chittagong,Drainage,Isolation Center Drain Effluent,1/10/2021,Meghna,ORF1ab,32.12,2.47E+04,1.48E+07,Meghna
+157,Sample-67,Cox's Bazar ,Chittagong,Drainage,Sadar Hospital Drain Effluent,1/10/2021,Meghna,ORF1ab,41.71,1.11E+02,1.06E+05,Meghna
+160,Sample-70,Cox's Bazar ,Chittagong,Drainage,City Drain Effluent,1/10/2021,Meghna,ORF1ab,32.21,2.34E+04,1.40E+07,Meghna
+336,Sample-66,Cox's Bazar ,Chittagong,Drainage,Isolation Center Drain Effluent,1/10/2021,Meghna,N,35.27,3.43E+03,2.06E+06,Meghna
+337,Sample-67,Cox's Bazar ,Chittagong,Drainage,Sadar Hospital Drain Effluent,1/10/2021,Meghna,N,35.21,3.54E+03,2.13E+06,Meghna
+340,Sample-70,Cox's Bazar ,Chittagong,Drainage,City Drain Effluent,1/10/2021,Meghna,N,40.95,1.04E+02,1.15E+05,Meghna
+151,Sample-61,Khulna,Khulna,Drainage,Isolation Center Drain Effluent,1/9/2021,Meghna,ORF1ab,35.55,2.90E+03,1.74E+06,Meghna
+152,Sample-62,Khulna,Khulna,Drainage,Sadar Hospital Drain Effluent,1/9/2021,Meghna,ORF1ab,41.9,1.93E+02,1.44E+05,Meghna
+155,Sample-65,Khulna,Khulna,Drainage,City Drain Effluent,1/9/2021,Meghna,ORF1ab,39.6,2.51E+02,1.51E+05,Meghna
+331,Sample-61,Khulna,Khulna,Drainage,Isolation Center Drain Effluent,1/9/2021,Meghna,N,41.85,1.07E+02,1.22E+05,Meghna
+332,Sample-62,Khulna,Khulna,Drainage,Sadar Hospital Drain Effluent,1/9/2021,Meghna,N,34.76,4.40E+03,2.64E+06,Meghna
+335,Sample-65,Khulna,Khulna,Drainage,City Drain Effluent,1/9/2021,Meghna,N,35.71,2.59E+03,1.55E+06,Meghna
+142,Sample-52,Barisal,Barisal,NDrainage,Market Place,1/7/2021,Meghna,ORF1ab,41.85,2.90E+03,1.74E+06,Meghna
+143,Sample-53,Barisal,Barisal,NDrainage,Communal Pond/River,1/7/2021,Meghna,ORF1ab,35.7,2.61E+03,1.57E+06,Meghna
+145,Sample-55,Barisal,Barisal,NDrainage,Bus Stand/ Rail station ,1/7/2021,Meghna,ORF1ab,34.5,4.90E+03,2.94E+06,Meghna
+322,Sample-52,Barisal,Barisal,NDrainage,Market Place,1/7/2021,Meghna,N,36.7,1.84E+02,1.20E+05,Meghna
+323,Sample-53,Barisal,Barisal,NDrainage,Communal Pond/River,1/7/2021,Meghna,N,33.22,8.20E+03,4.92E+06,Meghna
+325,Sample-55,Barisal,Barisal,NDrainage,Bus Stand/ Rail station ,1/7/2021,Meghna,N,34.13,5.61E+03,3.36E+06,Meghna
+148,Sample-58,Chittagong,Chittagong,NDrainage,Market Place,1/8/2021,Meghna,ORF1ab,41.71,1.84E+02,1.11E+05,Meghna
+149,Sample-59,Chittagong,Chittagong,NDrainage,Communal Pond/River,1/8/2021,Meghna,ORF1ab,37.5,9.38E+02,5.63E+05,Meghna
+328,Sample-58,Chittagong,Chittagong,NDrainage,Market Place,1/8/2021,Meghna,N,35,3.95E+03,2.37E+06,Meghna
+329,Sample-59,Chittagong,Chittagong,NDrainage,Communal Pond/River,1/8/2021,Meghna,N,41.9,1.52E+02,1.44E+05,Meghna
+158,Sample-68,Cox's Bazar ,Chittagong,NDrainage,Market Place,1/10/2021,Meghna,ORF1ab,35.65,2.70E+03,1.62E+06,Meghna
+159,Sample-69,Cox's Bazar ,Chittagong,NDrainage,Communal Pond/River,1/10/2021,Meghna,ORF1ab,41.76,1.52E+02,1.12E+05,Meghna
+338,Sample-68,Cox's Bazar ,Chittagong,NDrainage,Market Place,1/10/2021,Meghna,N,41.71,1.40E+02,1.26E+05,Meghna
+339,Sample-69,Cox's Bazar ,Chittagong,NDrainage,Communal Pond/River,1/10/2021,Meghna,N,35.31,3.35E+03,2.01E+06,Meghna
+153,Sample-63,Khulna,Khulna,NDrainage,Market Place,1/9/2021,Meghna,ORF1ab,35.42,3.14E+03,1.89E+06,Meghna
+154,Sample-64,Khulna,Khulna,NDrainage,Communal Pond/River,1/9/2021,Meghna,ORF1ab,36.73,1.19E+03,7.14E+05,Meghna
+333,Sample-63,Khulna,Khulna,NDrainage,Market Place,1/9/2021,Meghna,N,36.5,1.52E+02,1.35E+05,Meghna
+334,Sample-64,Khulna,Khulna,NDrainage,Communal Pond/River,1/9/2021,Meghna,N,33.37,5.95E+03,3.57E+06,Meghna
+171,Sample-111,Brahmobaria,Chittagong,Drainage,Isolation Center Drain Effluent,1/14/2021,Meghna,ORF1ab,33.64,6.54E+03,3.93E+06,Meghna
+172,Sample-112,Brahmobaria,Chittagong,Drainage,Sadar Hospital Drain Effluent,1/14/2021,Meghna,ORF1ab,38.5,6.11E+02,3.67E+05,Meghna
+175,Sample-115,Brahmobaria,Chittagong,Drainage,City Drain Effluent,1/14/2021,Meghna,ORF1ab,37.79,8.43E+02,5.06E+05,Meghna
+351,Sample-111,Brahmobaria,Chittagong,Drainage,Isolation Center Drain Effluent,1/14/2021,Meghna,N,36.4,1.27E+03,7.64E+05,Jamuna
+352,Sample-112,Brahmobaria,Chittagong,Drainage,Sadar Hospital Drain Effluent,1/14/2021,Meghna,N,41.77,1.95E+02,1.22E+05,Jamuna
+355,Sample-115,Brahmobaria,Chittagong,Drainage,City Drain Effluent,1/14/2021,Meghna,N,41.85,1.04E+02,1.11E+05,Jamuna
+122,Sample-32,Dhaka,Dhaka,Drainage,Mohammadpur 1,1/6/2021,Meghna,ORF1ab,35.32,3.33E+03,2.00E+06,Padma
+123,Sample-33,Dhaka,Dhaka,Drainage,Mohammadpur 2,1/6/2021,Meghna,ORF1ab,36.6,1.23E+03,7.40E+05,Padma
+124,Sample-34,Dhaka,Dhaka,Drainage,Mohammadpur 3,1/6/2021,Meghna,ORF1ab,36.54,1.25E+03,7.52E+05,Padma
+125,Sample-35,Dhaka,Dhaka,Drainage,City Drain Effluent,1/6/2021,Meghna,ORF1ab,41.62,1.31E+02,1.44E+05,Padma
+126,Sample-36,Dhaka,Dhaka,Drainage,Mirpur Slum 2,1/6/2021,Meghna,ORF1ab,35.22,3.53E+03,2.12E+06,Padma
+127,Sample-37,Dhaka,Dhaka,Drainage,Mirpur Slum 3,1/6/2021,Meghna,ORF1ab,38.75,5.29E+02,3.18E+05,Padma
+128,Sample-38,Dhaka,Dhaka,Drainage,korail slum 1,1/6/2021,Meghna,ORF1ab,41.77,1.63E+02,1.11E+05,Padma
+129,Sample-39,Dhaka,Dhaka,Drainage,korail slum 2,1/6/2021,Meghna,ORF1ab,38.2,7.09E+02,4.26E+05,Padma
+130,Sample-40,Dhaka,Dhaka,Drainage,korail slum 3,1/6/2021,Meghna,ORF1ab,33.76,6.31E+03,3.79E+06,Padma
+132,Sample-42,Dhaka,Dhaka,Drainage,Isolation Center Drain Effluent,1/6/2021,Meghna,ORF1ab,41.62,1.93E+02,1.26E+05,Padma
+133,Sample-43,Dhaka,Dhaka,Drainage,Isolation Center Drain Effluent,1/6/2021,Meghna,ORF1ab,41.9,1.11E+02,1.06E+05,Padma
+135,Sample-45,Dhaka,Dhaka,Drainage,Sadar Hospital Drain Effluent,1/6/2021,Meghna,ORF1ab,41.57,1.04E+02,1.22E+05,Padma
+136,Sample-46,Dhaka,Dhaka,Drainage,Sadar Hospital Drain Effluent,1/6/2021,Meghna,ORF1ab,41.76,1.22E+02,1.12E+05,Padma
+138,Sample-48,Dhaka,Dhaka,Drainage,kuwait Moitri Hospital,1/6/2021,Meghna,ORF1ab,33.33,6.55E+03,3.93E+06,Padma
+139,Sample-49,Dhaka,Dhaka,Drainage,kuwait Moitri Hospital,1/6/2021,Meghna,ORF1ab,41.62,1.31E+02,1.15E+05,Padma
+302,Sample-32,Dhaka,Dhaka,Drainage,Mohammadpur 1,1/6/2021,Meghna,N,41.9,1.63E+02,1.06E+05,Padma
+303,Sample-33,Dhaka,Dhaka,Drainage,Mohammadpur 2,1/6/2021,Meghna,N,37.72,8.66E+02,5.20E+05,Padma
+304,Sample-34,Dhaka,Dhaka,Drainage,Mohammadpur 3,1/6/2021,Meghna,N,33.78,6.27E+03,3.76E+06,Padma
+305,Sample-35,Dhaka,Dhaka,Drainage,City Drain Effluent,1/6/2021,Meghna,N,37.54,9.25E+02,5.55E+05,Padma
+306,Sample-36,Dhaka,Dhaka,Drainage,Mirpur Slum 2,1/6/2021,Meghna,N,40.95,1.52E+02,1.44E+05,Padma
+307,Sample-37,Dhaka,Dhaka,Drainage,Mirpur Slum 3,1/6/2021,Meghna,N,39.32,3.43E+02,2.06E+05,Padma
+308,Sample-38,Dhaka,Dhaka,Drainage,korail slum 1,1/6/2021,Meghna,N,36.74,1.19E+03,7.12E+05,Padma
+309,Sample-39,Dhaka,Dhaka,Drainage,korail slum 2,1/6/2021,Meghna,N,36.43,1.22E+03,7.29E+05,Padma
+310,Sample-40,Dhaka,Dhaka,Drainage,korail slum 3,1/6/2021,Meghna,N,40.95,1.07E+02,1.11E+05,Padma
+312,Sample-42,Dhaka,Dhaka,Drainage,Isolation Center Drain Effluent,1/6/2021,Meghna,N,33.64,6.54E+03,3.93E+06,Padma
+313,Sample-43,Dhaka,Dhaka,Drainage,Isolation Center Drain Effluent,1/6/2021,Meghna,N,41.76,1.93E+02,1.12E+05,Padma
+315,Sample-45,Dhaka,Dhaka,Drainage,Sadar Hospital Drain Effluent,1/6/2021,Meghna,N,33.75,6.33E+03,3.80E+06,Padma
+316,Sample-46,Dhaka,Dhaka,Drainage,Sadar Hospital Drain Effluent,1/6/2021,Meghna,N,41.71,1.11E+02,1.15E+05,Padma
+318,Sample-48,Dhaka,Dhaka,Drainage,kuwait Moitri Hospital,1/6/2021,Meghna,N,31,4.15E+04,2.49E+07,Padma
+319,Sample-49,Dhaka,Dhaka,Drainage,kuwait Moitri Hospital,1/6/2021,Meghna,N,33.51,6.79E+03,4.07E+06,Padma
+173,Sample-113,Brahmobaria,Chittagong,NDrainage,Market Place,1/14/2021,Meghna,ORF1ab,35.87,2.28E+03,1.37E+06,Padma
+174,Sample-114,Brahmobaria,Chittagong,NDrainage,Communal Pond/River,1/14/2021,Meghna,ORF1ab,41.77,1.95E+02,1.06E+05,Padma
+353,Sample-113,Brahmobaria,Chittagong,NDrainage,Market Place,1/14/2021,Meghna,N,41.9,1.93E+02,1.26E+05,Padma
+354,Sample-114,Brahmobaria,Chittagong,NDrainage,Communal Pond/River,1/14/2021,Meghna,N,37.87,1.63E+02,1.44E+05,Padma
+163,Sample-73,Comilla,Chittagong,NDrainage,Market Place,1/11/2021,Meghna,ORF1ab,38.74,5.33E+02,3.20E+05,Padma
+164,Sample-74,Comilla,Chittagong,NDrainage,Communal Pond/River,1/11/2021,Meghna,ORF1ab,39.45,3.00E+02,1.80E+05,Padma
+343,Sample-73,Comilla,Chittagong,NDrainage,Market Place,1/11/2021,Meghna,N,41.71,1.95E+02,1.19E+05,Padma
+344,Sample-74,Comilla,Chittagong,NDrainage,Communal Pond/River,1/11/2021,Meghna,N,41.77,1.93E+02,1.20E+05,Padma
+131,Sample-41,Dhaka,Dhaka,NDrainage,Market Place,1/6/2021,Meghna,ORF1ab,37.42,9.65E+02,5.79E+05,Padma
+134,Sample-44,Dhaka,Dhaka,NDrainage,Communal Pond/River,1/6/2021,Meghna,ORF1ab,34.32,5.24E+03,3.15E+06,Padma
+137,Sample-47,Dhaka,Dhaka,NDrainage,Bus Stand/ Rail station ,1/6/2021,Meghna,ORF1ab,41.71,1.52E+02,1.35E+05,Padma
+311,Sample-41,Dhaka,Dhaka,NDrainage,Market Place,1/6/2021,Meghna,N,41.11,1.04E+02,1.22E+05,Padma
+314,Sample-44,Dhaka,Dhaka,NDrainage,Communal Pond/River,1/6/2021,Meghna,N,31.31,3.69E+04,2.21E+07,Padma
+317,Sample-47,Dhaka,Dhaka,NDrainage,Bus Stand/ Rail station ,1/6/2021,Meghna,N,36.31,1.44E+03,8.67E+05,Surma
+168,Sample-78,Kishorgonj,Dhaka,NDrainage,Market Place,1/12/2021,Meghna,ORF1ab,38.65,5.62E+02,3.37E+05,Surma
+169,Sample-79,Kishorgonj,Dhaka,NDrainage,Communal Pond/River,1/12/2021,Meghna,ORF1ab,36.85,1.15E+03,6.91E+05,Surma
+348,Sample-78,Kishorgonj,Dhaka,NDrainage,Market Place,1/12/2021,Meghna,N,36.38,1.31E+03,7.87E+05,Surma
+349,Sample-79,Kishorgonj,Dhaka,NDrainage,Communal Pond/River,1/12/2021,Meghna,N,41.76,1.84E+02,1.35E+05,Surma
+176,Sample-116,Habigonj,Sylhet,Drainage,Isolation Center Drain Effluent,1/15/2021,Meghna,ORF1ab,33.53,6.75E+03,4.05E+06,Surma
+177,Sample-117,Habigonj,Sylhet,Drainage,Sadar Hospital Drain Effluent,1/15/2021,Meghna,ORF1ab,33.32,1.11E+02,1.44E+05,Surma
+179,Sample-119,Habigonj,Sylhet,Drainage,City Drain Effluent,1/15/2021,Meghna,ORF1ab,33.9,6.05E+03,3.63E+06,Surma
+356,Sample-116,Habigonj,Sylhet,Drainage,Isolation Center Drain Effluent,1/15/2021,Meghna,N,33.44,4.90E+03,2.94E+06,Surma
+357,Sample-117,Habigonj,Sylhet,Drainage,Sadar Hospital Drain Effluent,1/15/2021,Meghna,N,38.12,7.35E+02,4.41E+05,Surma
+359,Sample-119,Habigonj,Sylhet,Drainage,City Drain Effluent,1/15/2021,Meghna,N,41.9,1.11E+02,1.44E+05,Surma
+166,Sample-76,Kishorgonj,Dhaka,Drainage,Isolation Center Drain Effluent,1/12/2021,Meghna,ORF1ab,39.65,2.35E+02,1.41E+05,Surma
+167,Sample-77,Kishorgonj,Dhaka,Drainage,Sadar Hospital Drain Effluent,1/12/2021,Meghna,ORF1ab,40.95,1.22E+02,1.35E+05,Surma
+170,Sample-80,Kishorgonj,Dhaka,Drainage,City Drain Effluent,1/12/2021,Meghna,ORF1ab,41.85,1.84E+02,1.26E+05,Surma
+346,Sample-76,Kishorgonj,Dhaka,Drainage,Isolation Center Drain Effluent,1/12/2021,Meghna,N,32.32,2.17E+04,1.30E+07,Surma
+347,Sample-77,Kishorgonj,Dhaka,Drainage,Sadar Hospital Drain Effluent,1/12/2021,Meghna,N,37.21,1.52E+02,1.15E+05,Surma
+350,Sample-80,Kishorgonj,Dhaka,Drainage,City Drain Effluent,1/12/2021,Meghna,N,36.74,1.22E+02,1.20E+05,Surma
+91,Sample-1,Mymensingh,Mymensing,Drainage,Isolation Center Drain Effluent,1/1/2021,Meghna,ORF1ab,33.65,6.52E+03,3.91E+06,Surma
+92,Sample-2,Mymensingh,Mymensing,Drainage,Sadar Hospital Drain Effluent,1/1/2021,Meghna,ORF1ab,34.32,5.24E+03,3.15E+06,Surma
+93,Sample-3,Mymensingh,Mymensing,Drainage,Medical College Drain Wastage,1/1/2021,Meghna,ORF1ab,36.35,1.37E+03,8.21E+05,Surma
+95,Sample-5,Mymensingh,Mymensing,Drainage,City Drain Effluent,1/1/2021,Meghna,ORF1ab,35.7,1.52E+02,9.13E+04,Surma
+271,Sample-1,Mymensingh,Mymensing,Drainage,Isolation Center Drain Effluent,1/1/2021,Meghna,N,32.13,2.46E+04,1.47E+07,Surma
+272,Sample-2,Mymensingh,Mymensing,Drainage,Sadar Hospital Drain Effluent,1/1/2021,Meghna,N,33.67,6.48E+03,3.89E+06,Surma
+273,Sample-3,Mymensingh,Mymensing,Drainage,Medical College Drain Wastage,1/1/2021,Meghna,N,33.68,6.47E+03,3.88E+06,Surma
+275,Sample-5,Mymensingh,Mymensing,Drainage,City Drain Effluent,1/1/2021,Meghna,N,37.33,9.94E+02,5.96E+05,Surma
+98,Sample-8,Sylhet,Sylhet,Drainage,Isolation Center Drain Effluent,1/2/2021,Meghna,ORF1ab,35.53,1.58E+03,9.50E+05,Surma
+99,Sample-9,Sylhet,Sylhet,Drainage,Sadar Hospital Drain Effluent,1/2/2021,Meghna,ORF1ab,37.37,9.81E+02,5.89E+05,Surma
+102,Sample-12,Sylhet,Sylhet,Drainage,City Drain Effluent,1/2/2021,Meghna,ORF1ab,37.22,1.03E+03,6.18E+05,Surma
+278,Sample-8,Sylhet,Sylhet,Drainage,Isolation Center Drain Effluent,1/2/2021,Meghna,N,35.64,2.72E+03,1.63E+06,Surma
+279,Sample-9,Sylhet,Sylhet,Drainage,Sadar Hospital Drain Effluent,1/2/2021,Meghna,N,36.34,1.39E+03,8.32E+05,Surma
+282,Sample-12,Sylhet,Sylhet,Drainage,City Drain Effluent,1/2/2021,Meghna,N,38.42,6.37E+02,3.82E+05,Surma
+178,Sample-118,Habigonj,Sylhet,NDrainage,Communal Pond/River,1/15/2021,Meghna,ORF1ab,41.9,1.07E+02,1.20E+05,Surma
+180,Sample-123,Habigonj,Sylhet,NDrainage,Market Place,12/15/2021,Meghna,ORF1ab,38.22,1.45E+02,9.01E+04,Surma
+358,Sample-118,Habigonj,Sylhet,NDrainage,Communal Pond/River,1/15/2021,Meghna,N,37.63,1.52E+02,1.06E+05,Surma
+360,Sample-120,Habigonj,Sylhet,NDrainage,Market Place,1/15/2021,Meghna,N,37.36,9.84E+02,5.91E+05,Surma
+94,Sample-4,Mymensingh,Mymensing,NDrainage,Market Place,1/1/2021,Meghna,ORF1ab,41.85,1.11E+02,1.44E+05,Surma
+96,Sample-6,Mymensingh,Mymensing,NDrainage,Bus Stand/ Rail station ,1/1/2021,Meghna,ORF1ab,35.44,3.11E+03,1.86E+06,Surma
+97,Sample-7,Mymensingh,Mymensing,NDrainage,Communal Pond/River,1/1/2021,Meghna,ORF1ab,37.46,9.51E+02,5.71E+05,Surma
+274,Sample-4,Mymensingh,Mymensing,NDrainage,Market Place,1/1/2021,Meghna,N,37.44,9.58E+02,5.75E+05,Surma
+276,Sample-6,Mymensingh,Mymensing,NDrainage,Bus Stand/ Rail station ,1/1/2021,Meghna,N,36.22,1.62E+03,9.70E+05,Surma
+277,Sample-7,Mymensingh,Mymensing,NDrainage,Communal Pond/River,1/1/2021,Meghna,N,35.45,3.09E+03,1.85E+06,Surma
+100,Sample-10,Sylhet,Sylhet,NDrainage,Market Place,1/2/2021,Meghna,ORF1ab,35.34,3.30E+03,1.98E+06,Surma
+101,Sample-11,Sylhet,Sylhet,NDrainage,Bus Stand/ Rail station ,1/2/2021,Meghna,ORF1ab,37.23,1.03E+03,6.16E+05,Surma
+103,Sample-13,Sylhet,Sylhet,NDrainage,Communal Pond/River,1/2/2021,Meghna,ORF1ab,36.53,1.26E+03,7.53E+05,Surma
+280,Sample-10,Sylhet,Sylhet,NDrainage,Market Place,1/2/2021,Meghna,N,37.32,9.97E+02,5.98E+05,Surma
+281,Sample-11,Sylhet,Sylhet,NDrainage,Bus Stand/ Rail station ,1/2/2021,Meghna,N,36.34,1.39E+03,8.32E+05,Surma
+283,Sample-13,Sylhet,Sylhet,NDrainage,Communal Pond/River,1/2/2021,Meghna,N,41.9,1.04E+02,1.44E+05,Surma

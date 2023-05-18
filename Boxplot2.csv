@@ -1,0 +1,361 @@
+ID,Sample,District,Region,Division,Site,Station,Day,Month,Gene,Ct Value,Copy Number,CNLog,Viral Load ,VLLog,PH,Temp
+1,Sample-1,Mymensing,Surma,Mymensing,Drainage,Isolation Center Drain Effluent,12/1/2020,December,ORF1ab,41.9,111,2.05,144000,5.16,6.9,31.2
+2,Sample-2,Mymensing,Surma,Mymensing,Drainage,Medical College Drain Wastage,12/1/2020,December,ORF1ab,37.12,1060,3.03,111000,5.05,6.8,30.1
+3,Sample-3,Mymensing,Surma,Mymensing,Drainage,Medical College Drain Wastage,12/1/2020,December,ORF1ab,41.85,152,2.18,122000,5.09,6.9,28.5
+4,Sample-4,Mymensing,Surma,Mymensing,Without drainage,Market Place,12/1/2020,December,ORF1ab,41.77,104,2.02,106000,5.03,7.8,29.5
+5,Sample-5,Mymensing,Surma,Mymensing,Drainage,City Drain Effluent,12/1/2020,December,ORF1ab,41.76,163,2.21,120000,5.08,6.8,32.6
+6,Sample-6,Mymensing,Surma,Mymensing,Without drainage,Bus Stand/ Rail station ,12/1/2020,December,ORF1ab,36.41,1250,3.1,752000,5.88,7.5,30.1
+7,Sample-7,Mymensing,Surma,Mymensing,Without drainage,Communal Pond/River,12/1/2020,December,ORF1ab,36.12,1810,3.26,1080000,6.03,7.2,29.9
+8,Sample-8,Sylhet,Surma,Sylhet,Drainage,Isolation Center Drain Effluent,12/2/2020,December,ORF1ab,37.21,1030,3.01,620000,5.79,6.7,30.2
+9,Sample-9,Sylhet,Surma,Sylhet,Drainage,Medical College Drain Wastage,12/2/2020,December,ORF1ab,41.67,193,2.29,126000,5.1,6.8,29.8
+10,Sample-10,Sylhet,Surma,Sylhet,Without drainage,Market Place,12/2/2020,December,ORF1ab,34.13,5610,3.75,3360000,6.53,6.9,27.9
+11,Sample-11,Sylhet,Surma,Sylhet,Without drainage,Bus Stand/ Rail station ,12/2/2020,December,ORF1ab,41.77,195,2.29,135000,5.13,8.2,28.4
+12,Sample-12,Sylhet,Surma,Sylhet,Drainage,City Drain Effluent,12/2/2020,December,ORF1ab,29.56,63100,4.8,37900000,7.58,6.5,23.01
+13,Sample-13,Sylhet,Surma,Sylhet,Without drainage,Communal Pond/River,12/2/2020,December,ORF1ab,38.81,510,2.71,306000,5.49,6.7,29.8
+14,Sample-14,Rajshahi,Jamuna,Rajshahi,Drainage,Isolation Center Drain Effluent,12/3/2020,December,ORF1ab,36.49,1100,3.04,661000,5.82,6.8,29.8
+15,Sample-15,Rajshahi,Jamuna,Rajshahi,Drainage,Medical College Drain Wastage,12/3/2020,December,ORF1ab,38.2,709,2.85,426000,5.63,6.7,31.4
+16,Sample-16,Rajshahi,Jamuna,Rajshahi,Without drainage,Market Place,12/3/2020,December,ORF1ab,37.03,1090,3.04,655000,5.82,6.6,31.4
+17,Sample-17,Rajshahi,Jamuna,Rajshahi,Without drainage,Bus Stand/ Rail station ,12/3/2020,December,ORF1ab,38.95,464,2.67,278000,5.44,7.5,31.6
+18,Sample-18,Rajshahi,Jamuna,Rajshahi,Drainage,City Drain Effluent,12/3/2020,December,ORF1ab,41.76,122,2.09,106000,5.03,7.6,29.5
+19,Sample-19,Rajshahi,Jamuna,Rajshahi,Without drainage,Communal Pond/River,12/3/2020,December,ORF1ab,35.5,2990,3.48,1790000,6.25,7.3,29.6
+20,Sample-20,Rangpur,Jamuna,Rangpur,Drainage,Isolation Center Drain Effluent,12/4/2020,December,ORF1ab,36.05,1940,3.29,1160000,6.06,7.1,29.5
+21,Sample-21,Rangpur,Jamuna,Rangpur,Drainage,Medical College Drain Wastage,12/4/2020,December,ORF1ab,37.65,889,2.95,534000,5.73,6.8,30.8
+22,Sample-22,Rangpur,Jamuna,Rangpur,Without drainage,Market Place,12/4/2020,December,ORF1ab,32.91,12900,4.11,7710000,6.89,6.4,25.6
+23,Sample-23,Rangpur,Jamuna,Rangpur,Without drainage,Bus Stand/ Rail station ,12/4/2020,December,ORF1ab,34.75,4420,3.65,2650000,6.42,7.1,28.9
+24,Sample-24,Rangpur,Jamuna,Rangpur,Drainage,City Drain Effluent,12/4/2020,December,ORF1ab,27.15,99300,5,59600000,7.78,7.2,22.9
+25,Sample-25,Rangpur,Jamuna,Rangpur,Without drainage,Communal Pond/River,12/4/2020,December,ORF1ab,39.04,434,2.64,261000,5.42,7.4,31.2
+26,Sample-26,Gaibandha,Jamuna,Rangpur,Drainage,Isolation Center Drain Effluent,12/5/2020,December,ORF1ab,41.9,111,2.05,144000,5.16,7.2,22.1
+27,Sample-27,Gaibandha,Jamuna,Rangpur,Drainage,Medical College Drain Wastage,12/5/2020,December,ORF1ab,32.08,25300,4.4,15200000,7.18,6.8,24.8
+28,Sample-28,Gaibandha,Jamuna,Rangpur,Without drainage,Market Place,12/5/2020,December,ORF1ab,30.69,46200,4.66,27700000,7.44,6.3,23.6
+29,Sample-29,Gaibandha,Jamuna,Rangpur,Without drainage,Communal Pond/River,12/5/2020,December,ORF1ab,34.48,4940,3.69,2960000,6.47,6.5,28.7
+30,Sample-30,Gaibandha,Jamuna,Rangpur,Drainage,City Drain Effluent,12/5/2020,December,ORF1ab,34.48,4940,3.69,2960000,6.47,7.8,28.8
+31,Sample-31,Gaibandha,Jamuna,Rangpur,Without drainage,Bus Stand/ Rail station ,12/5/2020,December,ORF1ab,41.85,152,2.18,111000,5.05,6.4,27.8
+32,Sample-32,Dhaka,Padma,Dhaka,Drainage,Mohammadpur 1,12/6/2020,December,ORF1ab,36.08,1880,3.27,1130000,6.05,7.5,29.6
+33,Sample-33,Dhaka,Padma,Dhaka,Drainage,Mohammadpur 2,12/6/2020,December,ORF1ab,41.77,111,2.05,106000,5.03,7.4,30.4
+34,Sample-34,Dhaka,Padma,Dhaka,Drainage,Mohammadpur 3,12/6/2020,December,ORF1ab,34.43,5030,3.7,3020000,6.48,7.3,29.4
+35,Sample-35,Dhaka,Padma,Dhaka,Drainage,City Drain Effluent,12/6/2020,December,ORF1ab,41.67,104,2.02,122000,5.09,8.7,30.4
+36,Sample-36,Dhaka,Padma,Dhaka,Drainage,Mirpur Slum 2,12/6/2020,December,ORF1ab,36.66,1210,3.08,728000,5.86,8.5,30.4
+37,Sample-37,Dhaka,Padma,Dhaka,Drainage,Mirpur Slum 3,12/6/2020,December,ORF1ab,41.63,193,2.29,120000,5.08,8.3,"28,3"
+38,Sample-38,Dhaka,Padma,Dhaka,Drainage,korail slum 1,12/6/2020,December,ORF1ab,37.58,912,2.96,547000,5.74,8.2,30.6
+39,Sample-39,Dhaka,Padma,Dhaka,Drainage,korail slum 2,12/6/2020,December,ORF1ab,41.62,152,2.18,111000,5.05,8.5,30.6
+40,Sample-40,Dhaka,Padma,Dhaka,Drainage,korail slum 3,12/6/2020,December,ORF1ab,37.41,968,2.99,581000,5.76,8.1,30.7
+41,Sample-41,Dhaka,Padma,Dhaka,Without drainage,Market Place,12/6/2020,December,ORF1ab,41.71,163,2.21,135000,5.13,7.7,29.5
+42,Sample-42,Dhaka,Padma,Dhaka,Drainage,Isolation Center Drain Effluent,12/6/2020,December,ORF1ab,33.34,6400,3.81,3840000,6.58,7.5,26.6
+43,Sample-43,Dhaka,Padma,Dhaka,Drainage,Isolation Center Drain Effluent,12/6/2020,December,ORF1ab,34.37,5150,3.71,3090000,6.49,6.9,28.4
+44,Sample-44,Dhaka,Padma,Dhaka,Without drainage,Communal Pond/River,12/6/2020,December,ORF1ab,32.12,24700,4.39,14800000,7.17,6.6,24.9
+45,Sample-45,Dhaka,Padma,Dhaka,Drainage,Medical College Drain Wastage,12/6/2020,December,ORF1ab,40.95,195,2.29,126000,5.1,7.2,29.3
+46,Sample-46,Dhaka,Padma,Dhaka,Drainage,Medical College Drain Wastage,12/6/2020,December,ORF1ab,37.41,968,2.99,581000,5.76,6.9,29.1
+47,Sample-47,Dhaka,Padma,Dhaka,Without drainage,Bus Stand/ Rail station ,12/6/2020,December,ORF1ab,37.61,902,2.96,541000,5.73,6.9,30.5
+48,Sample-48,Dhaka,Padma,Dhaka,Drainage,kuwait Moitri Hospital,12/6/2020,December,ORF1ab,41.9,122,2.09,112000,5.05,6.8,24.9
+49,Sample-49,Dhaka,Padma,Dhaka,Drainage,kuwait Moitri Hospital,12/6/2020,December,ORF1ab,37.56,919,2.96,551000,5.74,6.9,31.8
+50,Sample-50,Barisal,Meghna,Barisal,Drainage,Isolation Center Drain Effluent,12/7/2020,December,ORF1ab,33.2,8500,3.93,5100000,6.71,7.3,26.7
+51,Sample-51,Barisal,Meghna,Barisal,Drainage,Medical College Drain Wastage,12/7/2020,December,ORF1ab,37.4,971,2.99,583000,5.77,6.9,31.1
+52,Sample-52,Barisal,Meghna,Barisal,Without drainage,Market Place,12/7/2020,December,ORF1ab,41.76,184,2.26,144000,5.16,6.4,27.5
+53,Sample-53,Barisal,Meghna,Barisal,Without drainage,Communal Pond/River,12/7/2020,December,ORF1ab,41.77,152,2.18,115000,5.06,6.6,28.5
+54,Sample-54,Barisal,Meghna,Barisal,Drainage,City Drain Effluent,12/7/2020,December,ORF1ab,35.4,3180,3.5,1910000,6.28,6.8,28.4
+55,Sample-55,Barisal,Meghna,Barisal,Without drainage,Bus Stand/ Rail station ,12/7/2020,December,ORF1ab,41.85,131,2.12,122000,5.09,6.7,29.7
+56,Sample-56,Chittagong,Meghna,Chittagong,Drainage,Isolation Center Drain Effluent,12/8/2020,December,ORF1ab,26.14,114000,5.06,68600000,7.84,6.8,22.9
+57,Sample-57,Chittagong,Meghna,Chittagong,Drainage,Medical College Drain Wastage,12/8/2020,December,ORF1ab,34.83,4270,3.63,2560000,6.41,6.3,22.9
+58,Sample-58,Chittagong,Meghna,Chittagong,Without drainage,Market Place,12/8/2020,December,ORF1ab,32.72,15700,4.2,9420000,6.97,6.4,25.1
+59,Sample-59,Chittagong,Meghna,Chittagong,Without drainage,Communal Pond/River,12/8/2020,December,ORF1ab,41.62,122,2.09,106000,5.03,6.7,27.5
+60,Sample-60,Chittagong,Meghna,Chittagong,Drainage,City Drain Effluent,12/8/2020,December,ORF1ab,34.43,5030,3.7,3020000,6.48,6.9,28.5
+61,Sample-61,Khulna,Meghna,Khulna,Drainage,Isolation Center Drain Effluent,12/9/2020,December,ORF1ab,34.35,5190,3.72,3110000,6.49,7.2,28.2
+62,Sample-62,Khulna,Meghna,Khulna,Drainage,Medical College Drain Wastage,12/9/2020,December,ORF1ab,37.33,994,3,596000,5.78,7.1,29.5
+63,Sample-63,Khulna,Meghna,Khulna,Without drainage,Market Place,12/9/2020,December,ORF1ab,34.32,5240,3.72,3150000,6.5,7.5,27.9
+64,Sample-64,Khulna,Meghna,Khulna,Without drainage,Communal Pond/River,12/9/2020,December,ORF1ab,37.68,879,2.94,528000,5.72,6.8,30.2
+65,Sample-65,Khulna,Meghna,Khulna,Drainage,City Drain Effluent,12/9/2020,December,ORF1ab,41.62,163,2.21,135000,5.13,6.9,30.5
+66,Sample-66,Cox's Bazar ,Meghna,Chittagong,Drainage,Isolation Center Drain Effluent,12/10/2020,December,ORF1ab,33.36,6100,3.79,3660000,6.56,6.8,26.9
+67,Sample-67,Cox's Bazar ,Meghna,Chittagong,Drainage,Medical College Drain Wastage,12/10/2020,December,ORF1ab,41.71,111,2.05,111000,5.05,6.7,30.4
+68,Sample-68,Cox's Bazar ,Meghna,Chittagong,Without drainage,Market Place,12/10/2020,December,ORF1ab,41.76,152,2.18,126000,5.1,7.1,29.9
+69,Sample-69,Cox's Bazar ,Meghna,Chittagong,Without drainage,Communal Pond/River,12/10/2020,December,ORF1ab,41.9,104,2.02,120000,5.08,6.9,32.1
+70,Sample-70,Cox's Bazar ,Meghna,Chittagong,Drainage,City Drain Effluent,12/10/2020,December,ORF1ab,34.32,5240,3.72,3150000,6.5,7,29.5
+71,Sample-71,Comilla,Padma,Chittagong,Drainage,Isolation Center Drain Effluent,12/11/2020,December,ORF1ab,36.8,1170,3.07,700000,5.85,6.8,29.9
+72,Sample-72,Comilla,Padma,Chittagong,Drainage,Medical College Drain Wastage,12/11/2020,December,ORF1ab,37.48,945,2.98,567000,5.75,6.7,30.3
+73,Sample-73,Comilla,Padma,Chittagong,Without drainage,Market Place,12/11/2020,December,ORF1ab,41.85,193,2.29,144000,5.16,7.3,29.4
+74,Sample-74,Comilla,Padma,Chittagong,Without drainage,Communal Pond/River,12/11/2020,December,ORF1ab,36.62,1230,3.09,736000,5.87,6.5,28.5
+75,Sample-75,Comilla,Padma,Chittagong,Drainage,City Drain Effluent,12/11/2020,December,ORF1ab,37.4,971,2.99,583000,5.77,7.3,30.4
+76,Sample-76,Kishorgonj,Surma,Dhaka,Drainage,Isolation Center Drain Effluent,12/12/2020,December,ORF1ab,41.77,195,2.29,122000,5.09,7.3,29.4
+77,Sample-77,Kishorgonj,Surma,Dhaka,Drainage,Medical College Drain Wastage,12/12/2020,December,ORF1ab,38.4,644,2.81,386000,5.59,7.2,29.6
+78,Sample-78,Kishorgonj,Surma,Dhaka,Without drainage,Market Place,12/12/2020,December,ORF1ab,34.4,5090,3.71,3050000,6.48,7.5,27.4
+79,Sample-79,Kishorgonj,Surma,Dhaka,Without drainage,Communal Pond/River,12/12/2020,December,ORF1ab,38.27,686,2.84,412000,5.61,6.9,29.1
+80,Sample-80,Kishorgonj,Surma,Dhaka,Drainage,City Drain Effluent,12/12/2020,December,ORF1ab,39.28,356,2.55,214000,5.33,76.6,29.5
+81,Sample-111,Brahmobaria,Padma,Chittagong,Drainage,Isolation Center Drain Effluent,12/14/2020,December,ORF1ab,37.38,978,2.99,587000,5.77,7.1,27.9
+82,Sample-112,Brahmobaria,Padma,Chittagong,Drainage,Medical College Drain Wastage,12/14/2020,December,ORF1ab,37.4,971,2.99,583000,5.77,6.9,29.3
+83,Sample-113,Brahmobaria,Padma,Chittagong,Without drainage,Market Place,12/14/2020,December,ORF1ab,37.7,873,2.94,524000,5.72,6.8,29.8
+84,Sample-114,Brahmobaria,Padma,Chittagong,Without drainage,Communal Pond/River,12/14/2020,December,ORF1ab,37.96,788,2.9,473000,5.67,6.6,29.9
+85,Sample-115,Brahmobaria,Padma,Chittagong,Drainage,City Drain Effluent,12/14/2020,December,ORF1ab,37.79,843,2.93,506000,5.7,7.3,28.3
+86,Sample-116,Habigonj,Surma,Sylhet,Drainage,Isolation Center Drain Effluent,12/15/2020,December,ORF1ab,41.9,122,2.09,106000,5.03,"6,.6",28.2
+87,Sample-117,Habigonj,Surma,Sylhet,Drainage,Medical College Drain Wastage,12/15/2020,December,ORF1ab,36.49,1100,3.04,661000,5.82,6.4,27.4
+88,Sample-118,Habigonj,Surma,Sylhet,Without drainage,Communal Pond/River,12/15/2020,December,ORF1ab,38.95,464,2.67,278000,5.44,6.8,27.6
+89,Sample-119,Habigonj,Surma,Sylhet,Drainage,City Drain Effluent,12/15/2020,December,ORF1ab,41.76,104,2.02,111000,5.05,7.4,26.5
+90,Sample-122,Habigonj,Surma,Sylhet,Without drainage,Market Place,12/15/2020,December,ORF1ab,37.19,840,2.92,581000,5.76,7.4,26.5
+91,Sample-1,Mymensing,Surma,Mymensing,Drainage,Isolation Center Drain Effluent,1/1/2021,January,ORF1ab,33.65,6520,3.81,3910000,6.59,6.8,23.5
+92,Sample-2,Mymensing,Surma,Mymensing,Drainage,Medical College Drain Wastage,1/1/2021,January,ORF1ab,34.32,5240,3.72,3150000,6.5,6.1,22.5
+93,Sample-3,Mymensing,Surma,Mymensing,Drainage,Medical College Drain Wastage,1/1/2021,January,ORF1ab,36.35,1370,3.14,821000,5.91,6.3,22.8
+94,Sample-4,Mymensing,Surma,Mymensing,Without drainage,Market Place,1/1/2021,January,ORF1ab,41.85,111,2.05,144000,5.16,6.9,24.5
+95,Sample-5,Mymensing,Surma,Mymensing,Drainage,City Drain Effluent,1/1/2021,January,ORF1ab,35.7,152,2.18,91300,4.96,7.3,24.7
+96,Sample-6,Mymensing,Surma,Mymensing,Without drainage,Bus Stand/ Rail station ,1/1/2021,January,ORF1ab,35.44,3110,3.49,1860000,6.27,7.8,25.3
+97,Sample-7,Mymensing,Surma,Mymensing,Without drainage,Communal Pond/River,1/1/2021,January,ORF1ab,37.46,951,2.98,571000,5.76,8.1,30.3
+98,Sample-8,Sylhet,Surma,Sylhet,Drainage,Isolation Center Drain Effluent,1/2/2021,January,ORF1ab,35.53,1580,3.2,950000,5.98,7.4,25.3
+99,Sample-9,Sylhet,Surma,Sylhet,Drainage,Medical College Drain Wastage,1/2/2021,January,ORF1ab,37.37,981,2.99,589000,5.77,8.3,3.3
+100,Sample-10,Sylhet,Surma,Sylhet,Without drainage,Market Place,1/2/2021,January,ORF1ab,35.34,3300,3.52,1980000,6.3,6.9,24.1
+101,Sample-11,Sylhet,Surma,Sylhet,Without drainage,Bus Stand/ Rail station ,1/2/2021,January,ORF1ab,37.23,1030,3.01,616000,5.79,8.5,29.7
+102,Sample-12,Sylhet,Surma,Sylhet,Drainage,City Drain Effluent,1/2/2021,January,ORF1ab,37.22,1030,3.01,618000,5.79,8.7,31.4
+103,Sample-13,Sylhet,Surma,Sylhet,Without drainage,Communal Pond/River,1/2/2021,January,ORF1ab,36.53,1260,3.1,753000,5.88,7.2,29.3
+104,Sample-14,Rajshahi,Jamuna,Rajshahi,Drainage,Isolation Center Drain Effluent,1/3/2021,January,ORF1ab,35.44,3110,3.49,1860000,6.27,7.5,25.6
+105,Sample-15,Rajshahi,Jamuna,Rajshahi,Drainage,Medical College Drain Wastage,1/3/2021,January,ORF1ab,36.42,1230,3.09,741000,5.87,7.6,29.4
+106,Sample-16,Rajshahi,Jamuna,Rajshahi,Without drainage,Market Place,1/3/2021,January,ORF1ab,37.76,853,2.93,512000,5.71,8.5,32.4
+107,Sample-17,Rajshahi,Jamuna,Rajshahi,Without drainage,Bus Stand/ Rail station ,1/3/2021,January,ORF1ab,41.77,193,2.29,106000,5.03,8.5,32
+108,Sample-18,Rajshahi,Jamuna,Rajshahi,Drainage,City Drain Effluent,1/3/2021,January,ORF1ab,38.39,647,2.81,388000,5.59,8.4,33.5
+109,Sample-19,Rajshahi,Jamuna,Rajshahi,Without drainage,Communal Pond/River,1/3/2021,January,ORF1ab,36.42,1230,3.09,741000,5.87,7.6,29.6
+110,Sample-20,Rangpur,Jamuna,Rangpur,Drainage,Isolation Center Drain Effluent,1/4/2021,January,ORF1ab,39.33,339,2.53,204000,5.31,8.6,30.4
+111,Sample-21,Rangpur,Jamuna,Rangpur,Drainage,Medical College Drain Wastage,1/4/2021,January,ORF1ab,39.73,209,2.32,125000,5.1,8.5,31`.2
+112,Sample-22,Rangpur,Jamuna,Rangpur,Without drainage,Market Place,1/4/2021,January,ORF1ab,36.12,1810,3.26,1080000,6.03,7.5,30.4
+113,Sample-23,Rangpur,Jamuna,Rangpur,Without drainage,Bus Stand/ Rail station ,1/4/2021,January,ORF1ab,41.9,111,2.05,111000,5.05,7.9,30.4
+114,Sample-24,Rangpur,Jamuna,Rangpur,Drainage,City Drain Effluent,1/4/2021,January,ORF1ab,38.73,536,2.73,321000,5.51,8.6,33.4
+115,Sample-25,Rangpur,Jamuna,Rangpur,Without drainage,Communal Pond/River,1/4/2021,January,ORF1ab,41.76,184,2.26,122000,5.09,7.6,32
+116,Sample-26,Gaibandha,Jamuna,Rangpur,Drainage,Isolation Center Drain Effluent,1/5/2021,January,ORF1ab,36.83,1160,3.06,695000,5.84,7.8,29.7
+117,Sample-27,Gaibandha,Jamuna,Rangpur,Drainage,Medical College Drain Wastage,1/5/2021,January,ORF1ab,36.81,1160,3.06,699000,5.84,7.7,28.7
+118,Sample-28,Gaibandha,Jamuna,Rangpur,Without drainage,Market Place,1/5/2021,January,ORF1ab,41.71,195,2.29,120000,5.08,7.5,29.5
+119,Sample-29,Gaibandha,Jamuna,Rangpur,Without drainage,Communal Pond/River,1/5/2021,January,ORF1ab,38,775,2.89,465000,5.67,7.9,28.4
+120,Sample-30,Gaibandha,Jamuna,Rangpur,Drainage,City Drain Effluent,1/5/2021,January,ORF1ab,38.32,670,2.83,402000,5.6,8.8,31.1
+121,Sample-31,Gaibandha,Jamuna,Rangpur,Without drainage,Bus Stand/ Rail station ,1/5/2021,January,ORF1ab,41.85,152,2.18,135000,5.13,8.7,30
+122,Sample-32,Dhaka,Padma,Dhaka,Drainage,Mohammadpur 1,1/6/2021,January,ORF1ab,35.32,3330,3.52,2000000,6.3,7.5,26.3
+123,Sample-33,Dhaka,Padma,Dhaka,Drainage,Mohammadpur 2,1/6/2021,January,ORF1ab,36.6,1230,3.09,740000,5.87,7.5,29.5
+124,Sample-34,Dhaka,Padma,Dhaka,Drainage,Mohammadpur 3,1/6/2021,January,ORF1ab,36.54,1250,3.1,752000,5.88,7.7,29.4
+125,Sample-35,Dhaka,Padma,Dhaka,Drainage,City Drain Effluent,1/6/2021,January,ORF1ab,41.62,131,2.12,144000,5.16,7.9,29.4
+126,Sample-36,Dhaka,Padma,Dhaka,Drainage,Mirpur Slum 2,1/6/2021,January,ORF1ab,35.22,3530,3.55,2120000,6.33,7.4,25.8
+127,Sample-37,Dhaka,Padma,Dhaka,Drainage,Mirpur Slum 3,1/6/2021,January,ORF1ab,38.75,529,2.72,318000,5.5,8.9,31.3
+128,Sample-38,Dhaka,Padma,Dhaka,Drainage,korail slum 1,1/6/2021,January,ORF1ab,41.77,163,2.21,111000,5.05,7.9,30.8
+129,Sample-39,Dhaka,Padma,Dhaka,Drainage,korail slum 2,1/6/2021,January,ORF1ab,38.2,709,2.85,426000,5.63,8.7,304
+130,Sample-40,Dhaka,Padma,Dhaka,Drainage,korail slum 3,1/6/2021,January,ORF1ab,33.76,6310,3.8,3790000,6.58,6.7,23.8
+131,Sample-41,Dhaka,Padma,Dhaka,Without drainage,Market Place,1/6/2021,January,ORF1ab,37.42,965,2.98,579000,5.76,8.2,31.4
+132,Sample-42,Dhaka,Padma,Dhaka,Drainage,Isolation Center Drain Effluent,1/6/2021,January,ORF1ab,41.62,193,2.29,126000,5.1,6.8,23.9
+133,Sample-43,Dhaka,Padma,Dhaka,Drainage,Isolation Center Drain Effluent,1/6/2021,January,ORF1ab,41.9,111,2.05,106000,5.03,7.4,27.5
+134,Sample-44,Dhaka,Padma,Dhaka,Without drainage,Communal Pond/River,1/6/2021,January,ORF1ab,34.32,5240,3.72,3150000,6.5,6.6,24.2
+135,Sample-45,Dhaka,Padma,Dhaka,Drainage,Medical College Drain Wastage,1/6/2021,January,ORF1ab,41.57,104,2.02,122000,5.09,7.3,26.5
+136,Sample-46,Dhaka,Padma,Dhaka,Drainage,Medical College Drain Wastage,1/6/2021,January,ORF1ab,41.76,122,2.09,112000,5.05,8.3,29.4
+137,Sample-47,Dhaka,Padma,Dhaka,Without drainage,Bus Stand/ Rail station ,1/6/2021,January,ORF1ab,41.71,152,2.18,135000,5.13,7.5,28.4
+138,Sample-48,Dhaka,Padma,Dhaka,Drainage,kuwait Moitri Hospital,1/6/2021,January,ORF1ab,33.33,6550,3.82,3930000,6.59,6.6,23.8
+139,Sample-49,Dhaka,Padma,Dhaka,Drainage,kuwait Moitri Hospital,1/6/2021,January,ORF1ab,41.62,131,2.12,115000,5.06,7.3,28.7
+140,Sample-50,Barisal,Meghna,Barisal,Drainage,Isolation Center Drain Effluent,1/7/2021,January,ORF1ab,37.23,1030,3.01,616000,5.79,8.4,29.4
+141,Sample-51,Barisal,Meghna,Barisal,Drainage,Medical College Drain Wastage,1/7/2021,January,ORF1ab,37.32,997,3,598000,5.78,7.9,30.4
+142,Sample-52,Barisal,Meghna,Barisal,Without drainage,Market Place,1/7/2021,January,ORF1ab,41.85,2900,3.46,1740000,6.24,8.4,30.3
+143,Sample-53,Barisal,Meghna,Barisal,Without drainage,Communal Pond/River,1/7/2021,January,ORF1ab,35.7,2610,3.42,1570000,6.2,7.5,26.1
+144,Sample-54,Barisal,Meghna,Barisal,Drainage,City Drain Effluent,1/7/2021,January,ORF1ab,38.4,644,2.81,386000,5.59,6.4,24.6
+145,Sample-55,Barisal,Meghna,Barisal,Without drainage,Bus Stand/ Rail station ,1/7/2021,January,ORF1ab,34.5,4900,3.69,2940000,6.47,6.3,23.9
+146,Sample-56,Chittagong,Meghna,Chittagong,Drainage,Isolation Center Drain Effluent,1/8/2021,January,ORF1ab,35.4,3180,3.5,1910000,6.28,7.8,26.7
+147,Sample-57,Chittagong,Meghna,Chittagong,Drainage,Medical College Drain Wastage,1/8/2021,January,ORF1ab,32.75,195,2.29,120000,5.08,6.3,22.8
+148,Sample-58,Chittagong,Meghna,Chittagong,Without drainage,Market Place,1/8/2021,January,ORF1ab,41.71,184,2.26,111000,5.05,7.1,28.5
+149,Sample-59,Chittagong,Meghna,Chittagong,Without drainage,Communal Pond/River,1/8/2021,January,ORF1ab,37.5,938,2.97,563000,5.75,8.4,31.4
+150,Sample-60,Chittagong,Meghna,Chittagong,Drainage,City Drain Effluent,1/8/2021,January,ORF1ab,41.77,131,2.12,126000,5.1,8.2,29.5
+151,Sample-61,Khulna,Meghna,Khulna,Drainage,Isolation Center Drain Effluent,1/9/2021,January,ORF1ab,35.55,2900,3.46,1740000,6.24,7.5,26.2
+152,Sample-62,Khulna,Meghna,Khulna,Drainage,Medical College Drain Wastage,1/9/2021,January,ORF1ab,41.9,193,2.29,144000,5.16,7.5,27.3
+153,Sample-63,Khulna,Meghna,Khulna,Without drainage,Market Place,1/9/2021,January,ORF1ab,35.42,3140,3.5,1890000,6.28,7.6,25.6
+154,Sample-64,Khulna,Meghna,Khulna,Without drainage,Communal Pond/River,1/9/2021,January,ORF1ab,36.73,1190,3.08,714000,5.85,7.3,28.8
+155,Sample-65,Khulna,Meghna,Khulna,Drainage,City Drain Effluent,1/9/2021,January,ORF1ab,39.6,251,2.4,151000,5.18,8.1,30.1
+156,Sample-66,Cox's Bazar ,Meghna,Chittagong,Drainage,Isolation Center Drain Effluent,1/10/2021,January,ORF1ab,32.12,24700,4.39,14800000,7.17,6.7,22.9
+157,Sample-67,Cox's Bazar ,Meghna,Chittagong,Drainage,Medical College Drain Wastage,1/10/2021,January,ORF1ab,41.71,111,2.05,106000,5.03,7.4,29.5
+158,Sample-68,Cox's Bazar ,Meghna,Chittagong,Without drainage,Market Place,1/10/2021,January,ORF1ab,35.65,2700,3.43,1620000,6.21,7.7,26.4
+159,Sample-69,Cox's Bazar ,Meghna,Chittagong,Without drainage,Communal Pond/River,1/10/2021,January,ORF1ab,41.76,152,2.18,112000,5.05,7.4,28.4
+160,Sample-70,Cox's Bazar ,Meghna,Chittagong,Drainage,City Drain Effluent,1/10/2021,January,ORF1ab,32.21,23400,4.37,14000000,7.15,6.6,23.4
+161,Sample-71,Comilla,Padma,Chittagong,Drainage,Isolation Center Drain Effluent,1/11/2021,January,ORF1ab,36.23,1600,3.2,958000,5.98,7.3,29.3
+162,Sample-72,Comilla,Padma,Chittagong,Drainage,Medical College Drain Wastage,1/11/2021,January,ORF1ab,41.57,104,2.02,122000,5.09,7.3,9.5
+163,Sample-73,Comilla,Padma,Chittagong,Without drainage,Market Place,1/11/2021,January,ORF1ab,38.74,533,2.73,320000,5.51,8.7,30.2
+164,Sample-74,Comilla,Padma,Chittagong,Without drainage,Communal Pond/River,1/11/2021,January,ORF1ab,39.45,300,2.48,180000,5.26,8.2,29.8
+165,Sample-75,Comilla,Padma,Chittagong,Drainage,City Drain Effluent,1/11/2021,January,ORF1ab,41.76,163,2.21,111000,5.05,8.4,28.5
+166,Sample-76,Kishorgonj,Surma,Dhaka,Drainage,Isolation Center Drain Effluent,1/12/2021,January,ORF1ab,39.65,235,2.37,141000,5.15,8.9,31.4
+167,Sample-77,Kishorgonj,Surma,Dhaka,Drainage,Medical College Drain Wastage,1/12/2021,January,ORF1ab,40.95,122,2.09,135000,5.13,7.9,29.5
+168,Sample-78,Kishorgonj,Surma,Dhaka,Without drainage,Market Place,1/12/2021,January,ORF1ab,38.65,562,2.75,337000,5.53,8.5,31.8
+169,Sample-79,Kishorgonj,Surma,Dhaka,Without drainage,Communal Pond/River,1/12/2021,January,ORF1ab,36.85,1150,3.06,691000,5.84,7.3,29.4
+170,Sample-80,Kishorgonj,Surma,Dhaka,Drainage,City Drain Effluent,1/12/2021,January,ORF1ab,41.85,184,2.26,126000,5.1,7.8,30.1
+171,Sample-111,Brahmobaria,Padma,Chittagong,Drainage,Isolation Center Drain Effluent,1/14/2021,January,ORF1ab,33.64,6540,3.82,3930000,6.59,6.5,23.7
+172,Sample-112,Brahmobaria,Padma,Chittagong,Drainage,Medical College Drain Wastage,1/14/2021,January,ORF1ab,38.5,611,2.79,367000,5.56,8.2,31.4
+173,Sample-113,Brahmobaria,Padma,Chittagong,Without drainage,Market Place,1/14/2021,January,ORF1ab,35.87,2280,3.36,1370000,6.14,7.4,28.4
+174,Sample-114,Brahmobaria,Padma,Chittagong,Without drainage,Communal Pond/River,1/14/2021,January,ORF1ab,41.77,195,2.29,106000,5.03,6.7,27.6
+175,Sample-115,Brahmobaria,Padma,Chittagong,Drainage,City Drain Effluent,1/14/2021,January,ORF1ab,37.79,843,2.93,506000,5.7,6.8,28.7
+176,Sample-116,Habigonj,Surma,Sylhet,Drainage,Isolation Center Drain Effluent,1/15/2021,January,ORF1ab,33.53,6750,3.83,4050000,6.61,6.7,23.9
+177,Sample-117,Habigonj,Surma,Sylhet,Drainage,Medical College Drain Wastage,1/15/2021,January,ORF1ab,33.32,111,2.05,144000,5.16,6.8,23.2
+178,Sample-118,Habigonj,Surma,Sylhet,Without drainage,Communal Pond/River,1/15/2021,January,ORF1ab,41.9,107,2.03,120000,5.08,8.3,28.8
+179,Sample-119,Habigonj,Surma,Sylhet,Drainage,City Drain Effluent,1/15/2021,January,ORF1ab,33.9,6050,3.78,3630000,6.56,6.4,23.7
+180,Sample-123,Habigonj,Surma,Sylhet,Without drainage,Market Place,12/15/2021,January,ORF1ab,38.22,145,2.16,90100,4.95,6.4,23.7
+181,Sample-1,Mymensing,Surma,Mymensing,Drainage,Isolation Center Drain Effluent,12/1/2020,December,N,34.35,5190,3.72,3110000,6.49,6.9,31.2
+182,Sample-2,Mymensing,Surma,Mymensing,Drainage,Medical College Drain Wastage,12/1/2020,December,N,35.47,3050,3.48,1830000,6.26,6.8,30.1
+183,Sample-3,Mymensing,Surma,Mymensing,Drainage,Medical College Drain Wastage,12/1/2020,December,N,34.1,5660,3.75,3400000,6.53,6.9,28.5
+184,Sample-4,Mymensing,Surma,Mymensing,Without drainage,Market Place,12/1/2020,December,N,41.57,152,2.18,122000,5.09,7.8,29.5
+185,Sample-5,Mymensing,Surma,Mymensing,Drainage,City Drain Effluent,12/1/2020,December,N,41.51,152,2.18,111000,5.05,6.8,32.6
+186,Sample-6,Mymensing,Surma,Mymensing,Without drainage,Bus Stand/ Rail station ,12/1/2020,December,N,37.92,801,2.9,481000,5.68,7.5,30.1
+187,Sample-7,Mymensing,Surma,Mymensing,Without drainage,Communal Pond/River,12/1/2020,December,N,41.71,122,2.09,115000,5.06,7.2,29.9
+188,Sample-8,Sylhet,Surma,Sylhet,Drainage,Isolation Center Drain Effluent,12/2/2020,December,N,41.77,140,2.15,126000,5.1,6.7,30.2
+189,Sample-9,Sylhet,Surma,Sylhet,Drainage,Medical College Drain Wastage,12/2/2020,December,N,37.36,984,2.99,591000,5.77,6.8,29.8
+190,Sample-10,Sylhet,Surma,Sylhet,Without drainage,Market Place,12/2/2020,December,N,36.54,1250,3.1,752000,5.88,6.9,27.9
+191,Sample-11,Sylhet,Surma,Sylhet,Without drainage,Bus Stand/ Rail station ,12/2/2020,December,N,34.72,4480,3.65,2690000,6.43,8.2,28.4
+192,Sample-12,Sylhet,Surma,Sylhet,Drainage,City Drain Effluent,12/2/2020,December,N,41.51,104,2.02,112000,5.05,6.5,23.01
+193,Sample-13,Sylhet,Surma,Sylhet,Without drainage,Communal Pond/River,12/2/2020,December,N,41,163,2.21,135000,5.13,6.7,29.8
+194,Sample-14,Rajshahi,Jamuna,Rajshahi,Drainage,Isolation Center Drain Effluent,12/3/2020,December,N,41.85,193,2.29,119000,5.08,6.8,29.8
+195,Sample-15,Rajshahi,Jamuna,Rajshahi,Drainage,Medical College Drain Wastage,12/3/2020,December,N,36.4,1270,3.1,764000,5.88,6.7,31.4
+196,Sample-16,Rajshahi,Jamuna,Rajshahi,Without drainage,Market Place,12/3/2020,December,N,41.9,107,2.03,106000,5.03,6.6,31.4
+197,Sample-17,Rajshahi,Jamuna,Rajshahi,Without drainage,Bus Stand/ Rail station ,12/3/2020,December,N,34.43,5030,3.7,3020000,6.48,7.5,31.6
+198,Sample-18,Rajshahi,Jamuna,Rajshahi,Drainage,City Drain Effluent,12/3/2020,December,N,41.76,140,2.15,144000,5.16,7.6,29.5
+199,Sample-19,Rajshahi,Jamuna,Rajshahi,Without drainage,Communal Pond/River,12/3/2020,December,N,33.17,8950,3.95,5370000,6.73,7.3,29.6
+200,Sample-20,Rangpur,Jamuna,Rangpur,Drainage,Isolation Center Drain Effluent,12/4/2020,December,N,29.5,64000,4.81,38400000,7.58,7.1,29.5
+201,Sample-21,Rangpur,Jamuna,Rangpur,Drainage,Medical College Drain Wastage,12/4/2020,December,N,40.95,184,2.26,120000,5.08,6.8,30.8
+202,Sample-22,Rangpur,Jamuna,Rangpur,Without drainage,Market Place,12/4/2020,December,N,37.6,906,2.96,543000,5.73,6.4,25.6
+203,Sample-23,Rangpur,Jamuna,Rangpur,Without drainage,Bus Stand/ Rail station ,12/4/2020,December,N,34.41,5070,3.71,3040000,6.48,7.1,28.9
+204,Sample-24,Rangpur,Jamuna,Rangpur,Drainage,City Drain Effluent,12/4/2020,December,N,41.51,111,2.05,126000,5.1,7.2,22.9
+205,Sample-25,Rangpur,Jamuna,Rangpur,Without drainage,Communal Pond/River,12/4/2020,December,N,41.71,195,2.29,111000,5.05,7.4,31.2
+206,Sample-26,Gaibandha,Jamuna,Rangpur,Drainage,Isolation Center Drain Effluent,12/5/2020,December,N,34.48,4940,3.69,2960000,6.47,7.2,22.1
+207,Sample-27,Gaibandha,Jamuna,Rangpur,Drainage,Medical College Drain Wastage,12/5/2020,December,N,36.8,1170,3.07,700000,5.85,6.8,24.8
+208,Sample-28,Gaibandha,Jamuna,Rangpur,Without drainage,Market Place,12/5/2020,December,N,30.72,45700,4.66,27400000,7.44,6.3,23.6
+209,Sample-29,Gaibandha,Jamuna,Rangpur,Without drainage,Communal Pond/River,12/5/2020,December,N,41.77,152,2.18,122000,5.09,6.5,28.7
+210,Sample-30,Gaibandha,Jamuna,Rangpur,Drainage,City Drain Effluent,12/5/2020,December,N,37.4,971,2.99,583000,5.77,7.8,28.8
+211,Sample-31,Gaibandha,Jamuna,Rangpur,Without drainage,Bus Stand/ Rail station ,12/5/2020,December,N,37.23,1030,3.01,616000,5.79,6.4,27.8
+212,Sample-32,Dhaka,Padma,Dhaka,Drainage,Mohammadpur 1,12/6/2020,December,N,34.12,5630,3.75,3380000,6.53,7.5,29.6
+213,Sample-33,Dhaka,Padma,Dhaka,Drainage,Mohammadpur 2,12/6/2020,December,N,37.42,965,2.98,579000,5.76,7.4,30.4
+214,Sample-34,Dhaka,Padma,Dhaka,Drainage,Mohammadpur 3,12/6/2020,December,N,37.41,968,2.99,581000,5.76,7.3,29.4
+215,Sample-35,Dhaka,Padma,Dhaka,Drainage,City Drain Effluent,12/6/2020,December,N,37.48,945,2.98,567000,5.75,8.7,30.4
+216,Sample-36,Dhaka,Padma,Dhaka,Drainage,Mirpur Slum 2,12/6/2020,December,N,35.44,3110,3.49,1860000,6.27,8.5,30.4
+217,Sample-37,Dhaka,Padma,Dhaka,Drainage,Mirpur Slum 3,12/6/2020,December,N,41.9,193,2.29,106000,5.03,8.3,"28,3"
+218,Sample-38,Dhaka,Padma,Dhaka,Drainage,korail slum 1,12/6/2020,December,N,37.42,965,2.98,579000,5.76,8.2,30.6
+219,Sample-39,Dhaka,Padma,Dhaka,Drainage,korail slum 2,12/6/2020,December,N,37.42,965,2.98,579000,5.76,8.5,30.6
+220,Sample-40,Dhaka,Padma,Dhaka,Drainage,korail slum 3,12/6/2020,December,N,34.42,5050,3.7,3030000,6.48,8.1,30.7
+221,Sample-41,Dhaka,Padma,Dhaka,Without drainage,Market Place,12/6/2020,December,N,35.42,3140,3.5,1890000,6.28,7.7,29.5
+222,Sample-42,Dhaka,Padma,Dhaka,Drainage,Isolation Center Drain Effluent,12/6/2020,December,N,36.37,1330,3.12,798000,5.9,7.5,26.6
+223,Sample-43,Dhaka,Padma,Dhaka,Drainage,Isolation Center Drain Effluent,12/6/2020,December,N,41.85,104,2.02,144000,5.16,6.9,28.4
+224,Sample-44,Dhaka,Padma,Dhaka,Without drainage,Communal Pond/River,12/6/2020,December,N,37.24,1020,3.01,614000,5.79,6.6,24.9
+225,Sample-45,Dhaka,Padma,Dhaka,Drainage,Medical College Drain Wastage,12/6/2020,December,N,33.11,7550,3.88,4530000,6.66,7.2,29.3
+226,Sample-46,Dhaka,Padma,Dhaka,Drainage,Medical College Drain Wastage,12/6/2020,December,N,36.44,1200,3.08,718000,5.86,6.9,29.1
+227,Sample-47,Dhaka,Padma,Dhaka,Without drainage,Bus Stand/ Rail station ,12/6/2020,December,N,36.45,1180,3.07,706000,5.85,6.9,30.5
+228,Sample-48,Dhaka,Padma,Dhaka,Drainage,kuwait Moitri Hospital,12/6/2020,December,N,33.37,7060,3.85,4230000,6.63,6.8,24.9
+229,Sample-49,Dhaka,Padma,Dhaka,Drainage,kuwait Moitri Hospital,12/6/2020,December,N,36.2,1650,3.22,993000,6,6.9,31.8
+230,Sample-50,Barisal,Meghna,Barisal,Drainage,Isolation Center Drain Effluent,12/7/2020,December,N,32.6,163,2.21,126000,5.1,7.3,26.7
+231,Sample-51,Barisal,Meghna,Barisal,Drainage,Medical College Drain Wastage,12/7/2020,December,N,35.21,3540,3.55,2130000,6.33,6.9,31.1
+232,Sample-52,Barisal,Meghna,Barisal,Without drainage,Market Place,12/7/2020,December,N,32.45,19800,4.3,11900000,7.08,6.4,27.5
+233,Sample-53,Barisal,Meghna,Barisal,Without drainage,Communal Pond/River,12/7/2020,December,N,36.34,1390,3.14,832000,5.92,6.6,28.5
+234,Sample-54,Barisal,Meghna,Barisal,Drainage,City Drain Effluent,12/7/2020,December,N,32.14,24400,4.39,14600000,7.16,6.8,28.4
+235,Sample-55,Barisal,Meghna,Barisal,Without drainage,Bus Stand/ Rail station ,12/7/2020,December,N,41.77,122,2.09,120000,5.08,6.7,29.7
+236,Sample-56,Chittagong,Meghna,Chittagong,Drainage,Isolation Center Drain Effluent,12/8/2020,December,N,26.28,112000,5.05,67400000,7.83,6.8,22.9
+237,Sample-57,Chittagong,Meghna,Chittagong,Drainage,Medical College Drain Wastage,12/8/2020,December,N,41.85,195,2.29,111000,5.05,6.3,22.9
+238,Sample-58,Chittagong,Meghna,Chittagong,Without drainage,Market Place,12/8/2020,December,N,41.9,184,2.26,106000,5.03,6.4,25.1
+239,Sample-59,Chittagong,Meghna,Chittagong,Without drainage,Communal Pond/River,12/8/2020,December,N,34.62,4670,3.67,2800000,6.45,6.7,27.5
+240,Sample-60,Chittagong,Meghna,Chittagong,Drainage,City Drain Effluent,12/8/2020,December,N,37.11,1070,3.03,640000,5.81,6.9,28.5
+241,Sample-61,Khulna,Meghna,Khulna,Drainage,Isolation Center Drain Effluent,12/9/2020,December,N,35.17,3620,3.56,2170000,6.34,7.2,28.2
+242,Sample-62,Khulna,Meghna,Khulna,Drainage,Medical College Drain Wastage,12/9/2020,December,N,38.75,529,2.72,318000,5.5,7.1,29.5
+243,Sample-63,Khulna,Meghna,Khulna,Without drainage,Market Place,12/9/2020,December,N,40.95,152,2.18,135000,5.13,7.5,27.9
+244,Sample-64,Khulna,Meghna,Khulna,Without drainage,Communal Pond/River,12/9/2020,December,N,41.76,152,2.18,144000,5.16,6.8,30.2
+245,Sample-65,Khulna,Meghna,Khulna,Drainage,City Drain Effluent,12/9/2020,December,N,36.2,1650,3.22,993000,6,6.9,30.5
+246,Sample-66,Cox's Bazar ,Meghna,Chittagong,Drainage,Isolation Center Drain Effluent,12/10/2020,December,N,37.4,971,2.99,583000,5.77,6.8,26.9
+247,Sample-67,Cox's Bazar ,Meghna,Chittagong,Drainage,Medical College Drain Wastage,12/10/2020,December,N,37.48,945,2.98,567000,5.75,6.7,30.4
+248,Sample-68,Cox's Bazar ,Meghna,Chittagong,Without drainage,Market Place,12/10/2020,December,N,41.14,104,2.02,126000,5.1,7.1,29.9
+249,Sample-69,Cox's Bazar ,Meghna,Chittagong,Without drainage,Communal Pond/River,12/10/2020,December,N,37.8,840,2.92,504000,5.7,6.9,32.1
+250,Sample-70,Cox's Bazar ,Meghna,Chittagong,Drainage,City Drain Effluent,12/10/2020,December,N,41.71,140,2.15,122000,5.09,7,29.5
+251,Sample-71,Comilla,Padma,Chittagong,Drainage,Isolation Center Drain Effluent,12/11/2020,December,N,41.85,193,2.29,112000,5.05,6.8,29.9
+252,Sample-72,Comilla,Padma,Chittagong,Drainage,Medical College Drain Wastage,12/11/2020,December,N,35.56,2880,3.46,1730000,6.24,6.7,30.3
+253,Sample-73,Comilla,Padma,Chittagong,Without drainage,Market Place,12/11/2020,December,N,37.48,945,2.98,567000,5.75,7.3,29.4
+254,Sample-74,Comilla,Padma,Chittagong,Without drainage,Communal Pond/River,12/11/2020,December,N,41.77,163,2.21,115000,5.06,6.5,28.5
+255,Sample-75,Comilla,Padma,Chittagong,Drainage,City Drain Effluent,12/11/2020,December,N,39.48,290,2.46,174000,5.24,7.3,30.4
+256,Sample-76,Kishorgonj,Surma,Dhaka,Drainage,Isolation Center Drain Effluent,12/12/2020,December,N,36.48,1120,3.05,672000,5.83,7.3,29.4
+257,Sample-77,Kishorgonj,Surma,Dhaka,Drainage,Medical College Drain Wastage,12/12/2020,December,N,41.14,122,2.09,119000,5.08,7.2,29.6
+258,Sample-78,Kishorgonj,Surma,Dhaka,Without drainage,Market Place,12/12/2020,December,N,41.13,131,2.12,120000,5.08,7.5,27.4
+259,Sample-79,Kishorgonj,Surma,Dhaka,Without drainage,Communal Pond/River,12/12/2020,December,N,41.9,107,2.03,111000,5.05,6.9,29.1
+260,Sample-80,Kishorgonj,Surma,Dhaka,Drainage,City Drain Effluent,12/12/2020,December,N,41.13,200,2.3,120000,5.08,76.6,29.5
+261,Sample-111,Brahmobaria,Padma,Chittagong,Drainage,Isolation Center Drain Effluent,12/14/2020,December,N,41.11,140,2.15,106000,5.03,7.1,27.9
+262,Sample-112,Brahmobaria,Padma,Chittagong,Drainage,Medical College Drain Wastage,12/14/2020,December,N,32.34,2630,3.42,1580000,6.2,6.9,29.3
+263,Sample-113,Brahmobaria,Padma,Chittagong,Without drainage,Market Place,12/14/2020,December,N,41.76,195,2.29,122000,5.09,6.8,29.8
+264,Sample-114,Brahmobaria,Padma,Chittagong,Without drainage,Communal Pond/River,12/14/2020,December,N,41.71,184,2.26,135000,5.13,6.6,29.9
+265,Sample-115,Brahmobaria,Padma,Chittagong,Drainage,City Drain Effluent,12/14/2020,December,N,36.69,1200,3.08,722000,5.86,7.3,28.3
+266,Sample-116,Habigonj,Surma,Sylhet,Drainage,Isolation Center Drain Effluent,12/15/2020,December,N,41.77,152,2.18,126000,5.1,"6,.6",28.2
+267,Sample-117,Habigonj,Surma,Sylhet,Drainage,Medical College Drain Wastage,12/15/2020,December,N,34.12,5630,3.75,3380000,6.53,6.4,27.4
+268,Sample-118,Habigonj,Surma,Sylhet,Without drainage,Communal Pond/River,12/15/2020,December,N,41.85,111,2.05,144000,5.16,6.8,27.6
+269,Sample-119,Habigonj,Surma,Sylhet,Drainage,City Drain Effluent,12/15/2020,December,N,38.4,644,2.81,386000,5.59,7.4,26.5
+270,Sample-121,Habigonj,Surma,Sylhet,Without drainage,Market Place,12/15/2020,December,N,38.4,644,2.81,386000,5.59,7.4,26.5
+271,Sample-1,Mymensing,Surma,Mymensing,Drainage,Isolation Center Drain Effluent,1/1/2021,January,N,32.13,24600,4.39,14700000,7.17,6.8,23.5
+272,Sample-2,Mymensing,Surma,Mymensing,Drainage,Medical College Drain Wastage,1/1/2021,January,N,33.67,6480,3.81,3890000,6.59,6.1,22.5
+273,Sample-3,Mymensing,Surma,Mymensing,Drainage,Medical College Drain Wastage,1/1/2021,January,N,33.68,6470,3.81,3880000,6.59,6.3,22.8
+274,Sample-4,Mymensing,Surma,Mymensing,Without drainage,Market Place,1/1/2021,January,N,37.44,958,2.98,575000,5.76,6.9,24.5
+275,Sample-5,Mymensing,Surma,Mymensing,Drainage,City Drain Effluent,1/1/2021,January,N,37.33,994,3,596000,5.78,7.3,24.7
+276,Sample-6,Mymensing,Surma,Mymensing,Without drainage,Bus Stand/ Rail station ,1/1/2021,January,N,36.22,1620,3.21,970000,5.99,7.8,25.3
+277,Sample-7,Mymensing,Surma,Mymensing,Without drainage,Communal Pond/River,1/1/2021,January,N,35.45,3090,3.49,1850000,6.27,8.1,30.3
+278,Sample-8,Sylhet,Surma,Sylhet,Drainage,Isolation Center Drain Effluent,1/2/2021,January,N,35.64,2720,3.43,1630000,6.21,7.4,25.3
+279,Sample-9,Sylhet,Surma,Sylhet,Drainage,Medical College Drain Wastage,1/2/2021,January,N,36.34,1390,3.14,832000,5.92,8.3,3.3
+280,Sample-10,Sylhet,Surma,Sylhet,Without drainage,Market Place,1/2/2021,January,N,37.32,997,3,598000,5.78,6.9,24.1
+281,Sample-11,Sylhet,Surma,Sylhet,Without drainage,Bus Stand/ Rail station ,1/2/2021,January,N,36.34,1390,3.14,832000,5.92,8.5,29.7
+282,Sample-12,Sylhet,Surma,Sylhet,Drainage,City Drain Effluent,1/2/2021,January,N,38.42,637,2.8,382000,5.58,8.7,31.4
+283,Sample-13,Sylhet,Surma,Sylhet,Without drainage,Communal Pond/River,1/2/2021,January,N,41.9,104,2.02,144000,5.16,7.2,29.3
+284,Sample-14,Rajshahi,Jamuna,Rajshahi,Drainage,Isolation Center Drain Effluent,1/3/2021,January,N,37.84,827,2.92,496000,5.7,7.5,25.6
+285,Sample-15,Rajshahi,Jamuna,Rajshahi,Drainage,Medical College Drain Wastage,1/3/2021,January,N,39.23,372,2.57,223000,5.35,7.6,29.4
+286,Sample-16,Rajshahi,Jamuna,Rajshahi,Without drainage,Market Place,1/3/2021,January,N,36.32,1320,3.12,795000,5.9,8.5,32.4
+287,Sample-17,Rajshahi,Jamuna,Rajshahi,Without drainage,Bus Stand/ Rail station ,1/3/2021,January,N,38.64,565,2.75,339000,5.53,8.5,32
+288,Sample-18,Rajshahi,Jamuna,Rajshahi,Drainage,City Drain Effluent,1/3/2021,January,N,41.85,163,2.21,111000,5.05,8.4,33.5
+289,Sample-19,Rajshahi,Jamuna,Rajshahi,Without drainage,Communal Pond/River,1/3/2021,January,N,41.11,193,2.29,106000,5.03,7.6,29.6
+290,Sample-20,Rangpur,Jamuna,Rangpur,Drainage,Isolation Center Drain Effluent,1/4/2021,January,N,37.82,834,2.92,500000,5.7,8.6,30.4
+291,Sample-21,Rangpur,Jamuna,Rangpur,Drainage,Medical College Drain Wastage,1/4/2021,January,N,41.71,195,2.29,122000,5.09,8.5,31`.2
+292,Sample-22,Rangpur,Jamuna,Rangpur,Without drainage,Market Place,1/4/2021,January,N,36.38,1300,3.11,783000,5.89,7.5,30.4
+293,Sample-23,Rangpur,Jamuna,Rangpur,Without drainage,Bus Stand/ Rail station ,1/4/2021,January,N,37.19,1040,3.02,624000,5.8,7.9,30.4
+294,Sample-24,Rangpur,Jamuna,Rangpur,Drainage,City Drain Effluent,1/4/2021,January,N,39.33,339,2.53,204000,5.31,8.6,33.4
+295,Sample-25,Rangpur,Jamuna,Rangpur,Without drainage,Communal Pond/River,1/4/2021,January,N,41.76,122,2.09,126000,5.1,7.6,32
+296,Sample-26,Gaibandha,Jamuna,Rangpur,Drainage,Isolation Center Drain Effluent,1/5/2021,January,N,37.36,984,2.99,591000,5.77,7.8,29.7
+297,Sample-27,Gaibandha,Jamuna,Rangpur,Drainage,Medical College Drain Wastage,1/5/2021,January,N,37.36,984,2.99,591000,5.77,7.7,28.7
+298,Sample-28,Gaibandha,Jamuna,Rangpur,Without drainage,Market Place,1/5/2021,January,N,36.38,1300,3.11,783000,5.89,7.5,29.5
+299,Sample-29,Gaibandha,Jamuna,Rangpur,Without drainage,Communal Pond/River,1/5/2021,January,N,37.35,987,2.99,592000,5.77,7.9,28.4
+300,Sample-30,Gaibandha,Jamuna,Rangpur,Drainage,City Drain Effluent,1/5/2021,January,N,41.85,152,2.18,120000,5.08,8.8,31.1
+301,Sample-31,Gaibandha,Jamuna,Rangpur,Without drainage,Bus Stand/ Rail station ,1/5/2021,January,N,41.77,184,2.26,135000,5.13,8.7,30
+302,Sample-32,Dhaka,Padma,Dhaka,Drainage,Mohammadpur 1,1/6/2021,January,N,41.9,163,2.21,106000,5.03,7.5,26.3
+303,Sample-33,Dhaka,Padma,Dhaka,Drainage,Mohammadpur 2,1/6/2021,January,N,37.72,866,2.94,520000,5.72,7.5,29.5
+304,Sample-34,Dhaka,Padma,Dhaka,Drainage,Mohammadpur 3,1/6/2021,January,N,33.78,6270,3.8,3760000,6.58,7.7,29.4
+305,Sample-35,Dhaka,Padma,Dhaka,Drainage,City Drain Effluent,1/6/2021,January,N,37.54,925,2.97,555000,5.74,7.9,29.4
+306,Sample-36,Dhaka,Padma,Dhaka,Drainage,Mirpur Slum 2,1/6/2021,January,N,40.95,152,2.18,144000,5.16,7.4,25.8
+307,Sample-37,Dhaka,Padma,Dhaka,Drainage,Mirpur Slum 3,1/6/2021,January,N,39.32,343,2.54,206000,5.31,8.9,31.3
+308,Sample-38,Dhaka,Padma,Dhaka,Drainage,korail slum 1,1/6/2021,January,N,36.74,1190,3.08,712000,5.85,7.9,30.8
+309,Sample-39,Dhaka,Padma,Dhaka,Drainage,korail slum 2,1/6/2021,January,N,36.43,1220,3.09,729000,5.86,8.7,304
+310,Sample-40,Dhaka,Padma,Dhaka,Drainage,korail slum 3,1/6/2021,January,N,40.95,107,2.03,111000,5.05,6.7,23.8
+311,Sample-41,Dhaka,Padma,Dhaka,Without drainage,Market Place,1/6/2021,January,N,41.11,104,2.02,122000,5.09,8.2,31.4
+312,Sample-42,Dhaka,Padma,Dhaka,Drainage,Isolation Center Drain Effluent,1/6/2021,January,N,33.64,6540,3.82,3930000,6.59,6.8,23.9
+313,Sample-43,Dhaka,Padma,Dhaka,Drainage,Isolation Center Drain Effluent,1/6/2021,January,N,41.76,193,2.29,112000,5.05,7.4,27.5
+314,Sample-44,Dhaka,Padma,Dhaka,Without drainage,Communal Pond/River,1/6/2021,January,N,31.31,36900,4.57,22100000,7.34,6.6,24.2
+315,Sample-45,Dhaka,Padma,Dhaka,Drainage,Medical College Drain Wastage,1/6/2021,January,N,33.75,6330,3.8,3800000,6.58,7.3,26.5
+316,Sample-46,Dhaka,Padma,Dhaka,Drainage,Medical College Drain Wastage,1/6/2021,January,N,41.71,111,2.05,115000,5.06,8.3,29.4
+317,Sample-47,Dhaka,Padma,Dhaka,Without drainage,Bus Stand/ Rail station ,1/6/2021,January,N,36.31,1440,3.16,867000,5.94,7.5,28.4
+318,Sample-48,Dhaka,Padma,Dhaka,Drainage,kuwait Moitri Hospital,1/6/2021,January,N,31,41500,4.62,24900000,7.4,6.6,23.8
+319,Sample-49,Dhaka,Padma,Dhaka,Drainage,kuwait Moitri Hospital,1/6/2021,January,N,33.51,6790,3.83,4070000,6.61,7.3,28.7
+320,Sample-50,Barisal,Meghna,Barisal,Drainage,Isolation Center Drain Effluent,1/7/2021,January,N,41.77,195,2.29,126000,5.1,8.4,29.4
+321,Sample-51,Barisal,Meghna,Barisal,Drainage,Medical College Drain Wastage,1/7/2021,January,N,35.56,2880,3.46,1730000,6.24,7.9,30.4
+322,Sample-52,Barisal,Meghna,Barisal,Without drainage,Market Place,1/7/2021,January,N,36.7,184,2.26,120000,5.08,8.4,30.3
+323,Sample-53,Barisal,Meghna,Barisal,Without drainage,Communal Pond/River,1/7/2021,January,N,33.22,8200,3.91,4920000,6.69,7.5,26.1
+324,Sample-54,Barisal,Meghna,Barisal,Drainage,City Drain Effluent,1/7/2021,January,N,36.7,1200,3.08,720000,5.86,6.4,24.6
+325,Sample-55,Barisal,Meghna,Barisal,Without drainage,Bus Stand/ Rail station ,1/7/2021,January,N,34.13,5610,3.75,3360000,6.53,6.3,23.9
+326,Sample-56,Chittagong,Meghna,Chittagong,Drainage,Isolation Center Drain Effluent,1/8/2021,January,N,37,122,2.09,111000,5.05,7.8,26.7
+327,Sample-57,Chittagong,Meghna,Chittagong,Drainage,Medical College Drain Wastage,1/8/2021,January,N,38.4,163,2.21,106000,5.03,6.3,22.8
+328,Sample-58,Chittagong,Meghna,Chittagong,Without drainage,Market Place,1/8/2021,January,N,35,3950,3.6,2370000,6.37,7.1,28.5
+329,Sample-59,Chittagong,Meghna,Chittagong,Without drainage,Communal Pond/River,1/8/2021,January,N,41.9,152,2.18,144000,5.16,8.4,31.4
+330,Sample-60,Chittagong,Meghna,Chittagong,Drainage,City Drain Effluent,1/8/2021,January,N,33.21,8350,3.92,5010000,6.7,8.2,29.5
+331,Sample-61,Khulna,Meghna,Khulna,Drainage,Isolation Center Drain Effluent,1/9/2021,January,N,41.85,107,2.03,122000,5.09,7.5,26.2
+332,Sample-62,Khulna,Meghna,Khulna,Drainage,Medical College Drain Wastage,1/9/2021,January,N,34.76,4400,3.64,2640000,6.42,7.5,27.3
+333,Sample-63,Khulna,Meghna,Khulna,Without drainage,Market Place,1/9/2021,January,N,36.5,152,2.18,135000,5.13,7.6,25.6
+334,Sample-64,Khulna,Meghna,Khulna,Without drainage,Communal Pond/River,1/9/2021,January,N,33.37,5950,3.77,3570000,6.55,7.3,28.8
+335,Sample-65,Khulna,Meghna,Khulna,Drainage,City Drain Effluent,1/9/2021,January,N,35.71,2590,3.41,1550000,6.19,8.1,30.1
+336,Sample-66,Cox's Bazar ,Meghna,Chittagong,Drainage,Isolation Center Drain Effluent,1/10/2021,January,N,35.27,3430,3.54,2060000,6.31,6.7,22.9
+337,Sample-67,Cox's Bazar ,Meghna,Chittagong,Drainage,Medical College Drain Wastage,1/10/2021,January,N,35.21,3540,3.55,2130000,6.33,7.4,29.5
+338,Sample-68,Cox's Bazar ,Meghna,Chittagong,Without drainage,Market Place,1/10/2021,January,N,41.71,140,2.15,126000,5.1,7.7,26.4
+339,Sample-69,Cox's Bazar ,Meghna,Chittagong,Without drainage,Communal Pond/River,1/10/2021,January,N,35.31,3350,3.53,2010000,6.3,7.4,28.4
+340,Sample-70,Cox's Bazar ,Meghna,Chittagong,Drainage,City Drain Effluent,1/10/2021,January,N,40.95,104,2.02,115000,5.06,6.6,23.4
+341,Sample-71,Comilla,Padma,Chittagong,Drainage,Isolation Center Drain Effluent,1/11/2021,January,N,41.76,131,2.12,112000,5.05,7.3,29.3
+342,Sample-72,Comilla,Padma,Chittagong,Drainage,Medical College Drain Wastage,1/11/2021,January,N,37.4,107,2.03,111000,5.05,7.3,9.5
+343,Sample-73,Comilla,Padma,Chittagong,Without drainage,Market Place,1/11/2021,January,N,41.71,195,2.29,119000,5.08,8.7,30.2
+344,Sample-74,Comilla,Padma,Chittagong,Without drainage,Communal Pond/River,1/11/2021,January,N,41.77,193,2.29,120000,5.08,8.2,29.8
+345,Sample-75,Comilla,Padma,Chittagong,Drainage,City Drain Effluent,1/11/2021,January,N,34.4,5090,3.71,3050000,6.48,8.4,28.5
+346,Sample-76,Kishorgonj,Surma,Dhaka,Drainage,Isolation Center Drain Effluent,1/12/2021,January,N,32.32,21700,4.34,13000000,7.11,8.9,31.4
+347,Sample-77,Kishorgonj,Surma,Dhaka,Drainage,Medical College Drain Wastage,1/12/2021,January,N,37.21,152,2.18,115000,5.06,7.9,29.5
+348,Sample-78,Kishorgonj,Surma,Dhaka,Without drainage,Market Place,1/12/2021,January,N,36.38,1310,3.12,787000,5.9,8.5,31.8
+349,Sample-79,Kishorgonj,Surma,Dhaka,Without drainage,Communal Pond/River,1/12/2021,January,N,41.76,184,2.26,135000,5.13,7.3,29.4
+350,Sample-80,Kishorgonj,Surma,Dhaka,Drainage,City Drain Effluent,1/12/2021,January,N,36.74,122,2.09,120000,5.08,7.8,30.1
+351,Sample-111,Brahmobaria,Padma,Chittagong,Drainage,Isolation Center Drain Effluent,1/14/2021,January,N,36.4,1270,3.1,764000,5.88,6.5,23.7
+352,Sample-112,Brahmobaria,Padma,Chittagong,Drainage,Medical College Drain Wastage,1/14/2021,January,N,41.77,195,2.29,122000,5.09,8.2,31.4
+353,Sample-113,Brahmobaria,Padma,Chittagong,Without drainage,Market Place,1/14/2021,January,N,41.9,193,2.29,126000,5.1,7.4,28.4
+354,Sample-114,Brahmobaria,Padma,Chittagong,Without drainage,Communal Pond/River,1/14/2021,January,N,37.87,163,2.21,144000,5.16,6.7,27.6
+355,Sample-115,Brahmobaria,Padma,Chittagong,Drainage,City Drain Effluent,1/14/2021,January,N,41.85,104,2.02,111000,5.05,6.8,28.7
+356,Sample-116,Habigonj,Surma,Sylhet,Drainage,Isolation Center Drain Effluent,1/15/2021,January,N,33.44,4900,3.69,2940000,6.47,6.7,23.9
+357,Sample-117,Habigonj,Surma,Sylhet,Drainage,Medical College Drain Wastage,1/15/2021,January,N,38.12,735,2.87,441000,5.64,6.8,23.2
+358,Sample-118,Habigonj,Surma,Sylhet,Without drainage,Communal Pond/River,1/15/2021,January,N,37.63,152,2.18,106000,5.03,8.3,28.8
+359,Sample-119,Habigonj,Surma,Sylhet,Drainage,City Drain Effluent,1/15/2021,January,N,41.9,111,2.05,144000,5.16,6.4,23.7
+360,Sample-120,Habigonj,Surma,Sylhet,Without drainage,Market Place,1/15/2021,January,N,37.36,984,2.99,591000,5.77,6.4,23.7

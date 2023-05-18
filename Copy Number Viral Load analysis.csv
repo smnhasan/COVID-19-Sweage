@@ -1,0 +1,357 @@
+ID,Sample,District,Division,Site,Station,Day,Month,Gene,Ct Value,Copy Number,Viral Load,PN
+1,Sample-1,Mymensing,Mymensing,Drainage,Isolation Center Drain Effluent,1-Dec,December,ORF1ab,41.9,111.15,144372.8,100
+2,Sample-2,Mymensing,Mymensing,Drainage,Sadar Hospital Drain Effluent,1-Dec,December,ORF1ab,37.12,1062.7376,110678.4,100
+3,Sample-3,Mymensing,Mymensing,Drainage,Medical College Drain Wastage,1-Dec,December,ORF1ab,41.85,152.1,121523.8,100
+4,Sample-4,Mymensing,Mymensing,Non-drainage,Market Place,1-Dec,December,ORF1ab,41.77,104.25,105881.1,100
+5,Sample-5,Mymensing,Mymensing,Drainage,City Drain Effluent,1-Dec,December,ORF1ab,41.76,162.76,120303.9,100
+6,Sample-6,Mymensing,Mymensing,Non-drainage,Bus Stand/ Rail station ,1-Dec,December,ORF1ab,36.41,1253.669,752201.4,100
+7,Sample-7,Mymensing,Mymensing,Non-drainage,Communal Pond/River,1-Dec,December,ORF1ab,36.12,1807.308,1084384.8,100
+8,Sample-8,Sylhet,Sylhet,Drainage,Isolation Center Drain Effluent,2-Dec,December,ORF1ab,37.21,1033.2833,619969.98,150
+9,Sample-9,Sylhet,Sylhet,Drainage,Sadar Hospital Drain Effluent,2-Dec,December,ORF1ab,41.67,192.91,125676.8,150
+10,Sample-10,Sylhet,Sylhet,Non-drainage,Market Place,2-Dec,December,ORF1ab,34.13,5606.417,3363850.2,150
+11,Sample-11,Sylhet,Sylhet,Non-drainage,Bus Stand/ Rail station ,2-Dec,December,ORF1ab,41.77,194.65,134508.9,150
+12,Sample-12,Sylhet,Sylhet,Drainage,City Drain Effluent,2-Dec,December,ORF1ab,29.56,63100,37860000,150
+13,Sample-13,Sylhet,Sylhet,Non-drainage,Communal Pond/River,2-Dec,December,ORF1ab,38.81,509.6513,305790.78,150
+14,Sample-14,Rajshahi,Rajshahi,Drainage,Isolation Center Drain Effluent,3-Dec,December,ORF1ab,36.49,1100.941,660564.6,300
+15,Sample-15,Rajshahi,Rajshahi,Drainage,Sadar Hospital Drain Effluent,3-Dec,December,ORF1ab,38.2,709.286,425571.6,300
+16,Sample-16,Rajshahi,Rajshahi,Non-drainage,Market Place,3-Dec,December,ORF1ab,37.03,1092.1919,655315.14,300
+17,Sample-17,Rajshahi,Rajshahi,Non-drainage,Bus Stand/ Rail station ,3-Dec,December,ORF1ab,38.95,463.8335,278300.1,300
+18,Sample-18,Rajshahi,Rajshahi,Drainage,City Drain Effluent,3-Dec,December,ORF1ab,41.76,122.47,105881.1,300
+19,Sample-19,Rajshahi,Rajshahi,Non-drainage,Communal Pond/River,3-Dec,December,ORF1ab,35.5,2990.95,1794570,300
+20,Sample-20,Rangpur,Rangpur,Drainage,Isolation Center Drain Effluent,4-Dec,December,ORF1ab,36.05,1940.945,1164567,120
+21,Sample-21,Rangpur,Rangpur,Drainage,Sadar Hospital Drain Effluent,4-Dec,December,ORF1ab,37.65,889.2845,533570.7,120
+22,Sample-22,Rangpur,Rangpur,Non-drainage,Market Place,4-Dec,December,ORF1ab,32.91,12850,7710000,120
+23,Sample-23,Rangpur,Rangpur,Non-drainage,Bus Stand/ Rail station ,4-Dec,December,ORF1ab,34.75,4422.775,2653665,120
+24,Sample-24,Rangpur,Rangpur,Drainage,City Drain Effluent,4-Dec,December,ORF1ab,27.15,99250,59550000,120
+25,Sample-25,Rangpur,Rangpur,Non-drainage,Communal Pond/River,4-Dec,December,ORF1ab,39.04,434.3792,260627.52,120
+26,Sample-26,Gaibandha,Rangpur,Drainage,Isolation Center Drain Effluent,5-Dec,December,ORF1ab,41.9,111.15,144372.8,145
+27,Sample-27,Gaibandha,Rangpur,Drainage,Sadar Hospital Drain Effluent,5-Dec,December,ORF1ab,32.08,25300,15180000,145
+28,Sample-28,Gaibandha,Rangpur,Non-drainage,Market Place,5-Dec,December,ORF1ab,30.69,46150,27690000,145
+29,Sample-29,Gaibandha,Rangpur,Non-drainage,Communal Pond/River,5-Dec,December,ORF1ab,34.48,4938.232,2962939.2,145
+30,Sample-30,Gaibandha,Rangpur,Drainage,City Drain Effluent,5-Dec,December,ORF1ab,34.48,4938.232,2962939.2,145
+31,Sample-31,Gaibandha,Rangpur,Non-drainage,Bus Stand/ Rail station ,5-Dec,December,ORF1ab,41.85,152.1,110678.4,145
+32,Sample-32,Dhaka,Dhaka,Drainage,Mohammadpur 1,6-Dec,December,ORF1ab,36.08,1883.672,1130203.2,210
+33,Sample-33,Dhaka,Dhaka,Drainage,Mohammadpur 2,6-Dec,December,ORF1ab,41.77,111.15,105881.1,210
+34,Sample-34,Dhaka,Dhaka,Drainage,Mohammadpur 3,6-Dec,December,ORF1ab,34.43,5033.687,3020212.2,210
+35,Sample-35,Dhaka,Dhaka,Drainage,City Drain Effluent,6-Dec,December,ORF1ab,41.67,104.25,121523.8,210
+36,Sample-36,Dhaka,Dhaka,Drainage,Mirpur Slum 2,6-Dec,December,ORF1ab,36.66,1213.2818,727969.08,210
+37,Sample-37,Dhaka,Dhaka,Drainage,Mirpur Slum 3,6-Dec,December,ORF1ab,41.63,192.91,120303.9,210
+38,Sample-38,Dhaka,Dhaka,Drainage,korail slum 1,6-Dec,December,ORF1ab,37.58,912.1934,547316.04,210
+39,Sample-39,Dhaka,Dhaka,Drainage,korail slum 2,6-Dec,December,ORF1ab,41.62,152.1,110678.4,210
+40,Sample-40,Dhaka,Dhaka,Drainage,korail slum 3,6-Dec,December,ORF1ab,37.41,967.8293,580697.58,210
+41,Sample-41,Dhaka,Dhaka,Non-drainage,Market Place,6-Dec,December,ORF1ab,41.71,162.76,134508.9,210
+42,Sample-42,Dhaka,Dhaka,Drainage,Isolation Center Drain Effluent,6-Dec,December,ORF1ab,33.34,6400,3840000,210
+43,Sample-43,Dhaka,Dhaka,Drainage,Isolation Center Drain Effluent,6-Dec,December,ORF1ab,34.37,5148.233,3088939.8,210
+44,Sample-44,Dhaka,Dhaka,Non-drainage,Communal Pond/River,6-Dec,December,ORF1ab,32.12,24700,14820000,210
+45,Sample-45,Dhaka,Dhaka,Drainage,Sadar Hospital Drain Effluent,6-Dec,December,ORF1ab,40.95,194.65,125676.8,210
+46,Sample-46,Dhaka,Dhaka,Drainage,Sadar Hospital Drain Effluent,6-Dec,December,ORF1ab,37.41,967.8293,580697.58,210
+47,Sample-47,Dhaka,Dhaka,Non-drainage,Bus Stand/ Rail station ,6-Dec,December,ORF1ab,37.61,902.3753,541425.18,210
+48,Sample-48,Dhaka,Dhaka,Drainage,kuwait Moitri Hospital,6-Dec,December,ORF1ab,41.9,122.47,111780,210
+49,Sample-49,Dhaka,Dhaka,Drainage,kuwait Moitri Hospital,6-Dec,December,ORF1ab,37.56,918.7388,551243.28,210
+50,Sample-50,Barisal,Barisal,Drainage,Isolation Center Drain Effluent,7-Dec,December,ORF1ab,33.2,8500,5100000,250
+51,Sample-51,Barisal,Barisal,Drainage,Sadar Hospital Drain Effluent,7-Dec,December,ORF1ab,37.4,971.102,582661.2,250
+52,Sample-52,Barisal,Barisal,Non-drainage,Market Place,7-Dec,December,ORF1ab,41.76,184.18,144372.8,250
+53,Sample-53,Barisal,Barisal,Non-drainage,Communal Pond/River,7-Dec,December,ORF1ab,41.77,151.88,115193.1,250
+54,Sample-54,Barisal,Barisal,Drainage,City Drain Effluent,7-Dec,December,ORF1ab,35.4,3181.86,1909116,250
+55,Sample-55,Barisal,Barisal,Non-drainage,Bus Stand/ Rail station ,7-Dec,December,ORF1ab,41.85,131.28,121523.8,250
+56,Sample-56,Chittagong,Chittagong,Drainage,Isolation Center Drain Effluent,8-Dec,December,ORF1ab,26.14,114400,68640000,275
+57,Sample-57,Chittagong,Chittagong,Drainage,Sadar Hospital Drain Effluent,8-Dec,December,ORF1ab,34.83,4270.047,2562028.2,275
+58,Sample-58,Chittagong,Chittagong,Non-drainage,Market Place,8-Dec,December,ORF1ab,32.72,15700,9420000,275
+59,Sample-59,Chittagong,Chittagong,Non-drainage,Communal Pond/River,8-Dec,December,ORF1ab,41.62,122.47,105881.1,275
+60,Sample-60,Chittagong,Chittagong,Drainage,City Drain Effluent,8-Dec,December,ORF1ab,34.43,5033.687,3020212.2,275
+61,Sample-61,Khulna,Khulna,Drainage,Isolation Center Drain Effluent,9-Dec,December,ORF1ab,34.35,5186.415,3111849,280
+62,Sample-62,Khulna,Khulna,Drainage,Sadar Hospital Drain Effluent,9-Dec,December,ORF1ab,37.33,994.0109,596406.54,280
+63,Sample-63,Khulna,Khulna,Non-drainage,Market Place,9-Dec,December,ORF1ab,34.32,5243.688,3146212.8,280
+64,Sample-64,Khulna,Khulna,Non-drainage,Communal Pond/River,9-Dec,December,ORF1ab,37.68,879.4664,527679.84,280
+65,Sample-65,Khulna,Khulna,Drainage,City Drain Effluent,9-Dec,December,ORF1ab,41.62,162.76,134508.9,280
+66,Sample-66,Cox's Bazar ,Chittagong,Drainage,Isolation Center Drain Effluent,10-Dec,December,ORF1ab,33.36,6100,3660000,180
+67,Sample-67,Cox's Bazar ,Chittagong,Drainage,Sadar Hospital Drain Effluent,10-Dec,December,ORF1ab,41.71,111.15,110678.4,180
+68,Sample-68,Cox's Bazar ,Chittagong,Non-drainage,Market Place,10-Dec,December,ORF1ab,41.76,152.1,125676.8,180
+69,Sample-69,Cox's Bazar ,Chittagong,Non-drainage,Communal Pond/River,10-Dec,December,ORF1ab,41.9,104.25,120303.9,180
+70,Sample-70,Cox's Bazar ,Chittagong,Drainage,City Drain Effluent,10-Dec,December,ORF1ab,34.32,5243.688,3146212.8,180
+71,Sample-71,Comilla,Chittagong,Drainage,Isolation Center Drain Effluent,11-Dec,December,ORF1ab,36.8,1167.464,700478.4,243
+72,Sample-72,Comilla,Chittagong,Drainage,Sadar Hospital Drain Effluent,11-Dec,December,ORF1ab,37.48,944.9204,566952.24,243
+73,Sample-73,Comilla,Chittagong,Non-drainage,Market Place,11-Dec,December,ORF1ab,41.85,192.91,144372.8,243
+74,Sample-74,Comilla,Chittagong,Non-drainage,Communal Pond/River,11-Dec,December,ORF1ab,36.62,1226.3726,735823.56,243
+75,Sample-75,Comilla,Chittagong,Drainage,City Drain Effluent,11-Dec,December,ORF1ab,37.4,971.102,582661.2,243
+76,Sample-76,Kishorgonj,Dhaka,Drainage,Isolation Center Drain Effluent,12-Dec,December,ORF1ab,41.77,194.65,121523.8,256
+77,Sample-77,Kishorgonj,Dhaka,Drainage,Sadar Hospital Drain Effluent,12-Dec,December,ORF1ab,38.4,643.832,386299.2,256
+78,Sample-78,Kishorgonj,Dhaka,Non-drainage,Market Place,12-Dec,December,ORF1ab,34.4,5090.96,3054576,256
+79,Sample-79,Kishorgonj,Dhaka,Non-drainage,Communal Pond/River,12-Dec,December,ORF1ab,38.27,686.3771,411826.26,256
+80,Sample-80,Kishorgonj,Dhaka,Drainage,City Drain Effluent,12-Dec,December,ORF1ab,39.28,355.8344,213500.64,256
+81,Sample-111,Brahmobaria,Chittagong,Drainage,Isolation Center Drain Effluent,12-Dec,December,ORF1ab,37.38,977.6474,586588.44,188
+82,Sample-112,Brahmobaria,Chittagong,Drainage,Sadar Hospital Drain Effluent,14-Dec,December,ORF1ab,37.4,971.102,582661.2,188
+83,Sample-113,Brahmobaria,Chittagong,Non-drainage,Market Place,14-Dec,December,ORF1ab,37.7,872.921,523752.6,188
+84,Sample-114,Brahmobaria,Chittagong,Non-drainage,Communal Pond/River,14-Dec,December,ORF1ab,37.96,787.8308,472698.48,188
+85,Sample-115,Brahmobaria,Chittagong,Drainage,City Drain Effluent,14-Dec,December,ORF1ab,37.79,843.4667,506080.02,188
+86,Sample-116,Habigonj,Sylhet,Drainage,Isolation Center Drain Effluent,15-Dec,December,ORF1ab,41.9,122.47,105881.1,288
+87,Sample-117,Habigonj,Sylhet,Drainage,Sadar Hospital Drain Effluent,15-Dec,December,ORF1ab,36.49,1100.941,660564.6,288
+88,Sample-118,Habigonj,Sylhet,Non-drainage,Communal Pond/River,15-Dec,December,ORF1ab,38.95,463.8335,278300.1,288
+89,Sample-119,Habigonj,Sylhet,Drainage,City Drain Effluent,15-Dec,December,ORF1ab,41.76,104.25,110678.4,288
+90,Sample-1,Mymensing,Mymensing,Drainage,Isolation Center Drain Effluent,1-Jan,January,ORF1ab,33.65,6522.785,3913671,242
+91,Sample-2,Mymensing,Mymensing,Drainage,Sadar Hospital Drain Effluent,1-Jan,January,ORF1ab,34.32,5243.688,3146212.8,242
+92,Sample-3,Mymensing,Mymensing,Drainage,Medical College Drain Wastage,1-Jan,January,ORF1ab,36.35,1368.215,820929,242
+93,Sample-4,Mymensing,Mymensing,Non-drainage,Market Place,1-Jan,January,ORF1ab,41.85,111.15,144372.8,242
+94,Sample-5,Mymensing,Mymensing,Drainage,City Drain Effluent,1-Jan,January,ORF1ab,35.7,152.1,91260,242
+95,Sample-6,Mymensing,Mymensing,Non-drainage,Bus Stand/ Rail station ,1-Jan,January,ORF1ab,35.44,3105.496,1863297.6,242
+96,Sample-7,Mymensing,Mymensing,Non-drainage,Communal Pond/River,1-Jan,January,ORF1ab,37.46,951.4658,570879.48,242
+97,Sample-8,Sylhet,Sylhet,Drainage,Isolation Center Drain Effluent,2-Jan,January,ORF1ab,35.53,1583.0969,949858.14,292
+98,Sample-9,Sylhet,Sylhet,Drainage,Sadar Hospital Drain Effluent,2-Jan,January,ORF1ab,37.37,980.9201,588552.06,292
+99,Sample-10,Sylhet,Sylhet,Non-drainage,Market Place,2-Jan,January,ORF1ab,35.34,3296.406,1977843.6,292
+100,Sample-11,Sylhet,Sylhet,Non-drainage,Bus Stand/ Rail station ,2-Jan,January,ORF1ab,37.23,1026.7379,616042.74,292
+101,Sample-12,Sylhet,Sylhet,Drainage,City Drain Effluent,2-Jan,January,ORF1ab,37.22,1030.0106,618006.36,292
+102,Sample-13,Sylhet,Sylhet,Non-drainage,Communal Pond/River,2-Jan,January,ORF1ab,36.53,1255.8269,753496.14,292
+103,Sample-14,Rajshahi,Rajshahi,Drainage,Isolation Center Drain Effluent,3-Jan,January,ORF1ab,35.44,3105.496,1863297.6,442
+104,Sample-15,Rajshahi,Rajshahi,Drainage,Sadar Hospital Drain Effluent,3-Jan,January,ORF1ab,36.42,1234.578,740746.8,442
+105,Sample-16,Rajshahi,Rajshahi,Non-drainage,Market Place,3-Jan,January,ORF1ab,37.76,853.2848,511970.88,442
+106,Sample-17,Rajshahi,Rajshahi,Non-drainage,Bus Stand/ Rail station ,3-Jan,January,ORF1ab,41.77,192.91,105881.1,442
+107,Sample-18,Rajshahi,Rajshahi,Drainage,City Drain Effluent,3-Jan,January,ORF1ab,38.39,647.1047,388262.82,442
+108,Sample-19,Rajshahi,Rajshahi,Non-drainage,Communal Pond/River,3-Jan,January,ORF1ab,36.42,1234.578,740746.8,442
+109,Sample-20,Rangpur,Rangpur,Drainage,Isolation Center Drain Effluent,4-Jan,January,ORF1ab,39.33,339.4709,203682.54,262
+110,Sample-21,Rangpur,Rangpur,Drainage,Sadar Hospital Drain Effluent,4-Jan,January,ORF1ab,39.73,208.5629,125137.74,262
+111,Sample-22,Rangpur,Rangpur,Non-drainage,Market Place,4-Jan,January,ORF1ab,36.12,1807.308,1084384.8,262
+112,Sample-23,Rangpur,Rangpur,Non-drainage,Bus Stand/ Rail station ,4-Jan,January,ORF1ab,41.9,111.15,110678.4,262
+113,Sample-24,Rangpur,Rangpur,Drainage,City Drain Effluent,4-Jan,January,ORF1ab,38.73,535.8329,321499.74,262
+114,Sample-25,Rangpur,Rangpur,Non-drainage,Communal Pond/River,4-Jan,January,ORF1ab,41.76,184.18,121523.8,262
+115,Sample-26,Gaibandha,Rangpur,Drainage,Isolation Center Drain Effluent,5-Jan,January,ORF1ab,36.83,1157.6459,694587.54,287
+116,Sample-27,Gaibandha,Rangpur,Drainage,Sadar Hospital Drain Effluent,5-Jan,January,ORF1ab,36.81,1164.1913,698514.78,287
+117,Sample-28,Gaibandha,Rangpur,Non-drainage,Market Place,5-Jan,January,ORF1ab,41.71,194.65,120303.9,287
+118,Sample-29,Gaibandha,Rangpur,Non-drainage,Communal Pond/River,5-Jan,January,ORF1ab,38,774.74,464844,287
+119,Sample-30,Gaibandha,Rangpur,Drainage,City Drain Effluent,5-Jan,January,ORF1ab,38.32,670.0136,402008.16,287
+120,Sample-31,Gaibandha,Rangpur,Non-drainage,Bus Stand/ Rail station ,5-Jan,January,ORF1ab,41.85,152.1,134508.9,287
+121,Sample-32,Dhaka,Dhaka,Drainage,Mohammadpur 1,6-Jan,January,ORF1ab,35.32,3334.588,2000752.8,352
+122,Sample-33,Dhaka,Dhaka,Drainage,Mohammadpur 2,6-Jan,January,ORF1ab,36.6,1232.918,739750.8,352
+123,Sample-34,Dhaka,Dhaka,Drainage,Mohammadpur 3,6-Jan,January,ORF1ab,36.54,1252.5542,751532.52,352
+124,Sample-35,Dhaka,Dhaka,Drainage,City Drain Effluent,6-Jan,January,ORF1ab,41.62,131.28,144372.8,352
+125,Sample-36,Dhaka,Dhaka,Drainage,Mirpur Slum 2,6-Jan,January,ORF1ab,35.22,3525.498,2115298.8,352
+126,Sample-37,Dhaka,Dhaka,Drainage,Mirpur Slum 3,6-Jan,January,ORF1ab,38.75,529.2875,317572.5,352
+127,Sample-38,Dhaka,Dhaka,Drainage,korail slum 1,6-Jan,January,ORF1ab,41.77,162.76,110678.4,352
+128,Sample-39,Dhaka,Dhaka,Drainage,korail slum 2,6-Jan,January,ORF1ab,38.2,709.286,425571.6,352
+129,Sample-40,Dhaka,Dhaka,Drainage,korail slum 3,6-Jan,January,ORF1ab,33.76,6312.784,3787670.4,352
+130,Sample-41,Dhaka,Dhaka,Non-drainage,Market Place,6-Jan,January,ORF1ab,37.42,964.5566,578733.96,352
+131,Sample-42,Dhaka,Dhaka,Drainage,Isolation Center Drain Effluent,6-Jan,January,ORF1ab,41.62,192.91,125676.8,352
+132,Sample-43,Dhaka,Dhaka,Drainage,Isolation Center Drain Effluent,6-Jan,January,ORF1ab,41.9,111.15,105881.1,352
+133,Sample-44,Dhaka,Dhaka,Non-drainage,Communal Pond/River,6-Jan,January,ORF1ab,34.32,5243.688,3146212.8,352
+134,Sample-45,Dhaka,Dhaka,Drainage,Sadar Hospital Drain Effluent,6-Jan,January,ORF1ab,41.57,104.25,121523.8,352
+135,Sample-46,Dhaka,Dhaka,Drainage,Sadar Hospital Drain Effluent,6-Jan,January,ORF1ab,41.76,122.47,111780,352
+136,Sample-47,Dhaka,Dhaka,Non-drainage,Bus Stand/ Rail station ,6-Jan,January,ORF1ab,41.71,151.88,134508.9,352
+137,Sample-48,Dhaka,Dhaka,Drainage,kuwait Moitri Hospital,6-Jan,January,ORF1ab,33.33,6550,3930000,352
+138,Sample-49,Dhaka,Dhaka,Drainage,kuwait Moitri Hospital,6-Jan,January,ORF1ab,41.62,131.28,115193.1,352
+139,Sample-50,Barisal,Barisal,Drainage,Isolation Center Drain Effluent,7-Jan,January,ORF1ab,37.23,1026.7379,616042.74,392
+140,Sample-51,Barisal,Barisal,Drainage,Sadar Hospital Drain Effluent,7-Jan,January,ORF1ab,37.32,997.2836,598370.16,392
+141,Sample-52,Barisal,Barisal,Non-drainage,Market Place,7-Jan,January,ORF1ab,41.85,2895.495,1737297,392
+142,Sample-53,Barisal,Barisal,Non-drainage,Communal Pond/River,7-Jan,January,ORF1ab,35.7,2609.13,1565478,392
+143,Sample-54,Barisal,Barisal,Drainage,City Drain Effluent,7-Jan,January,ORF1ab,38.4,643.832,386299.2,392
+144,Sample-55,Barisal,Barisal,Non-drainage,Bus Stand/ Rail station ,7-Jan,January,ORF1ab,34.5,4900.05,2940030,392
+145,Sample-56,Chittagong,Chittagong,Drainage,Isolation Center Drain Effluent,8-Jan,January,ORF1ab,35.4,3181.86,1909116,417
+146,Sample-57,Chittagong,Chittagong,Drainage,Sadar Hospital Drain Effluent,8-Jan,January,ORF1ab,32.75,194.65,120303.9,417
+147,Sample-58,Chittagong,Chittagong,Non-drainage,Market Place,8-Jan,January,ORF1ab,41.71,184.18,110678.4,417
+148,Sample-59,Chittagong,Chittagong,Non-drainage,Communal Pond/River,8-Jan,January,ORF1ab,37.5,938.375,563025,417
+149,Sample-60,Chittagong,Chittagong,Drainage,City Drain Effluent,8-Jan,January,ORF1ab,41.77,131.28,125676.8,417
+150,Sample-61,Khulna,Khulna,Drainage,Isolation Center Drain Effluent,9-Jan,January,ORF1ab,35.55,2895.495,1737297,422
+151,Sample-62,Khulna,Khulna,Drainage,Sadar Hospital Drain Effluent,9-Jan,January,ORF1ab,41.9,192.91,144372.8,422
+152,Sample-63,Khulna,Khulna,Non-drainage,Market Place,9-Jan,January,ORF1ab,35.42,3143.678,1886206.8,422
+153,Sample-64,Khulna,Khulna,Non-drainage,Communal Pond/River,9-Jan,January,ORF1ab,36.73,1190.3729,714223.74,422
+154,Sample-65,Khulna,Khulna,Drainage,City Drain Effluent,9-Jan,January,ORF1ab,39.6,251.108,150664.8,422
+155,Sample-66,Cox's Bazar ,Chittagong,Drainage,Isolation Center Drain Effluent,10-Jan,January,ORF1ab,32.12,24700,14820000,322
+156,Sample-67,Cox's Bazar ,Chittagong,Drainage,Sadar Hospital Drain Effluent,10-Jan,January,ORF1ab,41.71,111.15,105881.1,322
+157,Sample-68,Cox's Bazar ,Chittagong,Non-drainage,Market Place,10-Jan,January,ORF1ab,35.65,2704.585,1622751,322
+158,Sample-69,Cox's Bazar ,Chittagong,Non-drainage,Communal Pond/River,10-Jan,January,ORF1ab,41.76,152.1,111780,322
+159,Sample-70,Cox's Bazar ,Chittagong,Drainage,City Drain Effluent,10-Jan,January,ORF1ab,32.21,23350,14010000,322
+160,Sample-71,Comilla,Chittagong,Drainage,Isolation Center Drain Effluent,11-Jan,January,ORF1ab,36.23,1597.307,958384.2,385
+161,Sample-72,Comilla,Chittagong,Drainage,Sadar Hospital Drain Effluent,11-Jan,January,ORF1ab,41.57,104.25,121523.8,385
+162,Sample-73,Comilla,Chittagong,Non-drainage,Market Place,11-Jan,January,ORF1ab,38.74,532.5602,319536.12,385
+163,Sample-74,Comilla,Chittagong,Non-drainage,Communal Pond/River,11-Jan,January,ORF1ab,39.45,300.1985,180119.1,385
+164,Sample-75,Comilla,Chittagong,Drainage,City Drain Effluent,11-Jan,January,ORF1ab,41.76,162.76,110678.4,385
+165,Sample-76,Kishorgonj,Dhaka,Drainage,Isolation Center Drain Effluent,12-Jan,January,ORF1ab,39.65,234.7445,140846.7,398
+166,Sample-77,Kishorgonj,Dhaka,Drainage,Sadar Hospital Drain Effluent,12-Jan,January,ORF1ab,40.95,122.47,134508.9,398
+167,Sample-78,Kishorgonj,Dhaka,Non-drainage,Market Place,12-Jan,January,ORF1ab,38.65,562.0145,337208.7,398
+168,Sample-79,Kishorgonj,Dhaka,Non-drainage,Communal Pond/River,12-Jan,January,ORF1ab,36.85,1151.1005,690660.3,398
+169,Sample-80,Kishorgonj,Dhaka,Drainage,City Drain Effluent,12-Jan,January,ORF1ab,41.85,184.18,125676.8,398
+170,Sample-111,Brahmobaria,Chittagong,Drainage,Isolation Center Drain Effluent,12-Jan,January,ORF1ab,33.64,6541.876,3925125.6,330
+171,Sample-112,Brahmobaria,Chittagong,Drainage,Sadar Hospital Drain Effluent,14-Jan,January,ORF1ab,38.5,611.105,366663,330
+172,Sample-113,Brahmobaria,Chittagong,Non-drainage,Market Place,14-Jan,January,ORF1ab,35.87,2284.583,1370749.8,330
+173,Sample-114,Brahmobaria,Chittagong,Non-drainage,Communal Pond/River,14-Jan,January,ORF1ab,41.77,194.65,105881.1,330
+174,Sample-115,Brahmobaria,Chittagong,Drainage,City Drain Effluent,14-Jan,January,ORF1ab,37.79,843.4667,506080.02,330
+175,Sample-116,Habigonj,Sylhet,Drainage,Isolation Center Drain Effluent,15-Jan,January,ORF1ab,33.53,6751.877,4051126.2,430
+176,Sample-117,Habigonj,Sylhet,Drainage,Sadar Hospital Drain Effluent,15-Jan,January,ORF1ab,33.32,111.15,144372.8,430
+177,Sample-118,Habigonj,Sylhet,Non-drainage,Communal Pond/River,15-Jan,January,ORF1ab,41.9,106.61,120303.9,430
+178,Sample-119,Habigonj,Sylhet,Drainage,City Drain Effluent,15-Jan,January,ORF1ab,33.9,6045.51,3627306,430
+179,Sample-1,Mymensing,Mymensing,Drainage,Isolation Center Drain Effluent,1-Dec,December,N,34.35,5186.415,3111849,100
+180,Sample-2,Mymensing,Mymensing,Drainage,Sadar Hospital Drain Effluent,1-Dec,December,N,35.47,3048.223,1828933.8,100
+181,Sample-3,Mymensing,Mymensing,Drainage,Medical College Drain Wastage,1-Dec,December,N,34.1,5663.69,3398214,100
+182,Sample-4,Mymensing,Mymensing,Non-drainage,Market Place,1-Dec,December,N,41.57,152.1,121523.8,100
+183,Sample-5,Mymensing,Mymensing,Drainage,City Drain Effluent,1-Dec,December,N,41.51,151.88,110678.4,100
+184,Sample-6,Mymensing,Mymensing,Non-drainage,Bus Stand/ Rail station ,1-Dec,December,N,37.92,800.9216,480552.96,100
+185,Sample-7,Mymensing,Mymensing,Non-drainage,Communal Pond/River,1-Dec,December,N,41.71,122.47,115193.1,100
+186,Sample-8,Sylhet,Sylhet,Drainage,Isolation Center Drain Effluent,2-Dec,December,N,41.77,140.22,125676.8,150
+187,Sample-9,Sylhet,Sylhet,Drainage,Sadar Hospital Drain Effluent,2-Dec,December,N,37.36,984.1928,590515.68,150
+188,Sample-10,Sylhet,Sylhet,Non-drainage,Market Place,2-Dec,December,N,36.54,1252.5542,751532.52,150
+189,Sample-11,Sylhet,Sylhet,Non-drainage,Bus Stand/ Rail station ,2-Dec,December,N,34.72,4480.048,2688028.8,150
+190,Sample-12,Sylhet,Sylhet,Drainage,City Drain Effluent,2-Dec,December,N,41.51,104.25,111780,150
+191,Sample-13,Sylhet,Sylhet,Non-drainage,Communal Pond/River,2-Dec,December,N,41,162.76,134508.9,150
+192,Sample-14,Rajshahi,Rajshahi,Drainage,Isolation Center Drain Effluent,3-Dec,December,N,41.85,192.91,119331.2,300
+193,Sample-15,Rajshahi,Rajshahi,Drainage,Sadar Hospital Drain Effluent,3-Dec,December,N,36.4,1272.76,763656,300
+194,Sample-16,Rajshahi,Rajshahi,Non-drainage,Market Place,3-Dec,December,N,41.9,106.61,105881.1,300
+195,Sample-17,Rajshahi,Rajshahi,Non-drainage,Bus Stand/ Rail station ,3-Dec,December,N,34.43,5033.687,3020212.2,300
+196,Sample-18,Rajshahi,Rajshahi,Drainage,City Drain Effluent,3-Dec,December,N,41.76,140.22,144372.8,300
+197,Sample-19,Rajshahi,Rajshahi,Non-drainage,Communal Pond/River,3-Dec,December,N,33.17,8950,5370000,300
+198,Sample-20,Rangpur,Rangpur,Drainage,Isolation Center Drain Effluent,4-Dec,December,N,29.5,64000,38400000,120
+199,Sample-21,Rangpur,Rangpur,Drainage,Sadar Hospital Drain Effluent,4-Dec,December,N,40.95,184.18,120303.9,120
+200,Sample-22,Rangpur,Rangpur,Non-drainage,Market Place,4-Dec,December,N,37.6,905.648,543388.8,120
+201,Sample-23,Rangpur,Rangpur,Non-drainage,Bus Stand/ Rail station ,4-Dec,December,N,34.41,5071.869,3043121.4,120
+202,Sample-24,Rangpur,Rangpur,Drainage,City Drain Effluent,4-Dec,December,N,41.51,111.15,125676.8,120
+203,Sample-25,Rangpur,Rangpur,Non-drainage,Communal Pond/River,4-Dec,December,N,41.71,194.65,110678.4,120
+204,Sample-26,Gaibandha,Rangpur,Drainage,Isolation Center Drain Effluent,5-Dec,December,N,34.48,4938.232,2962939.2,145
+205,Sample-27,Gaibandha,Rangpur,Drainage,Sadar Hospital Drain Effluent,5-Dec,December,N,36.8,1167.464,700478.4,145
+206,Sample-28,Gaibandha,Rangpur,Non-drainage,Market Place,5-Dec,December,N,30.72,45700,27420000,145
+207,Sample-29,Gaibandha,Rangpur,Non-drainage,Communal Pond/River,5-Dec,December,N,41.77,152.1,121523.8,145
+208,Sample-30,Gaibandha,Rangpur,Drainage,City Drain Effluent,5-Dec,December,N,37.4,971.102,582661.2,145
+209,Sample-31,Gaibandha,Rangpur,Non-drainage,Bus Stand/ Rail station ,5-Dec,December,N,37.23,1026.7379,616042.74,145
+210,Sample-32,Dhaka,Dhaka,Drainage,Mohammadpur 1,6-Dec,December,N,34.12,5625.508,3375304.8,210
+211,Sample-33,Dhaka,Dhaka,Drainage,Mohammadpur 2,6-Dec,December,N,37.42,964.5566,578733.96,210
+212,Sample-34,Dhaka,Dhaka,Drainage,Mohammadpur 3,6-Dec,December,N,37.41,967.8293,580697.58,210
+213,Sample-35,Dhaka,Dhaka,Drainage,City Drain Effluent,6-Dec,December,N,37.48,944.9204,566952.24,210
+214,Sample-36,Dhaka,Dhaka,Drainage,Mirpur Slum 2,6-Dec,December,N,35.44,3105.496,1863297.6,210
+215,Sample-37,Dhaka,Dhaka,Drainage,Mirpur Slum 3,6-Dec,December,N,41.9,192.91,105881.1,210
+216,Sample-38,Dhaka,Dhaka,Drainage,korail slum 1,6-Dec,December,N,37.42,964.5566,578733.96,210
+217,Sample-39,Dhaka,Dhaka,Drainage,korail slum 2,6-Dec,December,N,37.42,964.5566,578733.96,210
+218,Sample-40,Dhaka,Dhaka,Drainage,korail slum 3,6-Dec,December,N,34.42,5052.778,3031666.8,210
+219,Sample-41,Dhaka,Dhaka,Non-drainage,Market Place,6-Dec,December,N,35.42,3143.678,1886206.8,210
+220,Sample-42,Dhaka,Dhaka,Drainage,Isolation Center Drain Effluent,6-Dec,December,N,36.37,1330.033,798019.8,210
+221,Sample-43,Dhaka,Dhaka,Drainage,Isolation Center Drain Effluent,6-Dec,December,N,41.85,104.25,144372.8,210
+222,Sample-44,Dhaka,Dhaka,Non-drainage,Communal Pond/River,6-Dec,December,N,37.24,1023.4652,614079.12,210
+223,Sample-45,Dhaka,Dhaka,Drainage,Sadar Hospital Drain Effluent,6-Dec,December,N,33.11,7553.699,4532219.4,210
+224,Sample-46,Dhaka,Dhaka,Drainage,Sadar Hospital Drain Effluent,6-Dec,December,N,36.44,1196.396,717837.6,210
+225,Sample-47,Dhaka,Dhaka,Non-drainage,Bus Stand/ Rail station ,6-Dec,December,N,36.45,1177.305,706383,210
+226,Sample-48,Dhaka,Dhaka,Drainage,kuwait Moitri Hospital,6-Dec,December,N,33.37,7057.333,4234399.8,210
+227,Sample-49,Dhaka,Dhaka,Drainage,kuwait Moitri Hospital,6-Dec,December,N,36.2,1654.58,992748,210
+228,Sample-50,Barisal,Barisal,Drainage,Isolation Center Drain Effluent,7-Dec,December,N,32.6,162.76,125676.8,250
+229,Sample-51,Barisal,Barisal,Drainage,Sadar Hospital Drain Effluent,7-Dec,December,N,35.21,3544.589,2126753.4,250
+230,Sample-52,Barisal,Barisal,Non-drainage,Market Place,7-Dec,December,N,32.45,19750,11850000,250
+231,Sample-53,Barisal,Barisal,Non-drainage,Communal Pond/River,7-Dec,December,N,36.34,1387.306,832383.6,250
+232,Sample-54,Barisal,Barisal,Drainage,City Drain Effluent,7-Dec,December,N,32.14,24400,14640000,250
+233,Sample-55,Barisal,Barisal,Non-drainage,Bus Stand/ Rail station ,7-Dec,December,N,41.77,122.47,120303.9,250
+234,Sample-56,Chittagong,Chittagong,Drainage,Isolation Center Drain Effluent,8-Dec,December,N,26.28,112300,67380000,275
+235,Sample-57,Chittagong,Chittagong,Drainage,Sadar Hospital Drain Effluent,8-Dec,December,N,41.85,194.65,110678.4,275
+236,Sample-58,Chittagong,Chittagong,Non-drainage,Market Place,8-Dec,December,N,41.9,184.18,105881.1,275
+237,Sample-59,Chittagong,Chittagong,Non-drainage,Communal Pond/River,8-Dec,December,N,34.62,4670.958,2802574.8,275
+238,Sample-60,Chittagong,Chittagong,Drainage,City Drain Effluent,8-Dec,December,N,37.11,1066.0103,639606.18,275
+239,Sample-61,Khulna,Khulna,Drainage,Isolation Center Drain Effluent,9-Dec,December,N,35.17,3620.953,2172571.8,280
+240,Sample-62,Khulna,Khulna,Drainage,Sadar Hospital Drain Effluent,9-Dec,December,N,38.75,529.2875,317572.5,280
+241,Sample-63,Khulna,Khulna,Non-drainage,Market Place,9-Dec,December,N,40.95,152.1,134508.9,280
+242,Sample-64,Khulna,Khulna,Non-drainage,Communal Pond/River,9-Dec,December,N,41.76,151.88,144372.8,280
+243,Sample-65,Khulna,Khulna,Drainage,City Drain Effluent,9-Dec,December,N,36.2,1654.58,992748,280
+244,Sample-66,Cox's Bazar ,Chittagong,Drainage,Isolation Center Drain Effluent,10-Dec,December,N,37.4,971.102,582661.2,180
+245,Sample-67,Cox's Bazar ,Chittagong,Drainage,Sadar Hospital Drain Effluent,10-Dec,December,N,37.48,944.9204,566952.24,180
+246,Sample-68,Cox's Bazar ,Chittagong,Non-drainage,Market Place,10-Dec,December,N,41.14,104.25,125676.8,180
+247,Sample-69,Cox's Bazar ,Chittagong,Non-drainage,Communal Pond/River,10-Dec,December,N,37.8,840.194,504116.4,180
+248,Sample-70,Cox's Bazar ,Chittagong,Drainage,City Drain Effluent,10-Dec,December,N,41.71,140.22,121523.8,180
+249,Sample-71,Comilla,Chittagong,Drainage,Isolation Center Drain Effluent,11-Dec,December,N,41.85,192.91,111780,243
+250,Sample-72,Comilla,Chittagong,Drainage,Sadar Hospital Drain Effluent,11-Dec,December,N,35.56,2876.404,1725842.4,243
+251,Sample-73,Comilla,Chittagong,Non-drainage,Market Place,11-Dec,December,N,37.48,944.9204,566952.24,243
+252,Sample-74,Comilla,Chittagong,Non-drainage,Communal Pond/River,11-Dec,December,N,41.77,162.76,115193.1,243
+253,Sample-75,Comilla,Chittagong,Drainage,City Drain Effluent,11-Dec,December,N,39.48,290.3804,174228.24,243
+254,Sample-76,Kishorgonj,Dhaka,Drainage,Isolation Center Drain Effluent,12-Dec,December,N,36.48,1120.032,672019.2,256
+255,Sample-77,Kishorgonj,Dhaka,Drainage,Sadar Hospital Drain Effluent,12-Dec,December,N,41.14,122.47,119331.2,256
+256,Sample-78,Kishorgonj,Dhaka,Non-drainage,Market Place,12-Dec,December,N,41.13,131.28,120303.9,256
+257,Sample-79,Kishorgonj,Dhaka,Non-drainage,Communal Pond/River,12-Dec,December,N,41.9,106.61,110678.4,256
+258,Sample-80,Kishorgonj,Dhaka,Drainage,City Drain Effluent,12-Dec,December,N,41.13,200,120000,256
+259,Sample-111,Brahmobaria,Chittagong,Drainage,Isolation Center Drain Effluent,12-Dec,December,N,41.11,140.22,105881.1,188
+260,Sample-112,Brahmobaria,Chittagong,Drainage,Sadar Hospital Drain Effluent,14-Dec,December,N,32.34,2627.0882,1576252.92,188
+261,Sample-113,Brahmobaria,Chittagong,Non-drainage,Market Place,14-Dec,December,N,41.76,194.65,121523.8,188
+262,Sample-114,Brahmobaria,Chittagong,Non-drainage,Communal Pond/River,14-Dec,December,N,41.71,184.18,134508.9,188
+263,Sample-115,Brahmobaria,Chittagong,Drainage,City Drain Effluent,14-Dec,December,N,36.69,1203.4637,722078.22,188
+264,Sample-116,Habigonj,Sylhet,Drainage,Isolation Center Drain Effluent,15-Dec,December,N,41.77,152.1,125676.8,288
+265,Sample-117,Habigonj,Sylhet,Drainage,Sadar Hospital Drain Effluent,15-Dec,December,N,34.12,5625.508,3375304.8,288
+266,Sample-118,Habigonj,Sylhet,Non-drainage,Communal Pond/River,15-Dec,December,N,41.85,111.15,144372.8,288
+267,Sample-119,Habigonj,Sylhet,Drainage,City Drain Effluent,15-Dec,December,N,38.4,643.832,386299.2,288
+268,Sample-1,Mymensing,Mymensing,Drainage,Isolation Center Drain Effluent,1-Jan,January,N,32.13,24550,14730000,242
+269,Sample-2,Mymensing,Mymensing,Drainage,Sadar Hospital Drain Effluent,1-Jan,January,N,33.67,6484.603,3890761.8,242
+270,Sample-3,Mymensing,Mymensing,Drainage,Medical College Drain Wastage,1-Jan,January,N,33.68,6465.512,3879307.2,242
+271,Sample-4,Mymensing,Mymensing,Non-drainage,Market Place,1-Jan,January,N,37.44,958.0112,574806.72,242
+272,Sample-5,Mymensing,Mymensing,Drainage,City Drain Effluent,1-Jan,January,N,37.33,994.0109,596406.54,242
+273,Sample-6,Mymensing,Mymensing,Non-drainage,Bus Stand/ Rail station ,1-Jan,January,N,36.22,1616.398,969838.8,242
+274,Sample-7,Mymensing,Mymensing,Non-drainage,Communal Pond/River,1-Jan,January,N,35.45,3086.405,1851843,242
+275,Sample-8,Sylhet,Sylhet,Drainage,Isolation Center Drain Effluent,2-Jan,January,N,35.64,2723.676,1634205.6,292
+276,Sample-9,Sylhet,Sylhet,Drainage,Sadar Hospital Drain Effluent,2-Jan,January,N,36.34,1387.306,832383.6,292
+277,Sample-10,Sylhet,Sylhet,Non-drainage,Market Place,2-Jan,January,N,37.32,997.2836,598370.16,292
+278,Sample-11,Sylhet,Sylhet,Non-drainage,Bus Stand/ Rail station ,2-Jan,January,N,36.34,1387.306,832383.6,292
+279,Sample-12,Sylhet,Sylhet,Drainage,City Drain Effluent,2-Jan,January,N,38.42,637.2866,382371.96,292
+280,Sample-13,Sylhet,Sylhet,Non-drainage,Communal Pond/River,2-Jan,January,N,41.9,104.25,144372.8,292
+281,Sample-14,Rajshahi,Rajshahi,Drainage,Isolation Center Drain Effluent,3-Jan,January,N,37.84,827.1032,496261.92,442
+282,Sample-15,Rajshahi,Rajshahi,Drainage,Sadar Hospital Drain Effluent,3-Jan,January,N,39.23,372.1979,223318.74,442
+283,Sample-16,Rajshahi,Rajshahi,Non-drainage,Market Place,3-Jan,January,N,36.32,1324.5536,794732.16,442
+284,Sample-17,Rajshahi,Rajshahi,Non-drainage,Bus Stand/ Rail station ,3-Jan,January,N,38.64,565.2872,339172.32,442
+285,Sample-18,Rajshahi,Rajshahi,Drainage,City Drain Effluent,3-Jan,January,N,41.85,162.76,110678.4,442
+286,Sample-19,Rajshahi,Rajshahi,Non-drainage,Communal Pond/River,3-Jan,January,N,41.11,192.91,105881.1,442
+287,Sample-20,Rangpur,Rangpur,Drainage,Isolation Center Drain Effluent,4-Jan,January,N,37.82,833.6486,500189.16,262
+288,Sample-21,Rangpur,Rangpur,Drainage,Sadar Hospital Drain Effluent,4-Jan,January,N,41.71,194.65,121523.8,262
+289,Sample-22,Rangpur,Rangpur,Non-drainage,Market Place,4-Jan,January,N,36.38,1304.9174,782950.44,262
+290,Sample-23,Rangpur,Rangpur,Non-drainage,Bus Stand/ Rail station ,4-Jan,January,N,37.19,1039.8287,623897.22,262
+291,Sample-24,Rangpur,Rangpur,Drainage,City Drain Effluent,4-Jan,January,N,39.33,339.4709,203682.54,262
+292,Sample-25,Rangpur,Rangpur,Non-drainage,Communal Pond/River,4-Jan,January,N,41.76,122.47,125676.8,262
+293,Sample-26,Gaibandha,Rangpur,Drainage,Isolation Center Drain Effluent,5-Jan,January,N,37.36,984.1928,590515.68,287
+294,Sample-27,Gaibandha,Rangpur,Drainage,Sadar Hospital Drain Effluent,5-Jan,January,N,37.36,984.1928,590515.68,287
+295,Sample-28,Gaibandha,Rangpur,Non-drainage,Market Place,5-Jan,January,N,36.38,1304.9174,782950.44,287
+296,Sample-29,Gaibandha,Rangpur,Non-drainage,Communal Pond/River,5-Jan,January,N,37.35,987.4655,592479.3,287
+297,Sample-30,Gaibandha,Rangpur,Drainage,City Drain Effluent,5-Jan,January,N,41.85,152.1,120303.9,287
+298,Sample-31,Gaibandha,Rangpur,Non-drainage,Bus Stand/ Rail station ,5-Jan,January,N,41.77,184.18,134508.9,287
+299,Sample-32,Dhaka,Dhaka,Drainage,Mohammadpur 1,6-Jan,January,N,41.9,162.76,105881.1,352
+300,Sample-33,Dhaka,Dhaka,Drainage,Mohammadpur 2,6-Jan,January,N,37.72,866.3756,519825.36,352
+301,Sample-34,Dhaka,Dhaka,Drainage,Mohammadpur 3,6-Jan,January,N,33.78,6274.602,3764761.2,352
+302,Sample-35,Dhaka,Dhaka,Drainage,City Drain Effluent,6-Jan,January,N,37.54,925.2842,555170.52,352
+303,Sample-36,Dhaka,Dhaka,Drainage,Mirpur Slum 2,6-Jan,January,N,40.95,151.88,144372.8,352
+304,Sample-37,Dhaka,Dhaka,Drainage,Mirpur Slum 3,6-Jan,January,N,39.32,342.7436,205646.16,352
+305,Sample-38,Dhaka,Dhaka,Drainage,korail slum 1,6-Jan,January,N,36.74,1187.1002,712260.12,352
+306,Sample-39,Dhaka,Dhaka,Drainage,korail slum 2,6-Jan,January,N,36.43,1215.487,729292.2,352
+307,Sample-40,Dhaka,Dhaka,Drainage,korail slum 3,6-Jan,January,N,40.95,106.61,110678.4,352
+308,Sample-41,Dhaka,Dhaka,Non-drainage,Market Place,6-Jan,January,N,41.11,104.25,121523.8,352
+309,Sample-42,Dhaka,Dhaka,Drainage,Isolation Center Drain Effluent,6-Jan,January,N,33.64,6541.876,3925125.6,352
+310,Sample-43,Dhaka,Dhaka,Drainage,Isolation Center Drain Effluent,6-Jan,January,N,41.76,192.91,111780,352
+311,Sample-44,Dhaka,Dhaka,Non-drainage,Communal Pond/River,6-Jan,January,N,31.31,36850,22110000,352
+312,Sample-45,Dhaka,Dhaka,Drainage,Sadar Hospital Drain Effluent,6-Jan,January,N,33.75,6331.875,3799125,352
+313,Sample-46,Dhaka,Dhaka,Drainage,Sadar Hospital Drain Effluent,6-Jan,January,N,41.71,111.15,115193.1,352
+314,Sample-47,Dhaka,Dhaka,Non-drainage,Bus Stand/ Rail station ,6-Jan,January,N,36.31,1444.579,866747.4,352
+315,Sample-48,Dhaka,Dhaka,Drainage,kuwait Moitri Hospital,6-Jan,January,N,31,41500,24900000,352
+316,Sample-49,Dhaka,Dhaka,Drainage,kuwait Moitri Hospital,6-Jan,January,N,33.51,6790.059,4074035.4,352
+317,Sample-50,Barisal,Barisal,Drainage,Isolation Center Drain Effluent,7-Jan,January,N,41.77,194.65,125676.8,392
+318,Sample-51,Barisal,Barisal,Drainage,Sadar Hospital Drain Effluent,7-Jan,January,N,35.56,2876.404,1725842.4,392
+319,Sample-52,Barisal,Barisal,Non-drainage,Market Place,7-Jan,January,N,36.7,184.18,120303.9,392
+320,Sample-53,Barisal,Barisal,Non-drainage,Communal Pond/River,7-Jan,January,N,33.22,8200,4920000,392
+321,Sample-54,Barisal,Barisal,Drainage,City Drain Effluent,7-Jan,January,N,36.7,1200.191,720114.6,392
+322,Sample-55,Barisal,Barisal,Non-drainage,Bus Stand/ Rail station ,7-Jan,January,N,34.13,5606.417,3363850.2,392
+323,Sample-56,Chittagong,Chittagong,Drainage,Isolation Center Drain Effluent,8-Jan,January,N,37,122.47,110678.4,417
+324,Sample-57,Chittagong,Chittagong,Drainage,Sadar Hospital Drain Effluent,8-Jan,January,N,38.4,162.76,105881.1,417
+325,Sample-58,Chittagong,Chittagong,Non-drainage,Market Place,8-Jan,January,N,35,3945.5,2367300,417
+326,Sample-59,Chittagong,Chittagong,Non-drainage,Communal Pond/River,8-Jan,January,N,41.9,151.88,144372.8,417
+327,Sample-60,Chittagong,Chittagong,Drainage,City Drain Effluent,8-Jan,January,N,33.21,8350,5010000,417
+328,Sample-61,Khulna,Khulna,Drainage,Isolation Center Drain Effluent,9-Jan,January,N,41.85,106.61,121523.8,422
+329,Sample-62,Khulna,Khulna,Drainage,Sadar Hospital Drain Effluent,9-Jan,January,N,34.76,4403.684,2642210.4,422
+330,Sample-63,Khulna,Khulna,Non-drainage,Market Place,9-Jan,January,N,36.5,152.1,134508.9,422
+331,Sample-64,Khulna,Khulna,Non-drainage,Communal Pond/River,9-Jan,January,N,33.37,5950,3570000,422
+332,Sample-65,Khulna,Khulna,Drainage,City Drain Effluent,9-Jan,January,N,35.71,2590.039,1554023.4,422
+333,Sample-66,Cox's Bazar ,Chittagong,Drainage,Isolation Center Drain Effluent,10-Jan,January,N,35.27,3430.043,2058025.8,322
+334,Sample-67,Cox's Bazar ,Chittagong,Drainage,Sadar Hospital Drain Effluent,10-Jan,January,N,35.21,3544.589,2126753.4,322
+335,Sample-68,Cox's Bazar ,Chittagong,Non-drainage,Market Place,10-Jan,January,N,41.71,140.22,125676.8,322
+336,Sample-69,Cox's Bazar ,Chittagong,Non-drainage,Communal Pond/River,10-Jan,January,N,35.31,3353.679,2012207.4,322
+337,Sample-70,Cox's Bazar ,Chittagong,Drainage,City Drain Effluent,10-Jan,January,N,40.95,104.25,115193.1,322
+338,Sample-71,Comilla,Chittagong,Drainage,Isolation Center Drain Effluent,11-Jan,January,N,41.76,131.28,111780,385
+339,Sample-72,Comilla,Chittagong,Drainage,Sadar Hospital Drain Effluent,11-Jan,January,N,37.4,106.61,110678.4,385
+340,Sample-73,Comilla,Chittagong,Non-drainage,Market Place,11-Jan,January,N,41.71,194.65,119331.2,385
+341,Sample-74,Comilla,Chittagong,Non-drainage,Communal Pond/River,11-Jan,January,N,41.77,192.91,120303.9,385
+342,Sample-75,Comilla,Chittagong,Drainage,City Drain Effluent,11-Jan,January,N,34.4,5090.96,3054576,385
+343,Sample-76,Kishorgonj,Dhaka,Drainage,Isolation Center Drain Effluent,12-Jan,January,N,32.32,21700,13020000,398
+344,Sample-77,Kishorgonj,Dhaka,Drainage,Sadar Hospital Drain Effluent,12-Jan,January,N,37.21,151.88,115193.1,398
+345,Sample-78,Kishorgonj,Dhaka,Non-drainage,Market Place,12-Jan,January,N,36.38,1310.942,786565.2,398
+346,Sample-79,Kishorgonj,Dhaka,Non-drainage,Communal Pond/River,12-Jan,January,N,41.76,184.18,134508.9,398
+347,Sample-80,Kishorgonj,Dhaka,Drainage,City Drain Effluent,12-Jan,January,N,36.74,122.47,120303.9,398
+348,Sample-111,Brahmobaria,Chittagong,Drainage,Isolation Center Drain Effluent,12-Jan,January,N,36.4,1272.76,763656,330
+349,Sample-112,Brahmobaria,Chittagong,Drainage,Sadar Hospital Drain Effluent,14-Jan,January,N,41.77,194.65,121523.8,330
+350,Sample-113,Brahmobaria,Chittagong,Non-drainage,Market Place,14-Jan,January,N,41.9,192.91,125676.8,330
+351,Sample-114,Brahmobaria,Chittagong,Non-drainage,Communal Pond/River,14-Jan,January,N,37.87,162.76,144372.8,330
+352,Sample-115,Brahmobaria,Chittagong,Drainage,City Drain Effluent,14-Jan,January,N,41.85,104.25,110678.4,330
+353,Sample-116,Habigonj,Sylhet,Drainage,Isolation Center Drain Effluent,15-Jan,January,N,33.44,4900,2940000,430
+354,Sample-117,Habigonj,Sylhet,Drainage,Sadar Hospital Drain Effluent,15-Jan,January,N,38.12,735.4676,441280.56,430
+355,Sample-118,Habigonj,Sylhet,Non-drainage,Communal Pond/River,15-Jan,January,N,37.63,152.1,105881.1,430
+356,Sample-119,Habigonj,Sylhet,Drainage,City Drain Effluent,15-Jan,January,N,41.9,111.15,144372.8,430

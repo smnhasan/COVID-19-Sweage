@@ -1,0 +1,55 @@
+﻿Station,Gene,Ct,,,
+Mohammadpur 1,IC,37.42,,35.32,
+Mohammadpur 2,IC,,,36.6,37.72
+Mohammadpur 3,IC,,,36.54,33.78
+Mirpur Slum 1,IC,37.6,,,37.54
+Mirpur Slum 2,IC,38.51,,35.22,
+Mirpur Slum 3,IC,35,,38.75,39.32
+korail slum 1,IC,35.65,,,36.74
+korail slum 2,IC,,,38.2,36.43
+korail slum 3,IC,39.7,,33.76,
+Kurmitola General Hospital,IC,,,37.42,
+Kurmitola General Hospital,IC,34,,,33.64
+Kurmitola General Hospital,IC,36.73,,,
+Mugdha Medical College and Hospital,IC,,,34.32,31.31
+Mugdha Medical College and Hospital,IC,31.87,,,33.75
+Mugdha Medical College and Hospital,IC,38.51,,,
+Kuwait Moitri Hospital,IC,,,,36.31
+kuwait Moitri Hospital,IC,,,33.33,31
+kuwait Moitri Hospital,IC,,,,33.51
+Mohammadpur 1,ORF1ab,35.32,,,
+Mohammadpur 2,ORF1ab,36.6,,,
+Mohammadpur 3,ORF1ab,36.54,,,
+Mirpur Slum 1,ORF1ab,,,,
+Mirpur Slum 2,ORF1ab,35.22,,,
+Mirpur Slum 3,ORF1ab,38.75,,,
+korail slum 1,ORF1ab,,,,
+korail slum 2,ORF1ab,38.2,,,
+korail slum 3,ORF1ab,33.76,,,
+Kurmitola General Hospital,ORF1ab,37.42,,,
+Kurmitola General Hospital,ORF1ab,,,,
+Kurmitola General Hospital,ORF1ab,,,,
+Mugdha Medical College and Hospital,ORF1ab,34.32,,,
+Mugdha Medical College and Hospital,ORF1ab,,,,
+Mugdha Medical College and Hospital,ORF1ab,,,,
+Kuwait Moitri Hospital,ORF1ab,,,,
+kuwait Moitri Hospital,ORF1ab,33.33,,,
+kuwait Moitri Hospital,ORF1ab,37.56,,,
+Mohammadpur 1,N,,,,
+Mohammadpur 2,N,37.72,,,
+Mohammadpur 3,N,33.78,,,
+Mirpur Slum 1,N,37.54,,,
+Mirpur Slum 2,N,,,,
+Mirpur Slum 3,N,39.32,,,
+korail slum 1,N,36.74,,,
+korail slum 2,N,36.43,,,
+korail slum 3,N,,,,
+Kurmitola General Hospital,N,,,,
+Kurmitola General Hospital,N,33.64,,,
+Kurmitola General Hospital,N,,,,
+Mugdha Medical College and Hospital,N,31.31,,,
+Mugdha Medical College and Hospital,N,33.75,,,
+Mugdha Medical College and Hospital,N,,,,
+Kuwait Moitri Hospital,N,36.31,,,
+kuwait Moitri Hospital,N,31,,,
+kuwait Moitri Hospital,N,33.51,,,
